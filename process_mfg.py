@@ -1,4 +1,7 @@
+import argparse
+import logging
 import os
+import sys
 from string import Template
 
 SCHEMA_FLAT = ["Category", "Place", "Bib", "Name", "Team name", "Age", "Year of birth", "Time"]
@@ -9,20 +12,32 @@ DEFAULT_VALUE = "-"
 IN_DELIM = "\t"
 OUT_DELIM = ","
 
-def main():
-    file_list = getFiles()
-    with open("parsed_results.csv", "w") as outF:
+def main(inFoldName, outFileName):
+    logger = logging.getLogger(__name__)
+    
+    file_list = getFiles(inFoldName)
+    with open(outFileName, "w") as outF:
         writeHeader(outF)
         for file in file_list:
             processFile(file, outF)
+        logger.info("All data written to " + outFileName)
+        
 
-def getFiles():
+def getFiles(inFoldName):
+    logger = logging.getLogger(__name__)
+    logger.info("Searching for files in " + inFoldName)
+    logger.debug("Contents:")
+    
     files = []
-    for test in os.listdir("./"):
+    for test in os.listdir(inFoldName):
+        test = os.path.join(inFoldName, test)
         if not os.path.isfile(test):
+            logger.debug(" " + test + " - Not a file")
             continue
         if test[-4:] != ".txt":
+            logger.debug(" " + test + " - Skipped (looking for .txt files)")
             continue
+        logger.debug(" " + test)
         files.append( test )
     return files
 
@@ -67,6 +82,9 @@ def writeReshapedData(outF, flatRow, schema_map):
         col = Template("Lap $lap").substitute(lap=lap)
 
 def processFile(file, outF):
+    logger = logging.getLogger(__name__)
+    logger.info("Processing " + file)
+    
     default_values ={}
     for col in SCHEMA_FLAT:
         default_values[col] = DEFAULT_VALUE
@@ -100,4 +118,21 @@ def processFile(file, outF):
 
 
 if __name__ == "__main__":
-    main()
+    logger = logging.getLogger(__name__)
+    logger.addHandler(logging.StreamHandler(sys.stdout))
+    logger.setLevel(logging.INFO)
+    
+    parser = argparse.ArgumentParser(description="Process MFG race results into a single Tableau-readable\
+    file")
+    parser.add_argument('inFoldName', metavar='inputFolder', help='Path to the folder containing the result\
+    files for each start time, download from webscorer using "Download complete results"/"Tab-delimited\
+    TXT file"')
+    parser.add_argument('outFileName', metavar='outputFile', help="Path/name of the csv file to be created\
+    for feeding into Tableau")
+    meg = parser.add_mutually_exclusive_group()
+    meg.add_argument("-v", action="store_true", help="Print verbose information about program process")
+    args = parser.parse_args()
+    
+    if args.v:
+        logger.setLevel(logging.DEBUG)
+    main(args.inFoldName, args.outFileName)
