@@ -193,18 +193,6 @@
             <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
             <column-instance column='[Calculation_7090920201422659]' derivation='Sum' name='[sum:Calculation_7090920201422659:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
-          <filter class='categorical' column='[textscan.42269.802158483799].[Exclusions (Lap,Name)]'>
-            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
-              <groupfilter function='crossjoin'>
-                <groupfilter function='level-members' level='[none:Lap:ok]' />
-                <groupfilter function='level-members' level='[none:Name:nk]' />
-              </groupfilter>
-              <groupfilter function='crossjoin'>
-                <groupfilter function='member' level='[none:Lap:ok]' member='1' />
-                <groupfilter function='member' level='[none:Name:nk]' member='&quot;Blair Cooper&quot;' />
-              </groupfilter>
-            </groupfilter>
-          </filter>
           <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
             <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' />
@@ -213,7 +201,6 @@
           </filter>
           <slices>
             <column>[textscan.42269.802158483799].[none:Category:nk]</column>
-            <column>[textscan.42269.802158483799].[Exclusions (Lap,Name)]</column>
           </slices>
           <aggregation value='true' />
         </view>
@@ -298,7 +285,7 @@
             </column-instance>
           </datasource-dependencies>
           <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
-            <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Women&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[textscan.42269.802158483799].[none:Category:nk]</column>
@@ -360,7 +347,7 @@
     </worksheet>
   </worksheets>
   <windows saved-dpi-scale-factor='1.25' source-height='37'>
-    <window class='worksheet' name='Progress by lap and category'>
+    <window class='worksheet' maximized='true' name='Progress by lap and category'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -396,7 +383,7 @@
         </highlight>
       </viewpoint>
     </window>
-    <window class='worksheet' maximized='true' name='Lap Time per lap'>
+    <window class='worksheet' name='Lap Time per lap'>
       <cards>
         <edge name='left'>
           <strip size='160'>
