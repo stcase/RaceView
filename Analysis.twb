@@ -15,19 +15,51 @@
             <connection class='textscan' directory='D:/Users/Steven/Documents/GitHub/RaceView/data/consumable/2017' filename='MFG1.csv' password='' server='' username='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
-        <relation connection='textscan.42269.802158483799leaf' name='MFG1.csv' table='[MFG1#csv]' type='table'>
+        <relation all='true' name='MFG1.csv+' type='union'>
           <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
-            <column datatype='string' name='Category' ordinal='0' />
-            <column datatype='integer' name='Place' ordinal='1' />
-            <column datatype='integer' name='Bib' ordinal='2' />
-            <column datatype='string' name='Name' ordinal='3' />
-            <column datatype='string' name='Team name' ordinal='4' />
-            <column datatype='integer' name='Age' ordinal='5' />
-            <column datatype='string' name='Year of birth' ordinal='6' />
-            <column datatype='string' name='Time' ordinal='7' />
-            <column datatype='integer' name='Lap' ordinal='8' />
-            <column datatype='string' name='Lap time' ordinal='9' />
+            <column datatype='string' name='Race' />
+            <column datatype='string' name='Category' />
+            <column datatype='integer' name='Place' />
+            <column datatype='integer' name='Bib' />
+            <column datatype='string' name='Name' />
+            <column datatype='string' name='Team name' />
+            <column datatype='integer' name='Age' />
+            <column datatype='string' name='Year of birth' />
+            <column datatype='string' name='Time' />
+            <column datatype='integer' name='Lap' />
+            <column datatype='string' name='Lap time' />
+            <column datatype='string' name='Table Name' />
           </columns>
+          <relation connection='textscan.42269.802158483799leaf' name='MFG1.csv' table='[MFG1#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='integer' name='Place' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='string' name='Name' ordinal='4' />
+              <column datatype='string' name='Team name' ordinal='5' />
+              <column datatype='integer' name='Age' ordinal='6' />
+              <column datatype='string' name='Year of birth' ordinal='7' />
+              <column datatype='string' name='Time' ordinal='8' />
+              <column datatype='integer' name='Lap' ordinal='9' />
+              <column datatype='string' name='Lap time' ordinal='10' />
+            </columns>
+          </relation>
+          <relation connection='textscan.42269.802158483799leaf' name='MFG2.csv' table='[MFG2#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='integer' name='Place' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='string' name='Name' ordinal='4' />
+              <column datatype='string' name='Team name' ordinal='5' />
+              <column datatype='integer' name='Age' ordinal='6' />
+              <column datatype='string' name='Year of birth' ordinal='7' />
+              <column datatype='string' name='Time' ordinal='8' />
+              <column datatype='integer' name='Lap' ordinal='9' />
+              <column datatype='string' name='Lap time' ordinal='10' />
+            </columns>
+          </relation>
         </relation>
       </connection>
       <aliases enabled='yes' />
@@ -68,7 +100,7 @@
           <groupfilter function='level-members' level='[none:Name:nk]' />
         </groupfilter>
       </group>
-      <layout dim-ordering='alphabetic' dim-percentage='0.434944' measure-ordering='alphabetic' measure-percentage='0.565056' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.464286' measure-ordering='alphabetic' measure-percentage='0.535714' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -271,10 +303,12 @@
             <column caption='Lap' datatype='integer' name='[Lap]' role='measure' type='quantitative' />
             <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
             <column datatype='integer' name='[Place]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Race]' role='dimension' type='nominal' />
             <column-instance column='[Place]' derivation='Attribute' name='[attr:Place:qk]' pivot='key' type='quantitative' />
             <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
             <column-instance column='[Lap]' derivation='None' name='[none:Lap:ok]' pivot='key' type='ordinal' />
             <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
             <column-instance column='[Calculation_2150921004244540]' derivation='User' name='[usr:Calculation_2150921004244540:qk:2]' pivot='key' type='quantitative'>
               <table-calc ordering-type='Rows' />
               <table-calc field='[textscan.42269.802158483799].[Calculation_3620920201824995]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
@@ -287,8 +321,12 @@
           <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
             <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
+          <filter class='categorical' column='[textscan.42269.802158483799].[none:Race:nk]'>
+            <groupfilter function='member' level='[none:Race:nk]' member='&quot;MFG 2 - Marymoor&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
           <slices>
             <column>[textscan.42269.802158483799].[none:Category:nk]</column>
+            <column>[textscan.42269.802158483799].[none:Race:nk]</column>
           </slices>
           <aggregation value='true' />
         </view>
@@ -353,6 +391,7 @@
           <strip size='160'>
             <card type='pages' />
             <card type='filters' />
+            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
             <card mode='dropdown' param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' />
             <card pane-specification-id='2' param='[textscan.42269.802158483799].[none:Name:nk]' type='color' />
           </strip>
@@ -379,6 +418,7 @@
             <field>[textscan.42269.054918506947].[none:Place:ok]</field>
             <field>[textscan.42269.802158483799].[none:Event:nk]</field>
             <field>[textscan.42269.802158483799].[none:Name:nk]</field>
+            <field>[textscan.42269.802158483799].[none:Race:nk]</field>
           </color-one-way>
         </highlight>
       </viewpoint>
