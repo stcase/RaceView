@@ -2,3 +2,5 @@
 
 #Tableau temp backup files:
 *.twbr
+#No need to store TDEs
+*.tde
