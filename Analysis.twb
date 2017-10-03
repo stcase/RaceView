@@ -12,7 +12,7 @@
       <connection class='federated' prefer-ind-semantics='true'>
         <named-connections>
           <named-connection caption='parsed_results' name='textscan.42269.802158483799leaf'>
-            <connection class='textscan' directory='D:/Users/Steven/Documents/GitHub/RaceView/data/consumable/2017' filename='MFG1.csv' password='' server='' username='' workgroup-auth-mode='as-is' />
+            <connection class='textscan' directory='./data/consumable/2017' filename='MFG1.csv' password='' server='' username='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <relation all='true' name='MFG1.csv+' type='union'>
