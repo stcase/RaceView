@@ -20,6 +20,7 @@ class Reshaper:
         self.__inFoldName = inFoldName
         self.__outFileName = outFileName
         
+        self.__NUM_EXPECTED_FILES = 7
         self.__rawFiles = []
 
     def getFiles(self):
@@ -37,6 +38,10 @@ class Reshaper:
                 continue
             self.__logger.debug(" " + test)
             files.append( test )
+            
+        if len(files) != self.__NUM_EXPECTED_FILES:
+            self.__logger.warn("Expected " + str(self.__NUM_EXPECTED_FILES) + " race files, only " + str(len(files)) + " present.")
+            
         self.__rawFiles = files
         
     def outputData(self):
