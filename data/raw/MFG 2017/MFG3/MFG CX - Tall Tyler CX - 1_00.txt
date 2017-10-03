@@ -1,0 +1,47 @@
+﻿		Cat 1/2 Men																		
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7	Lap 8	Difference	% Back	% Winning	% Average
+1	32	Russell Stevenson	Russell	Stevenson	TREK CXC	Cat 1/2 Men	41	54:58.9	6:43.2	6:52.1	6:43.9	6:59.9	7:00.6	6:53.0	6:51.6	6:54.6	-	-	100%	6.58%
+2	2	Steve Fisher	Steve	Fisher	Mcgovern Cycles / FSA CX	Cat 1/2 Men	27	55:47.5	6:46.5	6:48.5	6:34.6	6:52.6	7:04.6	6:47.9	7:16.5	7:36.4	+0:48.6	+1.47%	98.55%	5.20%
+3	22	Ian Tubbs	Ian	Tubbs	Audi	Cat 1/2 Men	46	56:31.2	7:06.3	6:56.0	7:02.4	7:01.0	7:05.7	7:03.2	7:10.5	7:06.2	+1:32.3	+2.80%	97.28%	3.97%
+4	15	Brian McCleerey	Brian	McCleerey	Ravenna Capital Management	Cat 1/2 Men	27	57:10.3	6:49.3	6:55.5	7:01.8	7:11.7	7:14.7	7:13.0	7:20.9	7:23.4	+2:11.4	+3.98%	96.17%	2.86%
+5	21	Kaler Marshall	Kaler	Marshall	0.O	Cat 1/2 Men	31	57:57.3	7:24.1	7:04.4	7:05.2	7:19.6	7:11.8	7:20.3	7:13.9	7:18.0	+2:58.4	+5.41%	94.87%	1.53%
+6	38	Sterling Quinn	Sterling	Quinn	Ravenna Capital Management	Cat 1/2 Men	24	58:00.5	7:10.3	7:19.4	7:16.6	7:11.2	7:20.0	7:17.0	7:17.8	7:08.2	+3:01.6	+5.50%	94.78%	1.44%
+7	11	Ian Brink	Ian	Brink	Mt. Si Broadmark Racing	Cat 1/2 Men	16	58:04.8	7:13.8	7:16.7	7:18.3	7:15.4	7:23.4	7:21.7	7:14.9	7:00.6	+3:05.9	+5.64%	94.67%	1.32%
+8	34	Garrett Sczechowski	Garrett	Sczechowski	Dyna Racing	Cat 1/2 Men	24	58:06.3	7:19.5	7:15.4	7:15.9	7:16.5	7:26.0	7:17.5	7:12.8	7:02.6	+3:07.4	+5.68%	94.62%	1.27%
+9	33	Steve Westover	Steve	Westover		Cat 1/2 Men	44	58:19.6	7:27.2	7:09.3	7:12.2	7:09.0	7:22.6	7:16.3	7:17.3	7:25.6	+3:20.7	+6.08%	94.27%	0.90%
+10	14	Steven Case	Steven	Case	Dyna Racing	Cat 1/2 Men	30	58:37.4	7:09.1	7:20.2	7:26.3	7:22.6	7:27.6	7:20.0	7:19.7	7:12.0	+3:38.5	+6.62%	93.79%	0.39%
+11	9	Tyson Lashbrook	Tyson	Lashbrook		Cat 1/2 Men	38	58:40.4	7:13.3	7:16.3	7:18.8	7:13.9	7:23.8	7:25.5	7:14.3	7:34.6	+3:41.5	+6.71%	93.71%	0.31%
+12	19	Andy Edick	Andy	Edick	Swift Racing PDX	Cat 1/2 Men	29	58:52.4	7:31.8	7:07.6	7:20.4	7:27.2	7:18.9	7:25.5	7:20.7	7:20.2	+3:53.5	+7.08%	93.39%	-0.03%
+13	46	Steven Williams	Steven	Williams	Recycled Cycles Racing	Cat 1/2 Men	45	58:56.2	7:22.4	7:14.8	7:24.0	7:26.7	7:21.8	7:23.1	7:21.4	7:22.0	+3:57.3	+7.19%	93.29%	-0.14%
+14	3	Patrick Dunn	Patrick	Dunn	Seattle Cancer Care Alliance Cycling Tea	Cat 1/2 Men	28	59:01.6	7:00.9	7:13.8	7:21.0	7:34.1	7:23.8	7:27.2	7:28.7	7:32.1	+4:02.7	+7.36%	93.15%	-0.29%
+15	18	Derek Parsons	Derek	Parsons	Clif Bar	Cat 1/2 Men	29	59:49.8	7:17.6	7:14.3	7:16.0	7:13.2	7:29.0	8:35.1	7:27.2	7:17.2	+4:50.9	+8.82%	91.90%	-1.66%
+16	41	Corbin Hudacek	Corbin	Hudacek		Cat 1/2 Men	27	59:52.5	7:40.4	7:24.8	7:25.9	7:33.1	7:34.3	7:36.8	7:23.7	7:13.5	+4:53.6	+8.90%	91.83%	-1.73%
+17	29	Brendan Connolly	Brendan	Connolly	Black Sheep Velo	Cat 1/2 Men	44	1:00:07.8	7:33.5	7:09.1	7:27.5	7:28.0	7:28.3	7:39.8	7:41.8	7:39.8	+5:08.9	+9.36%	91.44%	-2.17%
+18	23	Zack Hewell	Zack	Hewell	Apex Racing	Cat 1/2 Men	32	1:00:50.8	7:36.5	7:21.0	7:19.6	7:33.4	7:35.9	7:48.1	7:46.8	7:49.5	+5:51.9	+10.67%	90.36%	-3.39%
+19	5	Brian Debronsky	Brian	Debronsky	Egencia	Cat 1/2 Men	28	1:01:23.4	7:51.6	7:38.0	7:24.5	7:38.0	7:39.9	7:47.7	7:43.9	7:39.8	+6:24.5	+11.66%	89.56%	-4.31%
+20	24	Kacey Campbell	Kacey	Campbell		Cat 1/2 Men	27	1:02:18.1	7:07.3	7:29.5	8:00.1	8:05.7	7:47.4	7:50.8	7:27.4	8:29.9	+7:19.2	+13.31%	88.25%	-5.86%
+21	26	Andrew Morrison	Andrew	Morrison	Seattle Cancer Care Alliance Cycling	Cat 1/2 Men	37	1:02:29.2	7:30.7	7:25.2	8:08.9	7:49.9	7:45.8	7:38.2	8:04.9	8:05.6	+7:30.3	+13.65%	87.99%	-6.17%
+22	12	Adam Worobec	Adam	Worobec	Seattle Cancer Care Alliance Cycling Tea	Cat 1/2 Men	38	-1 lap	7:47.8	7:26.8	7:27.6	9:04.8	7:59.2	7:39.4	7:46.1	-	-	-	-	-
+23	10	Ellison Brink	Ellison	Brink	Giant Co-Factory Off-Road Team	Cat 1/2 Men	18	-1 lap	7:43.3	7:26.5	7:34.3	7:39.5	7:50.8	8:05.3	9:01.2	-	-	-	-	-
+24	50	Steven Robinson	Steven	Robinson	Zealous Racing	Cat 1/2 Men	44	-1 lap	7:51.4	7:50.3	8:06.9	8:11.3	8:23.6	8:12.0	8:11.9	-	-	-	-	-
+25	27	Cody Young	Cody	Young	Toros Cycles	Cat 1/2 Men	27	-1 lap	8:04.7	8:09.7	8:23.8	8:38.1	9:05.1	9:31.9	9:44.7	-	-	-	-	-
+26	8	Keith Robinson	Keith	Robinson	Center Cycle Racing	Cat 1/2 Men	32	-1 lap	8:04.7	8:14.7	8:34.7	9:08.8	8:52.1	10:16.2	8:38.6	-	-	-	-	-
+27	47	Sam Owens	Sam	Owens		Cat 1/2 Men	30	-5 laps	7:29.7	7:12.9	7:24.6	-	-	-	-	-	-	-	-	-
+28	4	Jeremiah Jensen	Jeremiah	Jensen		Cat 1/2 Men	24	-6 laps	7:42.8	8:03.7	-	-	-	-	-	-	-	-	-	-
+-	16	Brayden Buchanan	Brayden	Buchanan	RAD Racing NW	Cat 1/2 Men	18	DNS									-	-	-	-
+-	40	John Flack	John	Flack	Olympia Orthopaedic Associates	Cat 1/2 Men	48	DNS									-	-	-	-
+																				
+		Cat 1/2 Women																		
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7		Difference	% Back	% Winning	% Average
+1	1436	Tricia Fleischer	Tricia	Fleischer	Monument Wheelworks/Jenkins Imaging	Cat 1/2 Women	38	57:29.6	8:42.0	8:03.2	8:09.3	8:05.4	8:13.7	8:06.0	8:10.0		-	-	100%	4.11%
+2	1403	Monica Lloyd	Monica	Lloyd		Cat 1/2 Women	42	58:33.0	9:11.5	8:09.2	8:05.3	8:05.7	8:19.1	8:20.9	8:21.3		+1:03.4	+1.84%	98.20%	2.35%
+3	1432	Stephanie Taplin	Stephanie	Taplin	Indigenous Wheel Co. Factory Racing Team	Cat 1/2 Women	28	59:18.4	8:57.4	8:21.8	8:23.4	8:14.6	8:26.1	8:28.1	8:27.0		+1:48.8	+3.15%	96.94%	1.09%
+4	1407	Gina Estep	Gina	Estep		Cat 1/2 Women	44	1:00:05.5	8:54.3	8:19.5	8:28.2	8:20.3	8:34.7	8:34.4	8:54.1		+2:35.9	+4.52%	95.68%	-0.22%
+5	1405	Elis Topchaniuk	Elis	Topchaniuk	Lynden Door Team 	Cat 1/2 Women	18	1:01:46.0	9:11.7	8:25.6	8:45.9	8:47.2	8:55.7	8:52.4	8:47.5		+4:16.4	+7.43%	93.08%	-3.02%
+6	1415	Jackie Logan	Jackie	Logan	Tenspeed Hero	Cat 1/2 Women	34	1:02:32.7	9:23.6	8:38.2	8:41.0	9:00.4	8:56.0	9:00.9	8:52.6		+5:03.1	+8.79%	91.92%	-4.31%
+7	1408	Karine Valliant-Saunders	Karine	Valliant-Saunders	Seattle Cancer Care Alliance	Cat 1/2 Women	37	-1 lap	9:22.0	8:51.6	9:17.0	9:08.0	9:06.4	9:22.8	-		-	-	-	-
+8	1402	Megan Fay	Megan	Fay	Tenspeed Hero	Cat 1/2 Women	33	-1 lap	9:31.3	8:51.0	9:14.6	9:06.4	9:06.8	9:34.9	-		-	-	-	-
+9	1439	Laura Jeddeloh	Laura	Jeddeloh		Cat 1/2 Women	26	-1 lap	9:19.7	9:20.8	9:16.9	9:10.7	9:12.4	9:37.2	-		-	-	-	-
+10	1401	Hayden Gizinski	Hayden	Gizinski	Northwest Womens Cyclocross Project	Cat 1/2 Women	17	-1 lap	9:30.5	9:26.1	9:37.7	9:42.2	10:00.9	9:48.6	-		-	-	-	-
+11	1413	Marsa Daniel	Marsa	Daniel		Cat 1/2 Women	39	-6 laps	9:08.8	-	-	-	-	-	-		-	-	-	-
+																				
