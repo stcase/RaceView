@@ -166,7 +166,7 @@
         <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
       </datasource-dependencies>
       <filter class='categorical' column='[textscan.42269.802158483799].[none:Race:nk]'>
-        <groupfilter function='member' level='[none:Race:nk]' member='&quot;MFG 3 - Silver Lake&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+        <groupfilter function='member' level='[none:Race:nk]' member='&quot;CXR 1 - Arlington&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
       </filter>
     </shared-view>
   </shared-views>
@@ -370,7 +370,7 @@
             </column-instance>
           </datasource-dependencies>
           <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
-            <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 1/2 Men&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[textscan.42269.802158483799].[none:Category:nk]</column>
@@ -441,7 +441,7 @@
             <card type='filters' />
             <card type='marks' />
             <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
-            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' />
+            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' values='relevant' />
             <card pane-specification-id='2' param='[textscan.42269.802158483799].[none:Name:nk]' type='color' />
           </strip>
         </edge>
