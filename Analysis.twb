@@ -347,7 +347,7 @@
               </calculation>
             </column>
             <column caption='Lap time (s)' datatype='real' name='[Calculation_7090920201422659]' role='measure' type='quantitative'>
-              <calculation class='tableau' formula='INT( SPLIT( [Lap time], &quot;:&quot;, 1 ) ) * 60 &#13;&#10;+&#13;&#10;FLOAT( SPLIT( [Lap time], &quot;:&quot;, 2 ) )' />
+              <calculation class='tableau' formula='INT( SPLIT( [Lap time], &quot;:&quot;, -2 ) ) * 60 &#13;&#10;+&#13;&#10;FLOAT( SPLIT( [Lap time], &quot;:&quot;, -1 ) )' />
             </column>
             <column caption='Category' datatype='string' name='[Category]' role='dimension' type='nominal' />
             <column datatype='string' name='[Lap time]' role='dimension' type='nominal' />
