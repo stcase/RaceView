@@ -28,6 +28,9 @@
             <column datatype='string' name='Time' />
             <column datatype='integer' name='Lap' />
             <column datatype='string' name='Lap time' />
+            <column datatype='integer' name='Chip' />
+            <column datatype='datetime' name='Start Time' />
+            <column datatype='datetime' name='End Time' />
             <column datatype='string' name='Table Name' />
           </columns>
           <relation connection='textscan.42269.802158483799leaf' name='MFG1.csv' table='[MFG1#csv]' type='table'>
@@ -73,6 +76,19 @@
               <column datatype='string' name='Time' ordinal='8' />
               <column datatype='integer' name='Lap' ordinal='9' />
               <column datatype='string' name='Lap time' ordinal='10' />
+            </columns>
+          </relation>
+          <relation connection='textscan.42269.802158483799leaf' name='CXR1.csv' table='[CXR1#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='string' name='Name' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='integer' name='Chip' ordinal='4' />
+              <column datatype='datetime' name='Start Time' ordinal='5' />
+              <column datatype='datetime' name='End Time' ordinal='6' />
+              <column datatype='integer' name='Lap' ordinal='7' />
+              <column datatype='datetime' name='Lap time' ordinal='8' />
             </columns>
           </relation>
         </relation>
