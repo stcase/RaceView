@@ -136,7 +136,7 @@
           <groupfilter function='level-members' level='[none:Name:nk]' />
         </groupfilter>
       </group>
-      <layout dim-ordering='alphabetic' dim-percentage='0.47619' measure-ordering='alphabetic' measure-percentage='0.52381' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.501075' measure-ordering='alphabetic' measure-percentage='0.498925' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -220,6 +220,8 @@
           </datasource-dependencies>
           <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
             <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1-2 Master Men age 35+&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1-2 Master Men age 45+&quot;' />
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' />
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men 35+&quot;' />
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Women&quot;' />
@@ -227,6 +229,9 @@
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 3 Men 45+&quot;' />
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 3 Women&quot;' />
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 4 Men 45+&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 1/2 Men&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 1/2 Women&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 3 Women&quot;' />
             </groupfilter>
           </filter>
           <sort class='alphabetic' column='[textscan.42269.802158483799].[none:Name:nk]' direction='ASC' />
@@ -284,6 +289,8 @@
             <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' />
               <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Women&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 1/2 Men&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 1/2 Women&quot;' />
             </groupfilter>
           </filter>
           <slices>
@@ -501,7 +508,7 @@
           <strip size='160'>
             <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
             <card type='marks' />
-            <card param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' />
+            <card param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' values='relevant' />
           </strip>
         </edge>
       </cards>
@@ -538,7 +545,7 @@
         <edge name='right'>
           <strip size='160'>
             <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
-            <card param='[textscan.42269.802158483799].[none:Category:nk]' type='filter' />
+            <card param='[textscan.42269.802158483799].[none:Category:nk]' type='filter' values='relevant' />
           </strip>
         </edge>
       </cards>
