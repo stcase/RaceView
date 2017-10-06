@@ -1,0 +1,574 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 10300.17.0615.2100                               -->
+<workbook source-build='10.3.1 (10300.17.0615.2100)' source-platform='win' version='10.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <style-theme name='clean' />
+  <datasources>
+    <datasource caption='parsed_results' inline='true' name='textscan.42269.802158483799' version='10.3'>
+      <connection class='federated' prefer-ind-semantics='true'>
+        <named-connections>
+          <named-connection caption='parsed_results' name='textscan.42269.802158483799leaf'>
+            <connection class='textscan' directory='./data/consumable/2017' filename='MFG1.csv' password='' server='' username='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation all='true' name='MFG1.csv+' type='union'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Race' />
+            <column datatype='string' name='Category' />
+            <column datatype='integer' name='Place' />
+            <column datatype='integer' name='Bib' />
+            <column datatype='string' name='Name' />
+            <column datatype='string' name='Team name' />
+            <column datatype='integer' name='Age' />
+            <column datatype='string' name='Year of birth' />
+            <column datatype='string' name='Time' />
+            <column datatype='integer' name='Lap' />
+            <column datatype='string' name='Lap time' />
+            <column datatype='integer' name='Chip' />
+            <column datatype='datetime' name='Start Time' />
+            <column datatype='datetime' name='End Time' />
+            <column datatype='string' name='Table Name' />
+          </columns>
+          <relation connection='textscan.42269.802158483799leaf' name='MFG1.csv' table='[MFG1#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='integer' name='Place' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='string' name='Name' ordinal='4' />
+              <column datatype='string' name='Team name' ordinal='5' />
+              <column datatype='integer' name='Age' ordinal='6' />
+              <column datatype='string' name='Year of birth' ordinal='7' />
+              <column datatype='string' name='Time' ordinal='8' />
+              <column datatype='integer' name='Lap' ordinal='9' />
+              <column datatype='string' name='Lap time' ordinal='10' />
+            </columns>
+          </relation>
+          <relation connection='textscan.42269.802158483799leaf' name='MFG2.csv' table='[MFG2#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='integer' name='Place' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='string' name='Name' ordinal='4' />
+              <column datatype='string' name='Team name' ordinal='5' />
+              <column datatype='integer' name='Age' ordinal='6' />
+              <column datatype='string' name='Year of birth' ordinal='7' />
+              <column datatype='string' name='Time' ordinal='8' />
+              <column datatype='integer' name='Lap' ordinal='9' />
+              <column datatype='string' name='Lap time' ordinal='10' />
+            </columns>
+          </relation>
+          <relation connection='textscan.42269.802158483799leaf' name='MFG3.csv' table='[MFG3#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='integer' name='Place' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='string' name='Name' ordinal='4' />
+              <column datatype='string' name='Team name' ordinal='5' />
+              <column datatype='integer' name='Age' ordinal='6' />
+              <column datatype='string' name='Year of birth' ordinal='7' />
+              <column datatype='string' name='Time' ordinal='8' />
+              <column datatype='integer' name='Lap' ordinal='9' />
+              <column datatype='string' name='Lap time' ordinal='10' />
+            </columns>
+          </relation>
+          <relation connection='textscan.42269.802158483799leaf' name='CXR1.csv' table='[CXR1#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='string' name='Name' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='integer' name='Chip' ordinal='4' />
+              <column datatype='datetime' name='Start Time' ordinal='5' />
+              <column datatype='datetime' name='End Time' ordinal='6' />
+              <column datatype='integer' name='Lap' ordinal='7' />
+              <column datatype='datetime' name='Lap time' ordinal='8' />
+            </columns>
+          </relation>
+        </relation>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Race time (s)' datatype='real' name='[Calculation_0200921022458483]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='[Calculation_641481529571307522] + RUNNING_SUM(SUM([Calculation_7090920201422659]))'>
+          <table-calc ordering-field='[textscan.42269.802158483799].[Lap]' ordering-type='Field' />
+        </calculation>
+      </column>
+      <column caption='Time down (s)' datatype='real' name='[Calculation_2150921004244540]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='PREVIOUS_VALUE([Calculation_641481529571307522])&#13;&#10;+&#13;&#10;ATTR([Calculation_7090920201422659])&#13;&#10;-&#13;&#10;[Calculation_3620920201824995]'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column caption='Best Lap Time (s)' datatype='real' name='[Calculation_3620920201824995]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='WINDOW_MIN(MIN([Calculation_7090920201422659]))'>
+          <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+        </calculation>
+      </column>
+      <column caption='Lap place' datatype='integer' name='[Calculation_5620921022541851]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='RANK(-[Calculation_0200921022458483]&#13;&#10;-IF ISNULL(ATTR([Calculation_7090920201422659])) THEN NULL ELSE 0 END&#13;&#10;)'>
+          <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+        </calculation>
+      </column>
+      <column caption='Start offset (s)' datatype='real' name='[Calculation_641481529571307522]' role='measure' type='ordinal'>
+        <calculation class='tableau' formula='ZN(&#13;&#10;(MIN([Start Time]) - WINDOW_MIN(MIN([Start Time]))) * 24 * 60 * 60 // because it returns the difference in days&#13;&#10;)'>
+          <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+        </calculation>
+      </column>
+      <column caption='Lap time (s)' datatype='real' name='[Calculation_7090920201422659]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='INT( SPLIT( [Lap time], &quot;:&quot;, -2 ) ) * 60 &#13;&#10;+&#13;&#10;FLOAT( SPLIT( [Lap time], &quot;:&quot;, -1 ) )' />
+      </column>
+      <column caption='Category' datatype='string' name='[Category]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Lap' datatype='integer' name='[Lap]' role='dimension' type='ordinal' />
+      <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column-instance column='[Lap]' derivation='None' name='[none:Lap:ok]' pivot='key' type='ordinal' />
+      <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+      <group hidden='true' name='[Exclusions (Lap,Name)]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:Lap:ok]' />
+          <groupfilter function='level-members' level='[none:Name:nk]' />
+        </groupfilter>
+      </group>
+      <layout dim-ordering='alphabetic' dim-percentage='0.47619' measure-ordering='alphabetic' measure-percentage='0.52381' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <field-sort-info field-sort-order-type='custom-order'>
+        <field-sort-custom-order field='Event' />
+        <field-sort-custom-order field='Category' />
+        <field-sort-custom-order field='Place' />
+        <field-sort-custom-order field='Bib' />
+        <field-sort-custom-order field='Name' />
+        <field-sort-custom-order field='Team name' />
+        <field-sort-custom-order field='Age' />
+        <field-sort-custom-order field='Year of birth' />
+        <field-sort-custom-order field='Time' />
+        <field-sort-custom-order field='Lap' />
+        <field-sort-custom-order field='Lap time' />
+        <field-sort-custom-order field='Table Name' />
+        <field-sort-custom-order field='Calculation_7090920201422659' />
+        <field-sort-custom-order field='Calculation_0200921022458483' />
+        <field-sort-custom-order field='Calculation_2150921004244540' />
+        <field-sort-custom-order field='Calculation_3620920201824995' />
+        <field-sort-custom-order field='Calculation_5620921022541851' />
+      </field-sort-info>
+    </datasource>
+  </datasources>
+  <shared-views>
+    <shared-view name='textscan.42269.802158483799'>
+      <datasources>
+        <datasource caption='parsed_results' name='textscan.42269.802158483799' />
+      </datasources>
+      <datasource-dependencies datasource='textscan.42269.802158483799'>
+        <column datatype='string' name='[Race]' role='dimension' type='nominal' />
+        <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <filter class='categorical' column='[textscan.42269.802158483799].[none:Race:nk]'>
+        <groupfilter function='member' level='[none:Race:nk]' member='&quot;CXR 1 - Arlington&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+      </filter>
+    </shared-view>
+  </shared-views>
+  <actions>
+    <action caption='Rider on crossresults.com' name='[Action1]'>
+      <source datasource='textscan.42269.802158483799' type='datasource' />
+      <link caption='' expression='http://www.crossresults.com/search?q=&lt;[Name]&gt;' />
+    </action>
+    <action caption='Highlight 1 (generated)' name='[Action2]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='Lap Time Comparison' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Name' />
+        <param name='target' value='Lap Time Comparison' />
+      </command>
+    </action>
+    <datasources>
+      <datasource caption='parsed_results' name='textscan.42269.802158483799' />
+    </datasources>
+    <datasource-dependencies datasource='textscan.42269.802158483799'>
+      <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
+    </datasource-dependencies>
+  </actions>
+  <worksheets>
+    <worksheet name='Lap Time Comparison'>
+      <repository-location id='LapTimeComparison' path='/workbooks/CyclocrossResults' revision='' />
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='parsed_results' name='textscan.42269.802158483799' />
+          </datasources>
+          <datasource-dependencies datasource='textscan.42269.802158483799'>
+            <column caption='Lap time (s)' datatype='real' name='[Calculation_7090920201422659]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT( SPLIT( [Lap time], &quot;:&quot;, -2 ) ) * 60 &#13;&#10;+&#13;&#10;FLOAT( SPLIT( [Lap time], &quot;:&quot;, -1 ) )' />
+            </column>
+            <column caption='Category' datatype='string' name='[Category]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Lap time]' role='dimension' type='nominal' />
+            <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Place]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Race]' role='dimension' type='nominal' />
+            <column-instance column='[Place]' derivation='Attribute' name='[attr:Place:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_7090920201422659]' derivation='Median' name='[med:Calculation_7090920201422659:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men 35+&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Women&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 3 Men 35+&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 3 Men 45+&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 3 Women&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 4 Men 45+&quot;' />
+            </groupfilter>
+          </filter>
+          <sort class='alphabetic' column='[textscan.42269.802158483799].[none:Name:nk]' direction='ASC' />
+          <slices>
+            <column>[textscan.42269.802158483799].[none:Category:nk]</column>
+            <column>[textscan.42269.802158483799].[none:Race:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' domain-expand='false' field='[textscan.42269.802158483799].[med:Calculation_7090920201422659:qk]' field-type='quantitative' reverse='true' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[med:Calculation_7090920201422659:qk]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[med:Calculation_7090920201422659:qk]' scope='rows' value='true' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='3' selection-relaxation-option='selection-relaxation-disallow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Shape' />
+            <encodings>
+              <color column='[textscan.42269.802158483799].[none:Name:nk]' />
+              <tooltip column='[textscan.42269.802158483799].[attr:Place:qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[textscan.42269.802158483799].[med:Calculation_7090920201422659:qk]</rows>
+        <cols>[textscan.42269.802158483799].[none:Category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name='Lap Time per lap'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='parsed_results' name='textscan.42269.802158483799' />
+          </datasources>
+          <datasource-dependencies datasource='textscan.42269.802158483799'>
+            <column caption='Lap time (s)' datatype='real' name='[Calculation_7090920201422659]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT( SPLIT( [Lap time], &quot;:&quot;, -2 ) ) * 60 &#13;&#10;+&#13;&#10;FLOAT( SPLIT( [Lap time], &quot;:&quot;, -1 ) )' />
+            </column>
+            <column caption='Category' datatype='string' name='[Category]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Lap time]' role='dimension' type='nominal' />
+            <column aggregation='Sum' caption='Lap' datatype='integer' name='[Lap]' role='dimension' type='ordinal' />
+            <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Race]' role='dimension' type='nominal' />
+            <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Lap]' derivation='None' name='[none:Lap:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_7090920201422659]' derivation='Sum' name='[sum:Calculation_7090920201422659:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Men&quot;' />
+              <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat 1/2 Women&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[textscan.42269.802158483799].[none:Category:nk]</column>
+            <column>[textscan.42269.802158483799].[none:Race:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' domain-expand='false' field='[textscan.42269.802158483799].[sum:Calculation_7090920201422659:qk]' field-type='quantitative' reverse='true' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[sum:Calculation_7090920201422659:qk]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[sum:Calculation_7090920201422659:qk]' scope='rows' value='true' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[textscan.42269.802158483799].[none:Lap:ok]' value='85' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-disallow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[textscan.42269.802158483799].[none:Name:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[textscan.42269.802158483799].[sum:Calculation_7090920201422659:qk]</rows>
+        <cols>[textscan.42269.802158483799].[none:Lap:ok]</cols>
+      </table>
+    </worksheet>
+    <worksheet name='Progress by lap and category'>
+      <repository-location id='Progressbylapandcategory' path='/workbooks/CyclocrossResults' revision='' />
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='parsed_results' name='textscan.42269.802158483799' />
+          </datasources>
+          <datasource-dependencies datasource='textscan.42269.802158483799'>
+            <column caption='Race time (s)' datatype='real' name='[Calculation_0200921022458483]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Calculation_641481529571307522] + RUNNING_SUM(SUM([Calculation_7090920201422659]))'>
+                <table-calc ordering-field='[textscan.42269.802158483799].[Lap]' ordering-type='Field' />
+              </calculation>
+            </column>
+            <column caption='Time down (s)' datatype='real' name='[Calculation_2150921004244540]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='PREVIOUS_VALUE([Calculation_641481529571307522])&#13;&#10;+&#13;&#10;ATTR([Calculation_7090920201422659])&#13;&#10;-&#13;&#10;[Calculation_3620920201824995]'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Best Lap Time (s)' datatype='real' name='[Calculation_3620920201824995]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='WINDOW_MIN(MIN([Calculation_7090920201422659]))'>
+                <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+              </calculation>
+            </column>
+            <column caption='Lap place' datatype='integer' name='[Calculation_5620921022541851]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='RANK(-[Calculation_0200921022458483]&#13;&#10;-IF ISNULL(ATTR([Calculation_7090920201422659])) THEN NULL ELSE 0 END&#13;&#10;)'>
+                <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+              </calculation>
+            </column>
+            <column caption='Start offset (s)' datatype='real' name='[Calculation_641481529571307522]' role='measure' type='ordinal'>
+              <calculation class='tableau' formula='ZN(&#13;&#10;(MIN([Start Time]) - WINDOW_MIN(MIN([Start Time]))) * 24 * 60 * 60 // because it returns the difference in days&#13;&#10;)'>
+                <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+              </calculation>
+            </column>
+            <column caption='Lap time (s)' datatype='real' name='[Calculation_7090920201422659]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT( SPLIT( [Lap time], &quot;:&quot;, -2 ) ) * 60 &#13;&#10;+&#13;&#10;FLOAT( SPLIT( [Lap time], &quot;:&quot;, -1 ) )' />
+            </column>
+            <column caption='Category' datatype='string' name='[Category]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Lap time]' role='dimension' type='nominal' />
+            <column aggregation='Sum' caption='Lap' datatype='integer' name='[Lap]' role='dimension' type='ordinal' />
+            <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Place]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Race]' role='dimension' type='nominal' />
+            <column datatype='datetime' name='[Start Time]' role='dimension' type='ordinal' />
+            <column-instance column='[Place]' derivation='Attribute' name='[attr:Place:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Lap]' derivation='None' name='[none:Lap:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_0200921022458483]' derivation='User' name='[usr:Calculation_0200921022458483:qk:8]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_641481529571307522]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+            </column-instance>
+            <column-instance column='[Calculation_2150921004244540]' derivation='User' name='[usr:Calculation_2150921004244540:qk:7]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_3620920201824995]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_641481529571307522]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+            </column-instance>
+            <column-instance column='[Calculation_5620921022541851]' derivation='User' name='[usr:Calculation_5620921022541851:qk:7]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_0200921022458483]' ordering-field='[textscan.42269.802158483799].[none:Lap:ok]' ordering-type='Field' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_641481529571307522]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+            </column-instance>
+            <column-instance column='[Calculation_641481529571307522]' derivation='User' name='[usr:Calculation_641481529571307522:ok:2]' pivot='key' type='ordinal'>
+              <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
+            <groupfilter function='member' level='[none:Category:nk]' member='&quot;Cat. 1/2 Men&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[textscan.42269.802158483799].[none:Category:nk]</column>
+            <column>[textscan.42269.802158483799].[none:Race:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:7]' field-type='quantitative' reverse='true' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:7]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:7]' scope='rows' value='true' />
+            <encoding attr='space' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:7]' field-type='quantitative' reverse='true' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:7]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:7]' scope='rows' value='true' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[textscan.42269.802158483799].[none:Lap:ok]' value='85' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-disallow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[textscan.42269.802158483799].[none:Name:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-disallow' y-axis-name='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:7]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[textscan.42269.802158483799].[none:Name:nk]' />
+              <tooltip column='[textscan.42269.802158483799].[usr:Calculation_641481529571307522:ok:2]' />
+              <tooltip column='[textscan.42269.802158483799].[usr:Calculation_0200921022458483:qk:8]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='3' selection-relaxation-option='selection-relaxation-disallow' y-axis-name='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:7]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[textscan.42269.802158483799].[none:Name:nk]' />
+              <tooltip column='[textscan.42269.802158483799].[attr:Place:qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:7] + [textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:7])</rows>
+        <cols>[textscan.42269.802158483799].[none:Lap:ok]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Progress by lap and category'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
+            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' values='relevant' />
+            <card pane-specification-id='2' param='[textscan.42269.802158483799].[none:Name:nk]' type='color' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[textscan.42269.054918506947].[none:Category:nk]</field>
+            <field>[textscan.42269.054918506947].[none:Lap:ok]</field>
+            <field>[textscan.42269.054918506947].[none:Place:ok]</field>
+            <field>[textscan.42269.802158483799].[none:Event:nk]</field>
+            <field>[textscan.42269.802158483799].[none:Name:nk]</field>
+            <field>[textscan.42269.802158483799].[none:Race:nk]</field>
+            <field>[textscan.42269.802158483799].[usr:Calculation_641481529571307522:ok]</field>
+            <field>[textscan.42269.802158483799].[yr:Start Time:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+    <window class='worksheet' name='Lap Time per lap'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card pane-specification-id='2' param='[textscan.42269.802158483799].[none:Name:nk]' type='color' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
+            <card type='marks' />
+            <card param='[textscan.42269.802158483799].[none:Category:nk]' show-all='false' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[textscan.42269.054918506947].[none:Category:nk]</field>
+            <field>[textscan.42269.054918506947].[none:Lap:ok]</field>
+            <field>[textscan.42269.054918506947].[none:Place:ok]</field>
+            <field>[textscan.42269.802158483799].[none:Event:nk]</field>
+            <field>[textscan.42269.802158483799].[none:Name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+    <window class='worksheet' name='Lap Time Comparison'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card pane-specification-id='3' param='[textscan.42269.802158483799].[none:Name:nk]' type='color' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='dropdown' param='[textscan.42269.802158483799].[none:Race:nk]' show-all='false' type='filter' />
+            <card param='[textscan.42269.802158483799].[none:Category:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[textscan.42269.054918506947].[none:Category:nk]</field>
+            <field>[textscan.42269.054918506947].[none:Name:nk]</field>
+            <field>[textscan.42269.054918506947].[none:Place:ok]</field>
+            <field>[textscan.42269.802158483799].[none:Event:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+  </windows>
+</workbook>
