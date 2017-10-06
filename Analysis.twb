@@ -104,6 +104,11 @@
           <table-calc ordering-type='Rows' />
         </calculation>
       </column>
+      <column caption='Start offset (s)' datatype='real' name='[Calculation_284008309163253761]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='ZN(&#13;&#10;(MIN([Start Time])-WINDOW_MIN(MIN([Start Time]))) *24*60*60 // convert from days to seconds&#13;&#10;)'>
+          <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+        </calculation>
+      </column>
       <column caption='Best Lap Time (s)' datatype='real' name='[Calculation_3620920201824995]' role='measure' type='quantitative'>
         <calculation class='tableau' formula='WINDOW_MIN(MIN([Calculation_7090920201422659]))'>
           <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
