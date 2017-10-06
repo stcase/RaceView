@@ -95,12 +95,12 @@
       </connection>
       <aliases enabled='yes' />
       <column caption='Race time (s)' datatype='real' name='[Calculation_0200921022458483]' role='measure' type='quantitative'>
-        <calculation class='tableau' formula='RUNNING_SUM(SUM([Calculation_7090920201422659]))'>
+        <calculation class='tableau' formula='[Calculation_284008309163253761] + RUNNING_SUM(SUM([Calculation_7090920201422659]))'>
           <table-calc ordering-field='[textscan.42269.802158483799].[Lap]' ordering-type='Field' />
         </calculation>
       </column>
       <column caption='Time down (s)' datatype='real' name='[Calculation_2150921004244540]' role='measure' type='quantitative'>
-        <calculation class='tableau' formula='PREVIOUS_VALUE(0)&#13;&#10;+&#13;&#10;ATTR([Calculation_7090920201422659])&#13;&#10;-&#13;&#10;[Calculation_3620920201824995]'>
+        <calculation class='tableau' formula='PREVIOUS_VALUE([Calculation_284008309163253761])&#13;&#10;+&#13;&#10;ATTR([Calculation_7090920201422659])&#13;&#10;-&#13;&#10;[Calculation_3620920201824995]'>
           <table-calc ordering-field='[textscan.42269.802158483799].[Lap]' ordering-type='Field' />
         </calculation>
       </column>
@@ -332,13 +332,18 @@
           </datasources>
           <datasource-dependencies datasource='textscan.42269.802158483799'>
             <column caption='Race time (s)' datatype='real' name='[Calculation_0200921022458483]' role='measure' type='quantitative'>
-              <calculation class='tableau' formula='RUNNING_SUM(SUM([Calculation_7090920201422659]))'>
+              <calculation class='tableau' formula='[Calculation_284008309163253761] + RUNNING_SUM(SUM([Calculation_7090920201422659]))'>
                 <table-calc ordering-field='[textscan.42269.802158483799].[Lap]' ordering-type='Field' />
               </calculation>
             </column>
             <column caption='Time down (s)' datatype='real' name='[Calculation_2150921004244540]' role='measure' type='quantitative'>
-              <calculation class='tableau' formula='PREVIOUS_VALUE(0)&#13;&#10;+&#13;&#10;ATTR([Calculation_7090920201422659])&#13;&#10;-&#13;&#10;[Calculation_3620920201824995]'>
+              <calculation class='tableau' formula='PREVIOUS_VALUE([Calculation_284008309163253761])&#13;&#10;+&#13;&#10;ATTR([Calculation_7090920201422659])&#13;&#10;-&#13;&#10;[Calculation_3620920201824995]'>
                 <table-calc ordering-field='[textscan.42269.802158483799].[Lap]' ordering-type='Field' />
+              </calculation>
+            </column>
+            <column caption='Start offset (s)' datatype='real' name='[Calculation_284008309163253761]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='ZN(&#13;&#10;(MIN([Start Time])-WINDOW_MIN(MIN([Start Time]))) *24*60*60 // convert from days to seconds&#13;&#10;)'>
+                <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
               </calculation>
             </column>
             <column caption='Best Lap Time (s)' datatype='real' name='[Calculation_3620920201824995]' role='measure' type='quantitative'>
@@ -360,18 +365,21 @@
             <column caption='Name' datatype='string' name='[Name]' role='dimension' type='nominal' />
             <column datatype='integer' name='[Place]' role='measure' type='quantitative' />
             <column datatype='string' name='[Race]' role='dimension' type='nominal' />
+            <column datatype='datetime' name='[Start Time]' role='dimension' type='ordinal' />
             <column-instance column='[Place]' derivation='Attribute' name='[attr:Place:qk]' pivot='key' type='quantitative' />
             <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
             <column-instance column='[Lap]' derivation='None' name='[none:Lap:ok]' pivot='key' type='ordinal' />
             <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
             <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
-            <column-instance column='[Calculation_2150921004244540]' derivation='User' name='[usr:Calculation_2150921004244540:qk]' pivot='key' type='quantitative'>
+            <column-instance column='[Calculation_2150921004244540]' derivation='User' name='[usr:Calculation_2150921004244540:qk:5]' pivot='key' type='quantitative'>
               <table-calc ordering-field='[textscan.42269.802158483799].[none:Lap:ok]' ordering-type='Field' />
               <table-calc field='[textscan.42269.802158483799].[Calculation_3620920201824995]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_284008309163253761]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
             </column-instance>
-            <column-instance column='[Calculation_5620921022541851]' derivation='User' name='[usr:Calculation_5620921022541851:qk:1]' pivot='key' type='quantitative'>
+            <column-instance column='[Calculation_5620921022541851]' derivation='User' name='[usr:Calculation_5620921022541851:qk:4]' pivot='key' type='quantitative'>
               <table-calc ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
               <table-calc field='[textscan.42269.802158483799].[Calculation_0200921022458483]' ordering-field='[textscan.42269.802158483799].[none:Lap:ok]' ordering-type='Field' />
+              <table-calc field='[textscan.42269.802158483799].[Calculation_284008309163253761]' ordering-field='[textscan.42269.802158483799].[Name]' ordering-type='Field' />
             </column-instance>
           </datasource-dependencies>
           <filter class='categorical' column='[textscan.42269.802158483799].[none:Category:nk]'>
@@ -385,12 +393,12 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:1]' field-type='quantitative' reverse='true' scope='rows' type='space' />
-            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:1]' scope='rows' value='' />
-            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:1]' scope='rows' value='true' />
-            <encoding attr='space' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk]' field-type='quantitative' reverse='true' scope='rows' type='space' />
-            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk]' scope='rows' value='' />
-            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk]' scope='rows' value='true' />
+            <encoding attr='space' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:4]' field-type='quantitative' reverse='true' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:4]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:4]' scope='rows' value='true' />
+            <encoding attr='space' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:5]' field-type='quantitative' reverse='true' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:5]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:5]' scope='rows' value='true' />
           </style-rule>
           <style-rule element='cell'>
             <format attr='width' field='[textscan.42269.802158483799].[none:Lap:ok]' value='85' />
@@ -412,7 +420,7 @@
               </style-rule>
             </style>
           </pane>
-          <pane id='2' selection-relaxation-option='selection-relaxation-disallow' y-axis-name='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:1]'>
+          <pane id='2' selection-relaxation-option='selection-relaxation-disallow' y-axis-name='[textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:4]'>
             <view>
               <breakdown value='auto' />
             </view>
@@ -421,7 +429,7 @@
               <color column='[textscan.42269.802158483799].[none:Name:nk]' />
             </encodings>
           </pane>
-          <pane id='3' selection-relaxation-option='selection-relaxation-disallow' y-axis-name='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk]'>
+          <pane id='3' selection-relaxation-option='selection-relaxation-disallow' y-axis-name='[textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:5]'>
             <view>
               <breakdown value='auto' />
             </view>
@@ -432,7 +440,7 @@
             </encodings>
           </pane>
         </panes>
-        <rows>([textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:1] + [textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk])</rows>
+        <rows>([textscan.42269.802158483799].[usr:Calculation_5620921022541851:qk:4] + [textscan.42269.802158483799].[usr:Calculation_2150921004244540:qk:5])</rows>
         <cols>[textscan.42269.802158483799].[none:Lap:ok]</cols>
       </table>
     </worksheet>
