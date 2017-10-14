@@ -30,13 +30,14 @@ class Reshaper:
                 self.__writeHeader(outF)
                 for line in inF:
                     flatData = {}
-                    row = line.split(self.__IN_DELIM)
+                    row = line.strip().split(self.__IN_DELIM)
+                    self.__cleanRow(row)
                     
                     for col in self.__SCHEMA_FLAT:
                         if col == "Race":
                             flatData[col] = self.__raceName
                             continue
-                        flatData[col] = self.__getData(col, row).strip()
+                        flatData[col] = self.__getData(col, row)
                     
                     laps = self.__getLaps(row)
                     
@@ -62,6 +63,11 @@ class Reshaper:
         if col == "End Time":
             return row[-1]
         self.__logger.error("Column '" + col + "' not present in row " + str(row))
+
+    def __cleanRow(self, row):
+        """ removes trailing empty columns that get added by saving an excel file as csv """
+        while not row[-1]:
+            del row[-1]
 
     def __getLaps(self, row):
         return row[6:-1]
