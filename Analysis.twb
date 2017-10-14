@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 10300.17.0615.2100                               -->
-<workbook source-build='10.3.1 (10300.17.0615.2100)' source-platform='win' version='10.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<!-- build 10400.17.0915.2112                               -->
+<workbook source-build='10.4.0 (10400.17.0915.2112)' source-platform='win' version='10.4' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
   </preferences>
   <style-theme name='clean' />
   <datasources>
-    <datasource caption='parsed_results' inline='true' name='textscan.42269.802158483799' version='10.3'>
+    <datasource caption='parsed_results' inline='true' name='textscan.42269.802158483799' version='10.4'>
       <connection class='federated' prefer-ind-semantics='true'>
         <named-connections>
           <named-connection caption='parsed_results' name='textscan.42269.802158483799leaf'>
@@ -136,7 +136,7 @@
           <groupfilter function='level-members' level='[none:Name:nk]' />
         </groupfilter>
       </group>
-      <layout dim-ordering='alphabetic' dim-percentage='0.501075' measure-ordering='alphabetic' measure-percentage='0.498925' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.501319' measure-ordering='alphabetic' measure-percentage='0.498681' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -452,7 +452,7 @@
       </table>
     </worksheet>
   </worksheets>
-  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+  <windows saved-dpi-scale-factor='1.25' source-height='30'>
     <window class='worksheet' maximized='true' name='Progress by lap and category'>
       <cards>
         <edge name='left'>
