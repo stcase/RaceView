@@ -91,6 +91,19 @@
               <column datatype='datetime' name='Lap time' ordinal='8' />
             </columns>
           </relation>
+          <relation connection='textscan.42269.802158483799leaf' name='CXR2.csv' table='[CXR2#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Race' ordinal='0' />
+              <column datatype='string' name='Category' ordinal='1' />
+              <column datatype='string' name='Name' ordinal='2' />
+              <column datatype='integer' name='Bib' ordinal='3' />
+              <column datatype='integer' name='Chip' ordinal='4' />
+              <column datatype='datetime' name='Start Time' ordinal='5' />
+              <column datatype='string' name='End Time' ordinal='6' />
+              <column datatype='integer' name='Lap' ordinal='7' />
+              <column datatype='string' name='Lap time' ordinal='8' />
+            </columns>
+          </relation>
         </relation>
       </connection>
       <aliases enabled='yes' />
@@ -136,7 +149,7 @@
           <groupfilter function='level-members' level='[none:Name:nk]' />
         </groupfilter>
       </group>
-      <layout dim-ordering='alphabetic' dim-percentage='0.501075' measure-ordering='alphabetic' measure-percentage='0.498925' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.500931' measure-ordering='alphabetic' measure-percentage='0.499069' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -171,7 +184,7 @@
         <column-instance column='[Race]' derivation='None' name='[none:Race:nk]' pivot='key' type='nominal' />
       </datasource-dependencies>
       <filter class='categorical' column='[textscan.42269.802158483799].[none:Race:nk]'>
-        <groupfilter function='member' level='[none:Race:nk]' member='&quot;CXR 1 - Arlington&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+        <groupfilter function='member' level='[none:Race:nk]' member='&quot;CXR 2 - Sprinker&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
       </filter>
     </shared-view>
   </shared-views>
