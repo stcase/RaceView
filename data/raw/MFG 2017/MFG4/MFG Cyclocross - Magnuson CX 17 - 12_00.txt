@@ -1,0 +1,168 @@
+﻿		Cat 3 Men																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	1678	Adrian Magun	Adrian	Magun	Mercer Island	Cat 3 Men	13	43:45.4	7:09.6	7:12.4	7:18.1	7:24.7	7:27.8	7:12.7	-	-	100%	4.59%
+2	1652	Clark Smithson	Clark	Smithson	Tenspeed Hero	Cat 3 Men	32	43:46.2	7:18.8	7:10.6	7:14.1	7:23.4	7:25.5	7:13.8	+0:00.8	+0.03%	99.97%	4.56%
+3	1679	Devon Wright	Devon	Wright	Monton	Cat 3 Men	29	43:49.9	7:12.8	7:16.0	7:16.9	7:24.1	7:23.6	7:16.5	+0:04.5	+0.17%	99.83%	4.42%
+4	1656	Ricky Lyman	Ricky	Lyman		Cat 3 Men	28	43:51.6	7:13.5	7:14.2	7:16.4	7:23.7	7:25.3	7:18.6	+0:06.2	+0.24%	99.76%	4.36%
+5	1756	Matt Quann	Matt	Quann	Ornot	Cat 3 Men	42	43:53.6	7:22.4	7:13.6	7:17.1	7:15.0	7:24.7	7:20.8	+0:08.2	+0.31%	99.69%	4.29%
+6	1729	Justin Resnick	Justin	Resnick	Apex Racing	Cat 3 Men	34	43:54.2	7:21.8	7:11.6	7:19.5	7:19.2	7:26.3	7:15.8	+0:08.8	+0.34%	99.67%	4.27%
+7	1733	Brennan Hodgins	Brennan	Hodgins	Apex Racing	Cat 3 Men	16	43:55.0	7:16.0	7:12.0	7:16.5	7:20.4	7:27.5	7:22.6	+0:09.6	+0.37%	99.64%	4.24%
+8	1755	Tavish Taylor	Tavish	Taylor	Wenatchee	Cat 3 Men	25	43:57.8	7:22.0	7:13.7	7:17.9	7:26.9	7:16.9	7:20.4	+0:12.4	+0.47%	99.53%	4.13%
+9	1717	Garrett George	Garrett	George	SCCA Cycling Team	Cat 3 Men	33	44:02.9	7:16.5	7:11.4	7:17.4	7:22.5	7:29.3	7:25.7	+0:17.5	+0.67%	99.34%	3.95%
+10	1654	Brandon Sprouse	Brandon	Sprouse		Cat 3 Men	33	44:08.9	7:12.8	7:15.5	7:16.7	7:20.9	7:26.9	7:36.1	+0:23.5	+0.90%	99.11%	3.73%
+11	1732	Marcos Franco	Marcos	Franco	KPF Cycling Collective	Cat 3 Men	27	44:09.5	7:21.6	7:11.9	7:19.9	7:16.3	7:27.9	7:31.9	+0:24.1	+0.92%	99.09%	3.71%
+12	1757	Andrew Howe	Andrew	Howe	Hotwire / Alki Velo Club	Cat 3 Men	31	44:42.2	7:26.4	7:27.3	7:29.3	7:26.7	7:30.2	7:22.3	+0:56.8	+2.16%	97.88%	2.52%
+13	1772	Taylor Peterson	Taylor	Peterson		Cat 3 Men	24	44:43.0	7:15.8	7:29.5	7:37.0	7:27.2	7:30.2	7:23.3	+0:57.6	+2.19%	97.85%	2.49%
+14	1681	Cimarron Wortham	Cimarron	Wortham	Recycled Cycles Racing	Cat 3 Men	35	45:11.9	7:31.9	7:26.5	7:24.2	7:37.2	7:39.5	7:32.6	+1:26.5	+3.29%	96.81%	1.44%
+15	1727	Tyler Boucher	Tyler	Boucher	Seattle	Cat 3 Men	29	45:20.9	7:25.2	7:38.4	7:37.6	7:36.5	7:37.3	7:25.9	+1:35.5	+3.64%	96.49%	1.11%
+16	1721	Brent Carlson	Brent	Carlson	Audi	Cat 3 Men	38	45:29.6	7:30.5	7:27.8	7:31.5	7:44.5	7:41.6	7:33.7	+1:44.2	+3.97%	96.18%	0.80%
+17	1655	Sam Zivin	Sam	Zivin	CX Northwest	Cat 3 Men	17	45:32.8	7:43.3	7:25.0	7:32.7	7:30.5	7:36.2	7:45.1	+1:47.4	+4.09%	96.07%	0.68%
+18	1731	Nathan Abel	Nathan	Abel	Rolling H Cycles	Cat 3 Men	28	45:37.6	7:44.6	7:41.2	7:34.6	7:38.1	7:34.3	7:24.8	+1:52.2	+4.27%	95.90%	0.51%
+19	1657	Leigh Thurgood	Leigh	Thurgood	Tenspeed Hero	Cat 3 Men	36	45:37.7	7:17.5	7:12.3	7:14.7	7:21.1	9:01.1	7:31.0	+1:52.3	+4.28%	95.90%	0.50%
+20	1800	Ehrin Bulfin	Ehrin	Bulfin		Cat 3 Men	31	45:38.3	7:43.6	7:39.2	7:34.6	7:40.4	7:35.7	7:24.8	+1:52.9	+4.30%	95.88%	0.48%
+21	1682	Matthew Basaldua	Matthew	Basaldua	Broadmark/Mount Si Racing	Cat 3 Men	14	45:39.5	7:17.7	7:21.8	7:43.9	7:54.6	7:51.9	7:29.7	+1:54.1	+4.35%	95.84%	0.44%
+22	1754	Alex Hemke	Alex	Hemke	The Giraffeters	Cat 3 Men	29	45:46.8	7:45.0	7:38.6	7:34.6	7:40.4	7:35.4	7:32.8	+2:01.4	+4.62%	95.58%	0.17%
+23	1175	Andrew Bowerman	Andrew	Bowerman		Cat 3 Men	30	45:58.7	7:40.0	7:38.4	7:39.3	7:39.6	7:38.8	7:42.6	+2:13.3	+5.08%	95.17%	-0.26%
+24	1685	Nate Brockert	Nate	Brockert		Cat 3 Men	33	46:01.6	7:44.8	7:39.4	7:38.0	7:34.4	7:43.3	7:41.7	+2:16.2	+5.19%	95.07%	-0.36%
+25	1764	Andrew Carlberg	Andrew	Carlberg		Cat 3 Men	27	46:17.0	7:52.4	7:32.3	7:37.2	7:43.2	7:47.1	7:44.9	+2:31.6	+5.77%	94.54%	-0.92%
+26	1661	Robert Chapman	Robert	Chapman	Snoqualmie Ice Cream Racing	Cat 3 Men	27	46:18.0	7:57.4	7:28.9	7:38.9	7:38.9	7:56.9	7:37.1	+2:32.6	+5.81%	94.51%	-0.96%
+27	1680	Paul Young	Paul	Young	Ridge Cyclesport	Cat 3 Men	32	46:43.2	7:51.7	7:39.8	7:40.0	7:50.9	7:49.8	7:51.1	+2:57.8	+6.77%	93.66%	-1.88%
+28	411	Frankie Hammond	Frankie	Hammond		Cat 3 Men	31	47:06.0	7:37.4	7:45.2	7:41.4	8:06.2	8:04.7	7:51.1	+3:20.6	+7.64%	92.90%	-2.70%
+29	1653	Daniel Bassett	Daniel	Bassett		Cat 3 Men	31	47:15.6	7:54.3	7:37.6	7:43.3	7:55.3	8:07.0	7:58.0	+3:30.2	+8.01%	92.59%	-3.05%
+30	1671	Mason French	Mason	French	Nuun Hydration	Cat 3 Men	27	47:17.7	7:39.8	7:55.9	7:53.0	8:09.6	7:50.3	7:49.0	+3:32.3	+8.09%	92.52%	-3.13%
+31	1684	AJ Mallory	AJ	Mallory		Cat 3 Men	23	47:37.3	7:44.5	7:39.9	8:01.6	7:52.9	7:51.7	8:26.7	+3:51.9	+8.83%	91.88%	-3.84%
+32	1686	Austin Roberts	Austin	Roberts		Cat 3 Men	30	47:45.6	7:51.7	7:47.3	7:54.6	7:54.3	8:15.0	8:02.7	+4:00.2	+9.15%	91.62%	-4.14%
+33	1728	Jeff Rasor	Jeff	Rasor	Apex Racing	Cat 3 Men	33	47:52.6	7:52.7	7:57.1	7:54.6	8:04.7	8:02.6	8:01.0	+4:07.2	+9.42%	91.39%	-4.40%
+34	1667	Charles Hagman	Charles	Hagman	Apex Racing	Cat 3 Men	32	48:11.6	8:05.2	7:50.0	8:02.2	8:04.1	8:08.9	8:01.2	+4:26.2	+10.14%	90.79%	-5.09%
+35	1720	Jordan Lucke	Jordan	Lucke	Egencia	Cat 3 Men	29	48:28.1	8:06.1	7:53.6	8:01.9	8:15.3	8:11.5	7:59.6	+4:42.7	+10.77%	90.28%	-5.69%
+36	1774	Torrey Kuhlmann	Torrey	Kuhlmann		Cat 3 Men	30	48:28.4	7:53.6	8:07.1	8:01.7	8:14.7	8:12.5	7:58.9	+4:43.0	+10.78%	90.27%	-5.70%
+37	1683	Phil Conlan	Phil	Conlan	Holding Down Last Place	Cat 3 Men	23	48:49.5	7:55.5	9:01.7	7:59.2	8:11.1	8:04.6	7:37.4	+5:04.1	+11.58%	89.62%	-6.47%
+38	1659	Mario S Rivas	Mario S	Rivas	Double Check	Cat 3 Men	33	49:53.6	8:12.6	7:57.1	8:03.6	8:10.4	8:34.0	8:56.0	+6:08.2	+14.02%	87.70%	-8.80%
+39	1796	Kristian Miller	Kristian	Miller	Broadmark Capital	Cat 3 Men	29	-1 lap	7:58.9	9:20.9	8:45.6	8:58.8	9:24.0	-	-	-	-	-
+40	1765	Tim Hubner	Tim	Hubner		Cat 3 Men	36	-2 laps	7:51.3	7:30.1	12:13.6	8:17.7	-	-	-	-	-	-
+41	1798	David Montes	David	Montes	Dyna Racing	Cat 3 Men	30	-3 laps	15:23.1	7:35.4	22:57.2	-	-	-	-	-	-	-
+42	1799	Brandon Carmararda	Brandon	Carmararda		Cat 3 Men	28	-4 laps	7:43.3	7:37.0	-	-	-	-	-	-	-	-
+43	1670	Christopher Stubel	Christopher	Stubel	Apex Racing	Cat 3 Men	26	-5 laps	8:09.1	-	-	-	-	-	-	-	-	-
+-	-	Mike Keller	Mike	Keller		Cat 3 Men	29	DNS							-	-	-	-
+-	1797	Sean Mcgraw	Sean	Mcgraw	Tenspeed Hero	Cat 3 Men	34	DNS							-	-	-	-
+																		
+		Cat 3 Men 35+																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	155	Jake Heitman	Jake	Heitman		Cat 3 Men 35+	39	45:21.7	8:27.0	7:15.9	7:26.8	7:27.3	7:24.9	7:19.8	-	-	100%	3.99%
+2	163	Joshua Simmons	Joshua	Simmons		Cat 3 Men 35+	39	45:30.2	8:19.9	7:22.6	7:26.9	7:27.2	7:30.4	7:23.2	+0:08.5	+0.31%	99.69%	3.69%
+3	215	Jeffrey Miller	Jeffrey	Miller		Cat 3 Men 35+	41	45:32.3	8:27.2	7:22.2	7:18.8	7:28.1	7:31.1	7:24.9	+0:10.6	+0.39%	99.61%	3.62%
+4	279	Thomas Horan	Thomas	Horan	Mcleod Construction	Cat 3 Men 35+	38	45:32.5	8:19.4	7:23.3	7:26.1	7:27.8	7:30.6	7:25.4	+0:10.8	+0.40%	99.60%	3.61%
+5	210	Nick Turner	Nick	Turner	20/20 Cycles	Cat 3 Men 35+	40	45:33.1	8:26.7	7:23.0	7:21.5	7:28.3	7:32.9	7:20.7	+0:11.4	+0.42%	99.58%	3.59%
+6	153	Scott Renda	Scott	Renda	Apex Racing	Cat 3 Men 35+	42	45:35.9	8:31.8	7:18.6	7:19.7	7:26.8	7:31.7	7:27.4	+0:14.2	+0.52%	99.48%	3.49%
+7	158	Colin Ferguson	Colin	Ferguson		Cat 3 Men 35+	40	45:38.0	8:29.8	7:22.1	7:22.8	7:25.7	7:31.5	7:26.1	+0:16.3	+0.60%	99.40%	3.42%
+8	161	Ruaraidh Stenson	Ruaraidh	Stenson	Dyna Racing	Cat 3 Men 35+	43	45:39.8	8:19.7	7:22.6	7:26.9	7:27.6	7:31.6	7:31.4	+0:18.1	+0.67%	99.34%	3.35%
+9	280	Brendan Mcmahan	Brendan	Mcmahan	Recycled Cycles Racing	Cat 3 Men 35+	40	45:50.7	8:29.3	7:22.9	7:22.8	7:24.9	7:43.6	7:27.2	+0:29.0	+1.07%	98.95%	2.97%
+10	2001	Mathew Johnson	Mathew	Johnson		Cat 3 Men 35+	38	46:13.3	8:30.0	7:29.1	7:30.1	7:33.8	7:41.7	7:28.7	+0:51.6	+1.90%	98.14%	2.17%
+11	206	Mathew Seguin	Mathew	Seguin		Cat 3 Men 35+	38	46:13.6	8:32.0	7:27.5	7:27.3	7:36.4	7:42.0	7:28.3	+0:51.9	+1.91%	98.13%	2.16%
+12	2002	Mark Roughgarden	Mark	Roughgarden	Machete!	Cat 3 Men 35+	43	46:18.3	8:29.5	7:30.2	7:29.2	7:34.7	7:41.8	7:33.1	+0:56.6	+2.08%	97.96%	1.99%
+13	205	Scott Heinz	Scott	Heinz	Redmond	Cat 3 Men 35+	35	46:20.8	8:29.0	7:30.2	7:29.4	7:40.0	7:35.7	7:36.5	+0:59.1	+2.17%	97.87%	1.91%
+14	212	Nicholas Brown	Nicholas	Brown	Recycled Cycles Racing	Cat 3 Men 35+	44	46:39.8	8:41.1	7:27.3	7:32.6	7:31.4	7:41.9	7:45.5	+1:18.1	+2.87%	97.21%	1.24%
+15	166	Emil Hillding	Emil	Hillding		Cat 3 Men 35+	40	46:43.4	8:35.5	7:26.9	7:38.8	7:41.0	7:41.9	7:39.2	+1:21.7	+3.00%	97.09%	1.11%
+16	229	Lee Newkirk	Lee	Newkirk	Dyna Racing Team	Cat 3 Men 35+	45	46:53.3	8:35.1	7:29.9	7:35.6	7:42.0	7:52.1	7:38.5	+1:31.6	+3.37%	96.74%	0.76%
+17	220	Brent Morrow	Brent	Morrow	CX Northwest	Cat 3 Men 35+	42	46:53.4	8:32.5	7:32.1	7:35.8	7:44.3	7:50.9	7:37.8	+1:31.7	+3.37%	96.74%	0.76%
+18	275	Michael Swale	Michael	Swale		Cat 3 Men 35+	43	46:53.5	8:42.9	7:35.5	7:38.2	7:42.3	7:40.5	7:34.0	+1:31.8	+3.37%	96.74%	0.75%
+19	270	Tyler Miller	Tyler	Miller	Audi	Cat 3 Men 35+	37	47:22.4	8:34.7	7:35.7	7:40.9	7:48.0	7:47.2	7:55.9	+2:00.7	+4.43%	95.75%	-0.27%
+20	159	Dan Warren	Dan	Warren	Major Taylor Racing	Cat 3 Men 35+	41	47:32.3	8:36.4	7:39.8	7:45.0	7:59.9	7:50.2	7:40.9	+2:10.6	+4.80%	95.42%	-0.62%
+21	222	Mark Young	Mark	Young	Alki Rubicon	Cat 3 Men 35+	42	47:35.5	8:48.1	7:39.2	7:45.3	8:04.7	7:46.0	7:32.2	+2:13.8	+4.92%	95.31%	-0.73%
+22	151	Josh Platis	Josh	Platis	Alki/Rubicon	Cat 3 Men 35+	46	47:39.4	8:46.2	7:40.7	7:46.0	7:55.2	7:49.7	7:41.5	+2:17.7	+5.06%	95.18%	-0.87%
+23	164	Jeff Lynch	Jeff	Lynch	Egencia	Cat 3 Men 35+	39	47:52.4	8:43.6	7:57.4	7:46.2	7:49.1	7:47.1	7:49.0	+2:30.7	+5.54%	94.75%	-1.32%
+24	173	Michael Mclane	Michael	Mclane	Ridge Cyclesport	Cat 3 Men 35+	37	47:54.4	8:48.0	7:50.4	7:49.7	7:58.4	7:49.4	7:38.4	+2:32.7	+5.61%	94.69%	-1.40%
+25	165	Alden Kroll	Alden	Kroll	Seattle	Cat 3 Men 35+	35	48:28.2	8:48.5	7:44.3	7:53.9	7:55.0	8:08.1	7:58.2	+3:06.5	+6.85%	93.59%	-2.59%
+26	226	Adam Blexrud	Adam	Blexrud		Cat 3 Men 35+	44	48:41.9	8:46.5	8:04.3	7:51.7	7:57.3	8:04.3	7:57.9	+3:20.2	+7.36%	93.15%	-3.07%
+27	219	Brian Dewey	Brian	Dewey		Cat 3 Men 35+	43	49:42.6	9:02.1	8:04.9	8:09.5	8:16.7	8:12.2	7:57.2	+4:20.9	+9.59%	91.25%	-5.21%
+28	175	Scott J Monett	Scott J	Monett	Tacoma Bike Racng Team	Cat 3 Men 35+	58	49:55.3	8:58.3	8:05.1	8:19.1	8:08.9	8:12.1	8:11.9	+4:33.6	+10.05%	90.87%	-5.66%
+29	172	Jeff Cota	Jeff	Cota	Old Town Bicycle P/B GEC	Cat 3 Men 35+	41	50:02.3	8:55.9	8:18.2	8:10.5	8:06.9	8:15.8	8:15.0	+4:40.6	+10.31%	90.65%	-5.91%
+30	154	Shay Childress	Shay	Childress	Alki Rubicon	Cat 3 Men 35+	37	50:11.2	9:01.5	8:05.0	8:07.5	8:14.8	8:20.4	8:22.0	+4:49.5	+10.64%	90.39%	-6.22%
+31	176	Landon Erickson	Landon	Erickson	PCP Racing	Cat 3 Men 35+	43	52:18.5	8:58.6	7:58.9	8:11.8	8:43.3	9:45.1	8:40.8	+6:56.8	+15.31%	86.72%	-10.71%
+32	174	Raymond Tse	Raymond	Tse		Cat 3 Men 35+	43	-1 lap	9:00.6	7:57.2	8:11.2	8:22.2	8:14.5	-	-	-	-	-
+33	167	Chad Richmond	Chad	Richmond		Cat 3 Men 35+	42	-1 lap	9:18.3	8:34.2	8:46.3	8:52.4	8:51.5	-	-	-	-	-
+34	2110	Jeff Evans	Jeff	Evans	Doublecheck	Cat 3 Men 35+	45	-1 lap	10:44.2	8:18.8	8:42.8	8:34.0	8:37.9	-	-	-	-	-
+35	273	Nathan Young	Nathan	Young	Native	Cat 3 Men 35+	37	-1 lap	8:44.1	7:43.1	7:46.4	7:54.8	15:43.1	-	-	-	-	-
+-	152	R. Colin Kennedy	R. Colin	Kennedy	Cycle-Smart	Cat 3 Men 35+	37	DNS							-	-	-	-
+-	156	Sid Wray	Sid	Wray	Major Taylor Racing	Cat 3 Men 35+	39	DNS							-	-	-	-
+-	168	Nat Pellman	Nat	Pellman	Hodala	Cat 3 Men 35+	43	DNS							-	-	-	-
+-	204	Andrew Hawley	Andrew	Hawley	Mettle Cycling	Cat 3 Men 35+	41	DNS							-	-	-	-
+-	223	Marco Desimone	Marco	Desimone	Hammer + Awl	Cat 3 Men 35+	40	DNS							-	-	-	-
+-	276	Paul Josephson	Paul	Josephson	Apex Racing	Cat 3 Men 35+	35	DNS							-	-	-	-
+-	2099	Damon G	Damon	G	Dyna Racing	Cat 3 Men 35+	44	DNS							-	-	-	-
+																		
+		Cat 3 Men 45+																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	2085	Matthew Mack	Matthew	Mack	Team Type 1	Cat 3 Men 45+	48	47:09.6	9:44.1	7:20.2	7:22.3	7:36.6	7:42.2	7:24.3	-	-	100%	4.30%
+2	2006	Peter Benarcik	Peter	Benarcik	Ravenna Capital	Cat 3 Men 45+	47	47:11.5	9:44.4	7:19.7	7:22.2	7:37.1	7:41.6	7:26.5	+0:01.9	+0.07%	99.93%	4.23%
+3	2090	Scott Barr	Scott	Barr		Cat 3 Men 45+	47	47:17.3	9:44.7	7:25.3	7:33.2	7:32.8	7:35.1	7:26.3	+0:07.7	+0.27%	99.73%	4.04%
+4	2119	Edward Holmes	Edward	Holmes	R4C	Cat 3 Men 45+	48	47:31.5	9:50.0	7:32.0	7:35.3	7:32.5	7:33.2	7:28.5	+0:21.9	+0.77%	99.23%	3.56%
+5	2084	Mike Rolcik	Mike	Rolcik	Taco Time NW	Cat 3 Men 45+	48	47:32.0	9:51.5	7:33.0	7:32.5	7:33.7	7:32.6	7:28.8	+0:22.4	+0.79%	99.21%	3.54%
+6	2026	Tiff Koehn	Tiff	Koehn	Dyna Racing	Cat 3 Men 45+	44	47:32.7	9:52.7	7:29.2	7:31.3	7:37.4	7:34.8	7:27.3	+0:23.1	+0.82%	99.19%	3.52%
+7	2112	Sean Phillips	Sean	Phillips	Garage Racing	Cat 3 Men 45+	52	47:55.4	9:49.8	7:28.0	7:40.3	7:33.2	7:42.5	7:41.7	+0:45.8	+1.62%	98.41%	2.75%
+8	2125	Terry Buchanan	Terry	Buchanan	HUP United	Cat 3 Men 45+	47	48:02.6	9:44.9	7:36.9	7:38.0	7:45.7	7:42.6	7:34.6	+0:53.0	+1.87%	98.16%	2.51%
+9	2014	Keith Heinzelman	Keith	Heinzelman	2020 Fuel	Cat 3 Men 45+	44	48:03.4	9:53.5	7:31.1	7:28.1	7:37.3	7:55.0	7:38.4	+0:53.8	+1.90%	98.13%	2.48%
+10	2035	Aaron Turner	Aaron	Turner	Ravenna Capitol	Cat 3 Men 45+	46	48:15.1	9:52.8	7:33.2	7:39.0	7:48.8	7:50.5	7:30.7	+1:05.5	+2.31%	97.74%	2.08%
+11	2148	Duncan Mcintosh	Duncan	Mcintosh	Hagens Berman - EY Society	Cat 3 Men 45+	46	48:17.2	9:59.5	7:43.3	7:38.4	7:39.8	7:43.0	7:33.1	+1:07.6	+2.39%	97.67%	2.01%
+12	2010	Denny Bartlett	Denny	Bartlett	Garage	Cat 3 Men 45+	49	48:23.1	10:00.7	7:38.6	7:42.9	7:40.4	7:41.9	7:38.5	+1:13.5	+2.60%	97.47%	1.81%
+13	2139	Scott Harder	Scott	Harder	Snoqualmie Ice Cream Racing	Cat 3 Men 45+	46	48:26.6	10:06.4	7:35.3	7:39.8	7:39.2	7:43.5	7:42.4	+1:17.0	+2.72%	97.35%	1.69%
+14	1059	James Beieler	James	Beieler		Cat 3 Men 45+	48	48:46.9	10:23.8	7:46.4	7:39.9	7:41.8	7:43.4	7:31.7	+1:37.3	+3.44%	96.68%	1.01%
+15	2009	Sven Koehler	Sven	Koehler	Egencia	Cat 3 Men 45+	46	48:50.3	10:04.3	7:35.5	7:41.7	8:00.7	7:52.5	7:35.7	+1:40.7	+3.56%	96.56%	0.89%
+16	2032	Jeff Hsu	Jeff	Hsu	Dyna	Cat 3 Men 45+	45	48:51.7	10:19.3	7:42.0	7:35.9	7:45.2	7:46.7	7:42.6	+1:42.1	+3.61%	96.52%	0.84%
+17	2149	Russ Morgenson	Russ	Morgenson	Cycle U	Cat 3 Men 45+	47	48:57.7	9:56.3	7:44.9	7:46.9	7:53.7	7:53.4	7:42.5	+1:48.1	+3.82%	96.32%	0.64%
+18	2104	Charly George	Charly	George	CX Northwest	Cat 3 Men 45+	47	48:59.4	10:05.5	7:38.6	7:43.4	7:44.8	8:03.1	7:43.9	+1:49.8	+3.88%	96.26%	0.58%
+19	2093	Joe Martin	Joe	Martin	Taco Time NW	Cat 3 Men 45+	51	49:01.2	10:23.4	7:38.2	7:43.3	7:46.1	7:50.8	7:39.5	+1:51.6	+3.94%	96.21%	0.52%
+20	2126	Kempton Baker	Kempton	Baker	Cascade Bicycle Studio	Cat 3 Men 45+	52	49:06.4	10:03.1	7:40.0	7:45.2	7:53.1	7:53.5	7:51.6	+1:56.8	+4.13%	96.04%	0.35%
+21	2115	Pieter Mulier	Pieter	Mulier	Classic Cycle	Cat 3 Men 45+	48	49:13.2	10:10.1	7:45.2	7:49.4	7:52.3	7:54.2	7:42.1	+2:03.6	+4.37%	95.81%	0.12%
+22	2138	Neil Casserly	Neil	Casserly	Garage	Cat 3 Men 45+	48	49:15.7	10:28.2	7:44.8	7:38.8	7:44.8	7:53.3	7:45.8	+2:06.1	+4.46%	95.73%	0.03%
+23	2094	Gary Ballas	Gary	Ballas	Epoch Medical	Cat 3 Men 45+	47	49:18.1	10:05.1	7:45.3	7:46.3	7:55.3	7:58.3	7:47.9	+2:08.5	+4.54%	95.66%	-0.05%
+24	2089	John Drenning	John	Drenning	Dyna	Cat 3 Men 45+	48	49:31.2	9:59.2	7:45.8	7:51.7	7:56.1	7:57.9	8:00.6	+2:21.6	+5.00%	95.23%	-0.49%
+25	2016	Forrest Murphy	Forrest	Murphy	Black Sheep Velo	Cat 3 Men 45+	46	49:34.2	10:06.7	7:37.8	8:04.2	7:53.9	7:54.5	7:57.1	+2:24.6	+5.11%	95.14%	-0.59%
+26	2005	Steven Moe	Steven	Moe	Nemesis	Cat 3 Men 45+	45	49:34.9	10:06.1	7:48.8	7:53.9	8:01.7	7:55.3	7:49.1	+2:25.3	+5.14%	95.12%	-0.62%
+27	2105	George Jackson	George	Jackson	Old Town Bicycles	Cat 3 Men 45+	53	49:38.2	10:05.5	7:48.9	7:51.2	7:45.9	8:08.4	7:58.3	+2:28.6	+5.25%	95.01%	-0.73%
+28	2100	Frank O'Brien	Frank	O'Brien	OMG Racing	Cat 3 Men 45+	53	49:39.7	10:18.9	7:41.9	7:48.9	7:59.5	7:58.1	7:52.4	+2:30.1	+5.30%	94.96%	-0.78%
+29	2087	Kent Hu	Kent	Hu	Hagens Berman EY Society Cycling Team	Cat 3 Men 45+	46	49:41.6	10:07.1	7:35.6	7:50.5	7:59.3	8:32.6	7:36.6	+2:32.0	+5.37%	94.90%	-0.84%
+30	2078	Erik Olson	Erik	Olson	Taco Time NW	Cat 3 Men 45+	52	49:47.5	10:06.4	7:48.2	7:50.7	8:01.6	8:01.5	7:59.2	+2:37.9	+5.58%	94.71%	-1.04%
+31	2036	Quinn Dusenberry	Quinn	Dusenberry	Egencia	Cat 3 Men 45+	53	49:47.7	10:20.2	7:46.2	7:55.5	7:56.6	7:59.3	7:49.9	+2:38.1	+5.59%	94.71%	-1.05%
+32	2150	Diego Holmgren	Diego	Holmgren	Egencia	Cat 3 Men 45+	54	49:47.8	10:17.8	7:43.3	7:48.4	8:13.4	7:54.6	7:50.4	+2:38.2	+5.59%	94.71%	-1.05%
+33	2028	Nathan Webster	Nathan	Webster	Black Sheep Celo	Cat 3 Men 45+	50	49:49.5	10:27.8	7:47.7	7:46.9	7:59.2	7:56.9	7:51.0	+2:39.9	+5.65%	94.65%	-1.11%
+34	2077	Chris Hughes	Chris	Hughes	Audi	Cat 3 Men 45+	46	50:08.5	10:02.9	7:40.5	7:49.0	7:56.2	8:28.0	8:11.9	+2:58.9	+6.32%	94.05%	-1.75%
+35	2039	Michael Mallory	Michael	Mallory		Cat 3 Men 45+	51	50:09.8	10:27.0	7:51.5	7:56.2	7:55.5	8:00.3	7:59.4	+3:00.2	+6.37%	94.01%	-1.80%
+36	2092	Scott McNees	Scott	McNees	Classic Cycle Bainbridge	Cat 3 Men 45+	46	50:17.4	10:08.0	7:49.8	7:57.4	8:04.7	8:04.1	8:13.5	+3:07.8	+6.64%	93.78%	-2.05%
+37	2097	Dan Scott	Dan	Scott	Mayhem	Cat 3 Men 45+	53	50:19.1	10:08.0	7:48.5	7:59.0	8:03.9	8:14.8	8:04.9	+3:09.5	+6.70%	93.72%	-2.11%
+38	2027	Dean Rogers	Dean	Rogers		Cat 3 Men 45+	44	50:24.8	10:18.5	8:00.3	7:56.2	8:01.2	8:06.1	8:02.5	+3:15.2	+6.90%	93.55%	-2.30%
+39	2117	Mark Watson	Mark	Watson	Hagens Bermen	Cat 3 Men 45+	49	50:26.0	10:21.0	7:41.6	7:56.4	8:18.3	8:07.1	8:01.6	+3:16.4	+6.94%	93.51%	-2.34%
+40	2037	Matthew Stanigar	Matthew	Stanigar		Cat 3 Men 45+	48	50:32.9	10:22.0	7:51.4	7:57.6	8:05.5	8:07.3	8:09.0	+3:23.3	+7.18%	93.30%	-2.58%
+41	2079	Ken Ramirez	Ken	Ramirez		Cat 3 Men 45+	48	50:40.0	10:25.9	7:48.1	7:54.9	8:06.9	8:07.9	8:16.2	+3:30.4	+7.44%	93.08%	-2.82%
+42	2095	Joel Liefke	Joel	Liefke	Hammer & Awl	Cat 3 Men 45+	45	51:02.5	10:17.7	7:58.8	8:00.0	8:14.6	8:14.7	8:16.7	+3:52.9	+8.23%	92.40%	-3.58%
+43	134	Martin Rand	Martin	Rand		Cat 3 Men 45+	64	51:30.1	10:38.6	8:02.2	8:09.6	8:06.6	8:15.3	8:17.8	+4:20.5	+9.21%	91.57%	-4.51%
+44	2015	Thad Boss	Thad	Boss	Mayhem	Cat 3 Men 45+	47	51:30.4	10:29.7	8:03.4	8:11.5	8:16.9	8:30.3	7:58.6	+4:20.8	+9.22%	91.56%	-4.52%
+45	2088	Eric Stobin	Eric	Stobin	Wahoo	Cat 3 Men 45+	47	51:37.8	10:14.7	7:57.7	8:07.1	8:30.9	8:35.8	8:11.7	+4:28.2	+9.48%	91.34%	-4.77%
+46	2083	Russ Rainforth	Russ	Rainforth	Egencia	Cat 3 Men 45+	55	-1 lap	10:44.8	8:08.6	8:15.8	8:26.2	8:32.6	-	-	-	-	-
+47	2091	Gregory Awalt	Gregory	Awalt	Classic Cycle	Cat 3 Men 45+	51	-1 lap	10:43.8	8:18.7	8:30.5	8:25.3	8:20.4	-	-	-	-	-
+48	2081	Tom Platt	Tom	Platt	Dyna Racing	Cat 3 Men 45+	49	-1 lap	10:39.4	8:23.4	8:25.5	8:30.1	8:39.6	-	-	-	-	-
+49	2038	Jason Land	Jason	Land	Dyna Racing	Cat 3 Men 45+	49	-1 lap	10:22.3	8:19.0	8:35.8	8:52.7	8:34.1	-	-	-	-	-
+50	2040	Randy Salamon	Randy	Salamon		Cat 3 Men 45+	44	-1 lap	10:37.7	8:40.1	8:36.8	8:39.2	8:52.3	-	-	-	-	-
+51	2102	David Parsons	David	Parsons	Taco Time NW	Cat 3 Men 45+	54	-1 lap	12:04.5	9:35.6	8:48.8	8:46.7	8:43.0	-	-	-	-	-
+52	2113	Brett Gaspers	Brett	Gaspers	Apex Racing	Cat 3 Men 45+	53	-3 laps	10:25.5	7:49.0	7:48.9	-	-	-	-	-	-	-
+53	2022	James Mitchell	James	Mitchell	Major Taylor Racing	Cat 3 Men 45+	49	-3 laps	10:18.1	7:53.3	9:21.2	-	-	-	-	-	-	-
+54	2041	Erik Strom	Erik	Strom	Team Zach	Cat 3 Men 45+	51	-5 laps	10:53.2	-	-	-	-	-	-	-	-	-
+55	2137	Reeve Geary	Reeve	Geary	Egencia Cycling Team	Cat 3 Men 45+	51	-5 laps	11:15.4	-	-	-	-	-	-	-	-	-
+-	-	Chris Mendoza	Chris	Mendoza	Green Bike Team	Cat 3 Men 45+	55	DNS							-	-	-	-
+-	2008	Jack Stringham	Jack	Stringham	Garage	Cat 3 Men 45+	51	DNS							-	-	-	-
+-	2017	John Herzog	John	Herzog		Cat 3 Men 45+	51	DNS							-	-	-	-
+-	2086	Kozo Nozawa	Kozo	Nozawa		Cat 3 Men 45+	44	DNS							-	-	-	-
+-	2098	Tim Lewis	Tim	Lewis	Soltero	Cat 3 Men 45+	48	DNS							-	-	-	-
+																		
+		Single Speed Women																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	1307	Anne-Marije Rook	Anne-Marije	Rook	Nomi	Single Speed Women	30	50:20.2	10:58.4	7:52.0	7:53.1	7:52.2	7:53.8	7:50.7	-	-	100%	1.38%
+2	1325	Lea Stralka	Lea	Stralka	Black Sheep Velo	Single Speed Women	41	51:44.6	11:04.2	7:53.8	7:54.5	7:58.2	8:21.9	8:32.0	+1:24.4	+2.79%	97.28%	-1.38%
+3	1329	Rachel Wood	Rachel	Wood	Space Cadet Racing P/B Hello Bicycle	Single Speed Women	29	-1 lap	11:08.6	8:11.3	8:13.0	8:25.9	8:26.4	-	-	-	-	-
+4	1327	Jodi Connolly	Jodi	Connolly	Black Sheep Velo	Single Speed Women	49	-1 lap	11:17.7	8:23.8	8:27.2	8:35.1	8:31.9	-	-	-	-	-
+5	1301	Julie Zivin	Julie	Zivin	CX Northwest	Single Speed Women	48	-1 lap	11:29.1	8:30.0	8:34.5	8:36.3	8:41.0	-	-	-	-	-
+6	1349	Jasmine Bechlem	Jasmine	Bechlem	Pizza Pals	Single Speed Women	26	-1 lap	11:39.6	9:16.9	9:11.8	9:14.6	9:37.0	-	-	-	-	-
+7	1350	Suzann Ball	Suzann	Ball		Single Speed Women	26	-1 lap	12:09.0	9:15.2	9:12.8	9:53.3	9:24.3	-	-	-	-	-
+8	612	Cortni Thrasher	Cortni	Thrasher	Queens Of Dirt P/B Jack's Bicycle Center	Single Speed Women	27	-2 laps	13:39.9	11:43.3	10:57.7	11:45.7	-	-	-	-	-	-
+-	1306	Anne Marie Stonich	Anne Marie	Stonich	Alki-Rubicon	Single Speed Women	42	DNS							-	-	-	-
+																		

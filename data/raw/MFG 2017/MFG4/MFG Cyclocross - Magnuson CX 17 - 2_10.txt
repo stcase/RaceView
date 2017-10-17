@@ -1,0 +1,168 @@
+﻿		Jr Boys 2002/2003													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Difference	% Back	% Winning	% Average
+1	1356	Jacob Miller	Jacob	Miller	Cycle U	Jr Boys 2002/2003	15	24:05.3	7:59.2	8:01.3	8:04.7	-	-	100%	18.21%
+2	786	Alex Bennett	Alex	Bennett	Cycle U Junior	Jr Boys 2002/2003	14	24:05.8	7:53.6	8:07.2	8:04.9	+0:00.5	+0.03%	99.97%	18.18%
+3	1379	Mickie Wilkinson	Mickie	Wilkinson		Jr Boys 2002/2003	15	24:06.3	8:06.6	8:00.8	7:58.9	+0:01.0	+0.07%	99.93%	18.15%
+4	1370	Jakob Buchanan	Jakob	Buchanan	Cascade Bicycle Studio	Jr Boys 2002/2003	15	25:41.8	8:25.7	8:42.0	8:34.0	+1:36.5	+6.68%	93.74%	12.74%
+5	1360	Euan Mcelwaine	Euan	Mcelwaine		Jr Boys 2002/2003	14	26:09.6	8:51.9	8:42.9	8:34.8	+2:04.3	+8.60%	92.08%	11.17%
+6	1363	Abenezer Hailemariam	Abenezer	Hailemariam	Major Taylor	Jr Boys 2002/2003	17	31:22.6	10:10.1	10:22.1	10:50.5	+7:17.3	+30.26%	76.77%	-6.54%
+7	1371	Shafi Osman	Shafi	Osman	Major Taylor	Jr Boys 2002/2003	17	31:28.5	10:07.1	10:26.7	10:54.7	+7:23.2	+30.66%	76.53%	-6.88%
+8	1366	Taw Reh	Taw	Reh	Major Taylor	Jr Boys 2002/2003	15	31:39.9	10:10.2	10:33.5	10:56.2	+7:34.6	+31.45%	76.07%	-7.52%
+9	1369	Noah Michael	Noah	Michael	Mayjor Taylor	Jr Boys 2002/2003	16	31:44.2	10:39.9	10:44.1	10:20.2	+7:38.9	+31.75%	75.90%	-7.77%
+10	1361	Javonn Safford	Javonn	Safford	MAJOR TAYLOR RACING	Jr Boys 2002/2003	16	34:12.1	10:32.8	11:31.8	12:07.5	+10:06.8	+41.98%	70.43%	-16.14%
+11	1365	Shueb Adan	Shueb	Adan	Mayjor Taylor	Jr Boys 2002/2003	16	34:20.4	11:23.1	11:40.8	11:16.5	+10:15.1	+42.56%	70.15%	-16.60%
+12	1364	Prabpreet Singh	Prabpreet	Singh	Mayjor Taylor	Jr Boys 2002/2003	14	34:27.4	10:43.4	11:15.4	12:28.5	+10:22.1	+43.04%	69.91%	-17.00%
+13	1362	Carl Abrogina	Carl	Abrogina	Major Tayler	Jr Boys 2002/2003	16	-1 lap	11:36.2	12:34.6	-	-	-	-	-
+14	1367	Lovepreet Bhullar	Lovepreet	Bhullar	MAJOR TALYOR	Jr Boys 2002/2003	15	-1 lap	12:54.9	13:49.2	-	-	-	-	-
+-	714	Aidan Cordero	Aidan	Cordero	Cycle U	Jr Boys 2002/2003	15	DNS				-	-	-	-
+-	1399	Nate Hall	Nate	Hall	Black Sheep Velo	Jr Boys 2002/2003	14	DNS				-	-	-	-
+															
+		Jr Boys 2004/2005													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Difference	% Back	% Winning	% Average
+1	1872	Sammy Walker	Sammy	Walker	Broadmark/Mt Si Racing	Jr Boys 2004/2005	12	24:13.3	8:21.9	7:57.8	7:53.5	-	-	100%	12.74%
+2	1898	Parker Casazza	Parker	Casazza	Cycle U	Jr Boys 2004/2005	13	24:13.5	8:22.2	7:57.1	7:54.3	+0:00.2	+0.01%	99.99%	12.73%
+3	1899	Jack Harris	Jack	Harris	Cycleu	Jr Boys 2004/2005	13	25:16.9	8:42.2	8:13.6	8:21.1	+1:03.6	+4.38%	95.81%	8.92%
+4	1881	Henry Kaeser	Henry	Kaeser		Jr Boys 2004/2005	13	26:12.9	9:00.4	8:31.5	8:40.9	+1:59.6	+8.23%	92.40%	5.56%
+5	1907	Liam O'Brien	Liam	O'Brien	OMG Racing	Jr Boys 2004/2005	12	26:30.5	9:09.4	8:36.2	8:44.9	+2:17.2	+9.44%	91.37%	4.50%
+6	1876	Lorenzo Harteveld	Lorenzo	Harteveld	Mountsi	Jr Boys 2004/2005	12	27:33.5	9:31.1	8:57.1	9:05.3	+3:20.2	+13.78%	87.89%	0.72%
+7	1912	Parker Stanford	Parker	Stanford	Cycle U	Jr Boys 2004/2005	13	27:39.8	9:07.3	9:11.9	9:20.7	+3:26.5	+14.21%	87.56%	0.34%
+8	1874	Parker Anderson	Parker	Anderson	RAD Racing NW	Jr Boys 2004/2005	12	28:44.0	9:25.2	9:16.9	10:02.0	+4:30.7	+18.63%	84.30%	-3.51%
+9	1896	Itai Malakoff	Itai	Malakoff	Cycle U	Jr Boys 2004/2005	12	29:12.0	9:31.7	9:20.5	10:19.8	+4:58.7	+20.55%	82.95%	-5.19%
+10	1883	Sebastian Beieler	Sebastian	Beieler		Jr Boys 2004/2005	12	32:26.4	10:50.9	10:42.1	10:53.4	+8:13.1	+33.93%	74.67%	-16.87%
+11	1916	Ruben Sparks	Ruben	Sparks	Taco Time NW	Jr Boys 2004/2005	13	33:17.6	11:05.9	10:57.8	11:13.9	+9:04.3	+37.45%	72.75%	-19.94%
+-	1897	Kai Wallis	Kai	Wallis	RAD Racing NW	Jr Boys 2004/2005	12	DNS				-	-	-	-
+-	1903	Maximilian Krause	Maximilian	Krause	Cycle University	Jr Boys 2004/2005	13	DNS				-	-	-	-
+															
+		Jr Boys 2006-2008													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Difference	% Back	% Winning	% Average
+1	890	Nathan Sabol	Nathan	Sabol	RAD Racing NW	Jr Boys 2006-2008	11	26:46.4	9:50.4	8:35.0	8:21.0	-	-	100%	14.43%
+2	873	Jack Barrett Stringham	Jack Barrett	Stringham	RAD Racing NW	Jr Boys 2006-2008	11	26:56.6	9:51.8	8:35.6	8:29.3	+0:10.2	+0.63%	99.37%	13.89%
+3	892	Jonathan Davies	Jonathan	Davies	Tete De La Course	Jr Boys 2006-2008	11	27:02.4	9:50.6	8:35.1	8:36.7	+0:16.0	+1.00%	99.01%	13.58%
+4	867	Milo McIntosh	Milo	McIntosh	Hagens Berman - EY Society	Jr Boys 2006-2008	11	27:10.3	9:59.0	8:28.9	8:42.3	+0:23.9	+1.49%	98.53%	13.16%
+5	871	Luca Laverde	Luca	Laverde	Cycle U	Jr Boys 2006-2008	11	28:19.2	10:06.5	9:01.6	9:11.1	+1:32.8	+5.78%	94.54%	9.49%
+6	877	David Stonich Jr	David	Stonich Jr	Alki-Rubicon	Jr Boys 2006-2008	10	28:29.0	10:12.0	9:08.0	9:08.9	+1:42.6	+6.39%	94.00%	8.97%
+7	860	Aran Connolly	Aran	Connolly	Black Sheep Velo	Jr Boys 2006-2008	10	28:32.2	10:19.0	9:09.8	9:03.5	+1:45.8	+6.59%	93.82%	8.80%
+8	869	Tyler Morgenson	Tyler	Morgenson	Cycle U	Jr Boys 2006-2008	10	28:44.3	10:17.8	9:23.5	9:03.0	+1:57.9	+7.34%	93.16%	8.15%
+9	874	Joe Spranger	Joe	Spranger	RAD Racing	Jr Boys 2006-2008	11	28:53.7	10:12.3	9:20.6	9:20.8	+2:07.3	+7.92%	92.66%	7.65%
+10	887	Johan Leuschke	Johan	Leuschke	Black Sheep Velo	Jr Boys 2006-2008	11	29:09.0	10:21.0	9:29.3	9:18.7	+2:22.6	+8.88%	91.85%	6.84%
+11	861	Finn Westover	Finn	Westover	RAD Racing	Jr Boys 2006-2008	11	29:28.4	10:33.4	9:21.7	9:33.2	+2:42.0	+10.08%	90.84%	5.80%
+12	1910	Theo Huggins	Theo	Huggins	Alki/Rubicon	Jr Boys 2006-2008	11	30:24.1	10:50.6	9:38.9	9:54.6	+3:37.7	+13.55%	88.07%	2.84%
+13	880	Donovan Ramirez	Donovan	Ramirez	Dyna Racing	Jr Boys 2006-2008	11	30:29.5	10:48.7	9:44.8	9:56.0	+3:43.1	+13.89%	87.81%	2.55%
+14	769	True Erbeck	True	Erbeck	Alki Rubicon Racing	Jr Boys 2006-2008	11	30:30.1	10:50.0	9:48.1	9:52.0	+3:43.7	+13.93%	87.78%	2.52%
+15	863	Jackson Hsu	Jackson	Hsu	Cycle U	Jr Boys 2006-2008	9	30:55.5	11:04.4	9:49.7	10:01.4	+4:09.1	+15.51%	86.58%	1.16%
+16	866	Tomas McIntosh	Tomas	McIntosh	Hagens Berman - EY Society	Jr Boys 2006-2008	9	31:09.4	10:54.2	9:59.7	10:15.5	+4:23.0	+16.37%	85.93%	0.42%
+17	815	Caden Ragsdale	Caden	Ragsdale		Jr Boys 2006-2008	10	31:44.1	11:26.6	9:57.5	10:19.9	+4:57.7	+18.53%	84.37%	-1.42%
+18	872	Noa Dolejsi	Noa	Dolejsi	six eight	Jr Boys 2006-2008	11	31:57.9	11:10.0	10:15.1	10:32.8	+5:11.5	+19.39%	83.76%	-2.16%
+19	868	Will Stralka	Will	Stralka	Black Sheep Velo	Jr Boys 2006-2008	9	32:01.0	11:21.3	10:24.2	10:15.6	+5:14.6	+19.58%	83.62%	-2.32%
+20	876	Hayden Bond	Hayden	Bond	Cycle U	Jr Boys 2006-2008	10	33:50.2	11:21.9	11:18.7	11:09.6	+7:03.8	+26.38%	79.13%	-8.14%
+21	886	Truman Atkins	Truman	Atkins	Hodala	Jr Boys 2006-2008	9	34:05.3	11:30.8	11:00.1	11:34.4	+7:18.9	+27.32%	78.54%	-8.95%
+22	856	Reid Hu	Reid	Hu	RAD Racing NW	Jr Boys 2006-2008	11	34:06.3	9:50.7	8:36.4	15:39.2	+7:19.9	+27.38%	78.50%	-9.00%
+23	878	Atticus Dutt	Atticus	Dutt	Cycle University	Jr Boys 2006-2008	10	34:22.7	11:46.4	11:00.1	11:36.3	+7:36.3	+28.41%	77.88%	-9.87%
+24	885	Zach Hall	Zach	Hall	Black Sheep Velo	Jr Boys 2006-2008	10	34:44.0	11:41.8	11:27.8	11:34.4	+7:57.6	+29.73%	77.08%	-11.01%
+25	864	Van Myers	Van	Myers	Brian Myers	Jr Boys 2006-2008	9	34:56.1	11:56.3	11:28.7	11:31.2	+8:09.7	+30.48%	76.64%	-11.65%
+26	440	Anderson Talley	Anderson	Talley	Cycle U	Jr Boys 2006-2008	8	34:59.5	12:16.5	11:10.7	11:32.3	+8:13.1	+30.70%	76.51%	-11.83%
+27	854	Keegan Tornow	Keegan	Tornow	Hagens Berman	Jr Boys 2006-2008	11	35:12.9	12:03.1	11:21.2	11:48.6	+8:26.5	+31.53%	76.03%	-12.55%
+28	566	Caileb Prescod	Caileb	Prescod	Sammamish	Jr Boys 2006-2008	10	35:14.1	12:39.3	11:10.0	11:24.7	+8:27.7	+31.60%	75.99%	-12.61%
+29	540	Owen Lerer	Owen	Lerer		Jr Boys 2006-2008	9	37:09.1	12:18.3	11:31.6	13:19.2	+10:22.7	+38.76%	72.06%	-18.74%
+30	782	Luca Erbeck	Luca	Erbeck	Seattle	Jr Boys 2006-2008	9	-1 lap	12:17.8	11:33.8	-	-	-	-	-
+31	772	Peter Blexrud	Peter	Blexrud		Jr Boys 2006-2008	11	-1 lap	12:19.6	11:55.4	-	-	-	-	-
+32	693	Lewis Stenson	Lewis	Stenson	Dyna Racing	Jr Boys 2006-2008	11	-1 lap	12:18.2	12:02.9	-	-	-	-	-
+33	853	Braedan Tornow	Braedan	Tornow	Hagens Berman	Jr Boys 2006-2008	9	-1 lap	12:34.8	11:53.7	-	-	-	-	-
+34	698	Tommy Holmes	Tommy	Holmes	R4C	Jr Boys 2006-2008	10	-1 lap	12:32.6	12:05.1	-	-	-	-	-
+35	694	Oscar Smith	Oscar	Smith	20/20 Cycles	Jr Boys 2006-2008	10	-1 lap	12:57.9	12:20.2	-	-	-	-	-
+36	554	Vasco Harteveld	Vasco	Harteveld	Mount Si	Jr Boys 2006-2008	10	-1 lap	13:05.4	12:19.7	-	-	-	-	-
+37	875	Leo Childress	Leo	Childress	Alki Rubicon	Jr Boys 2006-2008	10	-1 lap	13:08.6	12:48.4	-	-	-	-	-
+38	862	Tyler Questad	Tyler	Questad	Dyna Racing	Jr Boys 2006-2008	11	-1 lap	13:01.4	12:58.3	-	-	-	-	-
+39	568	John Bedell	John	Bedell		Jr Boys 2006-2008	9	-1 lap	13:17.3	12:43.7	-	-	-	-	-
+40	620	Ely Malaki	Ely	Malaki	Camp Anthony	Jr Boys 2006-2008	11	-1 lap	13:31.5	13:13.0	-	-	-	-	-
+41	621	Chancellor Avolio	Chancellor	Avolio	Monton	Jr Boys 2006-2008	9	-1 lap	14:15.0	13:02.7	-	-	-	-	-
+42	766	Ronan Kroll	Ronan	Kroll	Seattle	Jr Boys 2006-2008	7	-1 lap	16:45.7	10:49.1	-	-	-	-	-
+43	696	Damien Laret	Damien	Laret		Jr Boys 2006-2008	9	-1 lap	15:10.6	14:49.0	-	-	-	-	-
+44	753	Cameron Napier	Cameron	Napier		Jr Boys 2006-2008	11	-1 lap	15:15.0	14:58.6	-	-	-	-	-
+45	870	Quinn George	Quinn	George	CX Northwest	Jr Boys 2006-2008	10	-1 lap	16:55.2	16:37.1	-	-	-	-	-
+-	-	Finn Austin	Finn	Austin	Slalom	Jr Boys 2006-2008	11	DNS				-	-	-	-
+-	-	Niko Austin	Niko	Austin	Slalom	Jr Boys 2006-2008	9	DNS				-	-	-	-
+-	556	Sam Scoville	Sam	Scoville	six eight	Jr Boys 2006-2008	11	DNS				-	-	-	-
+-	784	Kellan Gary	Kellan	Gary	Northwest Bicycles	Jr Boys 2006-2008	9	DNS				-	-	-	-
+-	899	Patrick Dewey	Patrick	Dewey	Black Sheep Velo	Jr Boys 2006-2008	9	DNS				-	-	-	-
+-	900	Jackson Matera	Jackson	Matera	Alki Rubicon	Jr Boys 2006-2008	10	DNS				-	-	-	-
+															
+		Jr Boys 2009/20010													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time				Difference	% Back	% Winning	% Average
+1	2291	Max Koehler	Max	Koehler	Egencia	Jr Boys 2009/20010	7	13:05.2				-	-	100%	16.04%
+2	2280	Grady Young	Grady	Young	Alki Rubicon	Jr Boys 2009/20010	7	13:17.8				+0:12.6	+1.60%	98.42%	14.69%
+3	2300	Owen Stralka	Owen	Stralka	Black Sheep Velo	Jr Boys 2009/20010	7	13:18.6				+0:13.4	+1.71%	98.32%	14.61%
+4	2276	Sebastian Mulier	Sebastian	Mulier	Classic Cycle	Jr Boys 2009/20010	7	13:35.0				+0:29.8	+3.80%	96.34%	12.85%
+5	2286	Theodore Reinhart	Theodore	Reinhart		Jr Boys 2009/20010	8	13:58.7				+0:53.5	+6.81%	93.62%	10.32%
+6	2261	Boris Grant-Riess	Boris	Grant-Riess	Koenigsegg	Jr Boys 2009/20010	8	14:05.4				+1:00.2	+7.67%	92.88%	9.60%
+7	2277	Ze'ev Loetel	Ze'ev	Loetel	Mayhem Racing	Jr Boys 2009/20010	8	14:11.6				+1:06.4	+8.46%	92.20%	8.94%
+8	2268	Joseph Bedell	Joseph	Bedell		Jr Boys 2009/20010	8	14:13.8				+1:08.6	+8.74%	91.97%	8.70%
+9	2279	Mason Tornow	Mason	Tornow	Hagens Berman	Jr Boys 2009/20010	6	14:16.8				+1:11.6	+9.12%	91.64%	8.38%
+10	2284	Andy Smith	Andy	Smith	20/20 Cycles	Jr Boys 2009/20010	6	14:21.9				+1:16.7	+9.77%	91.10%	7.84%
+11	2254	Graeme Childress	Graeme	Childress	Alki Rubicon	Jr Boys 2009/20010	7	14:36.8				+1:31.6	+11.67%	89.55%	6.24%
+12	2272	Max Dolejsi	Max	Dolejsi	six eight	Jr Boys 2009/20010	7	14:54.5				+1:49.3	+13.92%	87.78%	4.35%
+13	2257	Noah Stringham	Noah	Stringham	Seattle	Jr Boys 2009/20010	6	15:09.4				+2:04.2	+15.82%	86.34%	2.76%
+14	2282	Hudson Questad	Hudson	Questad	Dyna Racing	Jr Boys 2009/20010	7	15:11.7				+2:06.5	+16.11%	86.12%	2.51%
+15	2296	Milan Urakawa	Milan	Urakawa	Dyna Racing	Jr Boys 2009/20010	7	15:16.3				+2:11.1	+16.70%	85.69%	2.02%
+16	2290	Jackson Romesburg	Jackson	Romesburg		Jr Boys 2009/20010	7	15:27.2				+2:22.0	+18.08%	84.69%	0.85%
+17	2247	Fionn Stenson	Fionn	Stenson	Dyna Racing	Jr Boys 2009/20010	8	15:53.8				+2:48.6	+21.47%	82.32%	-1.99%
+18	2262	Ruben Stambaugh	Ruben	Stambaugh	Alki-Rubicon	Jr Boys 2009/20010	6	16:41.6				+3:36.4	+27.56%	78.39%	-7.10%
+19	2294	Owen Tobias	Owen	Tobias		Jr Boys 2009/20010	8	16:42.5				+3:37.3	+27.67%	78.32%	-7.20%
+20	2273	Adam Ramadan	Adam	Ramadan	Team Ramadan	Jr Boys 2009/20010	7	16:44.5				+3:39.3	+27.93%	78.17%	-7.41%
+21	2297	Henry Masse	Henry	Masse	NA	Jr Boys 2009/20010	8	16:47.0				+3:41.8	+28.25%	77.97%	-7.68%
+22	2274	Tate Hough	Tate	Hough		Jr Boys 2009/20010	7	16:54.5				+3:49.3	+29.20%	77.40%	-8.48%
+23	2266	Jacob Lupton	Jacob	Lupton		Jr Boys 2009/20010	7	20:41.7				+7:36.5	+58.14%	63.24%	-32.77%
+24	2270	Leroi Smith V	Leroi	Smith V	Black Sheep Velo	Jr Boys 2009/20010	7	24:38.3				+11:33.1	+88.27%	53.12%	-58.07%
+-	2251	William Pryor	William	Pryor	Seattle	Jr Boys 2009/20010	8	DNS				-	-	-	-
+-	2253	John Pryor1	John	Pryor1	Seattle	Jr Boys 2009/20010	6	DNS				-	-	-	-
+-	2259	Gus Stonich	Gus	Stonich		Jr Boys 2009/20010	8	DNS				-	-	-	-
+															
+		Jr Girls 2002/2003													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Difference	% Back	% Winning	% Average
+1	1357	Anna Pilbeam	Anna	Pilbeam		Jr Girls 2002/2003	15	32:15.9	10:34.6	10:42.7	10:58.6	-	-	100%	0.00%
+-	1398	Lul Hussein	Lul	Hussein	Major Taylor Project	Jr Girls 2002/2003	15	DNS				-	-	-	-
+															
+		Jr Girls 2004/2005													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Difference	% Back	% Winning	% Average
+1	1882	Poppy Knorr	Poppy	Knorr	Black Sheep Velo	Jr Girls 2004/2005	13	28:40.8	9:59.7	9:26.4	9:14.7	-	-	100%	13.53%
+2	1875	Sofia Ruiz-Murphy	Sofia	Ruiz-Murphy	Black Sheep Velo	Jr Girls 2004/2005	13	30:58.1	11:09.0	10:03.8	9:45.4	+2:17.3	+7.98%	92.61%	6.63%
+3	1905	Devon Hodgins	Devon	Hodgins	NWCX Project	Jr Girls 2004/2005	13	31:53.6	10:34.0	10:19.0	11:00.6	+3:12.8	+11.20%	89.92%	3.84%
+4	1871	Phaedra Franklin	Phaedra	Franklin	RAD Racing	Jr Girls 2004/2005	12	34:32.5	11:51.3	11:31.8	11:09.4	+5:51.7	+20.44%	83.03%	-4.15%
+5	1904	Monica Ballas	Monica	Ballas	NWCX Project	Jr Girls 2004/2005	12	34:37.8	11:21.7	11:22.7	11:53.4	+5:57.0	+20.75%	82.82%	-4.42%
+6	1901	Audrey Eng	Audrey	Eng	NWCX Project	Jr Girls 2004/2005	12	35:36.5	12:06.0	11:59.0	11:31.5	+6:55.7	+24.16%	80.54%	-7.36%
+7	1913	Katelyn Dang	Katelyn	Dang	Bicycle Centres	Jr Girls 2004/2005	13	35:50.3	11:55.4	12:10.9	11:44.1	+7:09.5	+24.96%	80.03%	-8.06%
+8	1873	Indigo Newby-House	Indigo	Newby-House	RAD Racing	Jr Girls 2004/2005	12	-1 lap	12:40.6	12:53.4	-	-	-	-	-
+-	-	Aviana De Keizer-Mendoza	Aviana	De Keizer-Mendoza	Green Bike Team	Jr Girls 2004/2005	13	DNS				-	-	-	-
+-	1878	Betsy Stonich	Betsy	Stonich	Alki-Rubicon	Jr Girls 2004/2005	12	DNS				-	-	-	-
+-	1890	Makenna Gary	Makenna	Gary	Boradmark Mt. Si Racing	Jr Girls 2004/2005	13	DNS				-	-	-	-
+-	1919	Ella Gillespie	Ella	Gillespie	Gillespie Eye Care	Jr Girls 2004/2005	13	DNS				-	-	-	-
+															
+		Jr Girls 2006-2008													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Difference	% Back	% Winning	% Average
+1	1906	Ryan Connolly	Ryan	Connolly	Black Sheep Velo	Jr Girls 2006-2008	12	31:08.6	11:08.4	10:03.8	9:56.4	-	-	100%	6.07%
+2	781	Ivy Stringham	Ivy	Stringham	Seattle	Jr Girls 2006-2008	9	32:02.4	11:40.8	10:19.5	10:02.1	+0:53.8	+2.88%	97.20%	3.36%
+3	770	Mairin O'Brien	Mairin	O'Brien		Jr Girls 2006-2008	10	32:04.1	11:28.3	10:22.9	10:12.9	+0:55.5	+2.97%	97.12%	3.28%
+4	345	Virginia Pruitt	Virginia	Pruitt	Cycle U Juniors	Jr Girls 2006-2008	11	33:37.4	11:38.9	10:42.4	11:16.1	+2:28.8	+7.96%	92.62%	-1.41%
+5	1368	Ahmed Osman	Ahmed	Osman	Major Taylor	Jr Girls 2006-2008	15	34:37.2	11:11.8	11:39.6	11:45.9	+3:28.6	+11.16%	89.96%	-4.42%
+6	857	Keaghlan Robinson	Keaghlan	Robinson	RAD Racing NW	Jr Girls 2006-2008		35:26.0	12:35.2	11:19.6	11:31.2	+4:17.4	+13.78%	87.89%	-6.87%
+7	848	Mimi Koehler	Mimi	Koehler	Egencia	Jr Girls 2006-2008	11	-1 lap	12:50.7	12:09.2	-	-	-	-	-
+8	891	Greta Kornmann	Greta	Kornmann	NW CX Project	Jr Girls 2006-2008	10	-1 lap	13:10.1	11:52.5	-	-	-	-	-
+9	858	Maren Young	Maren	Young	Alki Rubicon	Jr Girls 2006-2008	9	-1 lap	13:22.3	12:18.1	-	-	-	-	-
+10	883	Stella Bressler	Stella	Bressler	Queens Of Dirt	Jr Girls 2006-2008	10	-1 lap	13:51.9	12:32.7	-	-	-	-	-
+11	865	Fiona Ballas	Fiona	Ballas	NWCX Project	Jr Girls 2006-2008	9	-1 lap	13:42.8	13:00.2	-	-	-	-	-
+12	771	Megan Peterson	Megan	Peterson		Jr Girls 2006-2008	9	-1 lap	14:09.1	13:32.2	-	-	-	-	-
+13	889	Emelia Di Qual	Emelia	Di Qual	Taco Time NW	Jr Girls 2006-2008	9	-1 lap	14:40.5	13:13.0	-	-	-	-	-
+14	884	Catie Schumacher	Catie	Schumacher		Jr Girls 2006-2008	11	-1 lap	14:48.4	13:34.2	-	-	-	-	-
+15	768	Nina Bouse	Nina	Bouse	NW Womens CX Project	Jr Girls 2006-2008	9	-1 lap	14:30.6	14:11.3	-	-	-	-	-
+16	697	Sydney Hawthorne	Sydney	Hawthorne	Hawthorne Bunch	Jr Girls 2006-2008	9	-1 lap	14:46.0	14:17.8	-	-	-	-	-
+17	695	Kaylee Gudwin	Kaylee	Gudwin	Cycle University	Jr Girls 2006-2008	11	-1 lap	15:27.6	13:53.2	-	-	-	-	-
+18	682	Kassidy McNees	Kassidy	McNees	NWCX Project	Jr Girls 2006-2008	9	-2 laps	17:02.4	-	-	-	-	-	-
+															
+		Jr Girls 2009/2010													
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time				Difference	% Back	% Winning	% Average
+1	2298	Taylor Duquette	Taylor	Duquette	Alki Rubicon	Jr Girls 2009/2010	8	13:25.3				-	-	100%	13.61%
+2	2252	Sophie Matera	Sophie	Matera	Alki Rubicon	Jr Girls 2009/2010	8	14:02.6				+0:37.3	+4.63%	95.57%	9.61%
+3	2295	Kaya Nozawa	Kaya	Nozawa	Black Sheep Velo	Jr Girls 2009/2010	7	15:18.4				+1:53.1	+14.04%	87.69%	1.48%
+4	2271	Jozi Holmes	Jozi	Holmes	R4C	Jr Girls 2009/2010	7	16:55.1				+3:29.8	+26.05%	79.33%	-8.90%
+5	2299	Scarlett George	Scarlett	George	CX Northwest	Jr Girls 2009/2010	7	17:59.4				+4:34.1	+34.04%	74.61%	-15.80%
+															

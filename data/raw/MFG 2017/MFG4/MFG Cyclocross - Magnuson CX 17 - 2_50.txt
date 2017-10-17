@@ -1,0 +1,121 @@
+﻿		Cat 1/2 Men 35+																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	307	Brian Bressler	Brian	Bressler	Crossshare Racing	Cat 1/2 Men 35+	41	42:55.5	7:15.5	7:07.3	7:04.1	7:06.7	7:10.6	7:11.3	-	-	100%	3.62%
+2	308	Barney Gill	Barney	Gill		Cat 1/2 Men 35+	43	43:33.5	7:17.1	7:06.1	7:10.3	7:18.0	7:20.0	7:22.0	+0:38.0	+1.48%	98.55%	2.20%
+3	297	Conrad Kornmann	Conrad	Kornmann	Slalom	Cat 1/2 Men 35+	40	43:44.8	7:20.1	7:13.7	7:12.1	7:16.2	7:28.8	7:13.9	+0:49.3	+1.91%	98.12%	1.78%
+4	306	JC Ramirez	JC	Ramirez	Dyna Racing	Cat 1/2 Men 35+	43	43:47.4	7:15.8	7:10.2	7:16.1	7:20.3	7:28.0	7:17.0	+0:51.9	+2.02%	98.02%	1.68%
+5	284	Andy Rigel	Andy	Rigel	Mafia Racing NW	Cat 1/2 Men 35+	42	44:07.8	7:17.8	7:15.8	7:23.8	7:18.4	7:30.2	7:21.9	+1:12.3	+2.81%	97.27%	0.92%
+6	283	Mark Freda	Mark	Freda	Mayhem Racing	Cat 1/2 Men 35+	44	44:26.7	7:17.0	7:16.2	7:23.7	7:24.0	7:33.0	7:32.8	+1:31.2	+3.54%	96.58%	0.21%
+7	304	Bryan Torian	Bryan	Torian	Olympia Orthopaedic Associates	Cat 1/2 Men 35+	40	44:38.7	7:16.2	7:19.3	7:31.4	7:32.8	7:33.8	7:25.1	+1:43.2	+4.01%	96.15%	-0.24%
+7	298	Justin Romesburg	Justin	Romesburg		Cat 1/2 Men 35+	36	44:38.7	7:16.6	7:19.1	7:31.5	7:32.3	7:34.4	7:25.0	+1:43.2	+4.01%	96.15%	-0.24%
+9	310	John Lackey	John	Lackey	Fatback Bikes	Cat 1/2 Men 35+	39	44:38.9	7:16.4	7:06.6	7:23.3	7:43.7	7:43.9	7:25.0	+1:43.4	+4.01%	96.14%	-0.24%
+10	309	Andrew Lamb	Andrew	Lamb	Dyna Racing	Cat 1/2 Men 35+	43	45:57.2	7:20.9	7:42.9	7:36.0	7:44.0	7:44.1	7:49.4	+3:01.7	+7.05%	93.41%	-3.17%
+11	302	Jonas Bakkane	Jonas	Bakkane	Egencia	Cat 1/2 Men 35+	43	47:26.8	7:36.5	7:51.1	7:57.2	7:42.4	8:07.9	8:11.7	+4:31.3	+10.53%	90.47%	-6.53%
+-	281	Kyle Gillespie	Kyle	Gillespie	Gillespie Eye Care	Cat 1/2 Men 35+	37	DNS							-	-	-	-
+-	296	Jason Jablonski	Jason	Jablonski	Gillespie Eye Care/SET Coaching	Cat 1/2 Men 35+	44	DNS							-	-	-	-
+-	301	Michael Manthey	Michael	Manthey		Cat 1/2 Men 35+	41	DNS							-	-	-	-
+																		
+		Cat 1/2 Men 45+																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	1845	Doug Carlton	Doug	Carlton	Keller Rohrback	Cat 1/2 Men 45+	49	43:54.1	8:42.2	6:55.2	7:01.9	7:05.2	7:09.7	6:59.8	-	-	100%	4.64%
+2	1855	Craig Undem	Craig	Undem		Cat 1/2 Men 45+	54	44:17.0	8:45.0	6:52.6	7:02.1	7:05.1	7:09.3	7:22.9	+0:22.9	+0.87%	99.14%	3.81%
+3	1833	Doug Davis	Doug	Davis		Cat 1/2 Men 45+	49	44:54.4	8:44.5	7:08.7	7:14.6	7:15.6	7:21.6	7:09.5	+1:00.3	+2.29%	97.76%	2.46%
+4	1846	Nikos Mills	Nikos	Mills	Garage Racing	Cat 1/2 Men 45+	51	44:55.0	8:45.2	7:08.4	7:13.9	7:16.4	7:21.5	7:09.6	+1:00.9	+2.31%	97.74%	2.44%
+5	1858	Chris Rodde	Chris	Rodde	Taco Time	Cat 1/2 Men 45+	48	44:57.6	8:42.5	7:11.3	7:13.8	7:15.6	7:22.4	7:12.1	+1:03.5	+2.41%	97.65%	2.34%
+6	1806	Rainer Leuschke	Rainer	Leuschke	Black Sheep Velo	Cat 1/2 Men 45+	46	45:06.8	8:46.4	7:15.9	7:13.5	7:11.9	7:18.3	7:20.9	+1:12.7	+2.76%	97.31%	2.01%
+7	1852	David Stonich	David	Stonich	Alki-Rubicon	Cat 1/2 Men 45+	45	45:30.9	8:46.9	7:15.6	7:13.0	7:18.2	7:33.9	7:23.2	+1:36.8	+3.67%	96.46%	1.14%
+8	1853	Justin Harman	Justin	Harman	Woodinville Bicycle	Cat 1/2 Men 45+	48	45:31.9	8:47.7	7:20.1	7:16.8	7:22.6	7:27.6	7:17.1	+1:37.8	+3.71%	96.42%	1.10%
+9	1857	Alec Duxbury	Alec	Duxbury		Cat 1/2 Men 45+	49	45:33.1	8:52.5	7:15.0	7:16.8	7:22.7	7:27.6	7:18.5	+1:39.0	+3.76%	96.38%	1.06%
+10	1834	Kevin Donovan	Kevin	Donovan	Set Coaching	Cat 1/2 Men 45+	46	45:46.3	9:06.7	7:17.3	7:25.2	7:17.7	7:23.5	7:15.9	+1:52.2	+4.26%	95.91%	0.58%
+11	1808	George Neffner	George	Neffner	Woodinville Bicycle	Cat 1/2 Men 45+	52	46:03.4	9:05.3	7:18.3	7:24.8	7:24.2	7:35.2	7:15.6	+2:09.3	+4.91%	95.32%	-0.04%
+12	1859	Steve Jensen	Steve	Jensen	CX Northwest	Cat 1/2 Men 45+	51	46:03.6	8:59.0	7:24.2	7:25.7	7:37.8	7:23.7	7:13.3	+2:09.5	+4.92%	95.31%	-0.04%
+13	1801	Leroi Smith	Leroi	Smith	Black Sheep Velo	Cat 1/2 Men 45+	48	46:04.8	9:05.5	7:17.7	7:25.7	7:23.9	7:35.1	7:16.9	+2:10.7	+4.96%	95.27%	-0.09%
+14	1837	Christopher Fast	Christopher	Fast	Black Sheep Velo	Cat 1/2 Men 45+	51	46:05.8	9:06.7	7:23.4	7:26.9	7:27.4	7:23.8	7:17.6	+2:11.7	+5.00%	95.24%	-0.12%
+15	1850	Kevin Miller	Kevin	Miller	Snoqualmie Velo Club	Cat 1/2 Men 45+	47	46:33.8	8:47.1	7:20.9	7:24.7	7:46.7	7:40.3	7:34.1	+2:39.7	+6.06%	94.28%	-1.14%
+16	1831	Randy Manion	Randy	Manion	Dyna Racing	Cat 1/2 Men 45+	47	46:45.6	9:06.4	7:17.8	7:46.8	7:34.5	7:29.1	7:30.9	+2:51.5	+6.51%	93.89%	-1.56%
+17	1810	Michael Murdin	Michael	Murdin	Garage	Cat 1/2 Men 45+	46	46:49.8	9:08.9	7:27.1	7:35.8	7:42.7	7:35.4	7:19.9	+2:55.7	+6.67%	93.75%	-1.72%
+18	1809	Ben Kaplan	Ben	Kaplan		Cat 1/2 Men 45+	46	46:50.2	9:05.7	7:18.1	7:25.7	7:37.4	7:48.4	7:35.0	+2:56.1	+6.69%	93.73%	-1.73%
+19	1836	Rick Heckenlaible	Rick	Heckenlaible	AUDI	Cat 1/2 Men 45+	54	47:04.4	9:06.1	7:30.4	7:35.1	7:43.4	7:35.4	7:34.1	+3:10.3	+7.22%	93.26%	-2.25%
+20	1867	Bryan Urakawa	Bryan	Urakawa	Dyna Racing	Cat 1/2 Men 45+	46	47:12.9	8:52.2	7:43.9	7:35.6	7:33.5	7:45.4	7:42.3	+3:18.8	+7.55%	92.98%	-2.55%
+21	1866	Rone Huebner	Rone	Huebner	Mayhem	Cat 1/2 Men 45+	56	47:29.6	9:14.3	7:39.1	7:41.1	7:37.3	7:44.8	7:32.9	+3:35.5	+8.18%	92.44%	-3.16%
+22	1851	Ken Harmon	Ken	Harmon		Cat 1/2 Men 45+	55	47:34.0	9:08.9	7:37.5	7:37.9	7:47.2	7:45.4	7:37.0	+3:39.9	+8.35%	92.30%	-3.32%
+23	1868	Roger Burton	Roger	Burton	Egencia	Cat 1/2 Men 45+	46	47:49.6	9:14.0	7:39.1	7:46.3	7:46.2	7:44.9	7:39.2	+3:55.5	+8.94%	91.79%	-3.88%
+24	1811	Pat Miller	Pat	Miller	Hagens Berman - EY Society	Cat 1/2 Men 45+	46	-2 laps	9:51.1	7:45.6	7:49.6	8:25.4	-	-	-	-	-	-
+-	1804	Pedro Deguzman	Pedro	Deguzman	Hotwire / Alki Velo Club	Cat 1/2 Men 45+	47	DNS							-	-	-	-
+-	1843	Richard Mcclung	Richard	Mcclung	Broadmark Capital	Cat 1/2 Men 45+	52	DNS							-	-	-	-
+-	1847	Chris Adolf	Chris	Adolf	Felll Swoop Racing Team	Cat 1/2 Men 45+	55	DNS							-	-	-	-
+-	1848	Bob Kruger	Bob	Kruger	Native	Cat 1/2 Men 45+	48	DNS							-	-	-	-
+-	1849	Chris Bond	Chris	Bond	Dyna Racing	Cat 1/2 Men 45+	49	DNS							-	-	-	-
+																		
+		Single Speed Men																
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
+1	505	Daniel Olsen	Daniel	Olsen		Single Speed Men	34	45:37.8	10:07.7	7:12.2	7:01.0	7:20.4	6:57.0	6:59.5	-	-	100%	5.89%
+2	564	Galen Erickson	Galen	Erickson		Single Speed Men	34	45:47.4	10:08.1	7:12.0	7:00.8	7:20.7	7:06.9	6:58.8	+0:09.6	+0.35%	99.65%	5.56%
+3	507	Brad Nelson	Brad	Nelson	Kinekt	Single Speed Men	28	46:12.9	10:07.9	7:12.3	7:01.2	7:20.2	7:07.1	7:24.3	+0:35.1	+1.28%	98.73%	4.69%
+4	523	Alex Walker	Alex	Walker	Old Town Bicycle	Single Speed Men	36	46:18.5	10:17.2	7:10.0	7:09.9	7:09.5	7:18.9	7:13.1	+0:40.7	+1.49%	98.54%	4.49%
+5	525	Rear Admiral Hewell	Rear Admiral	Hewell	Space Cadet Racing P/B Hello	Single Speed Men	32	46:20.0	10:22.4	7:06.4	7:08.7	7:14.8	7:16.5	7:11.2	+0:42.2	+1.54%	98.48%	4.44%
+6	549	Zack Phillips	Zack	Phillips	PCP Racing	Single Speed Men	44	46:45.0	10:24.2	7:11.8	7:15.0	7:19.1	7:19.3	7:15.6	+1:07.2	+2.45%	97.60%	3.58%
+7	600	Gregory Heath	Gregory	Heath	Hodala	Single Speed Men	44	46:48.0	10:25.2	7:11.0	7:18.0	7:16.1	7:19.3	7:18.4	+1:10.2	+2.56%	97.50%	3.48%
+8	533	Tyler Smith	Tyler	Smith	Rapha Cycling Club	Single Speed Men	33	47:14.3	10:21.9	7:19.4	7:18.4	7:29.4	7:27.1	7:18.1	+1:36.5	+3.52%	96.60%	2.57%
+9	405	John Duquette	John	Duquette	Alki Rubicon	Single Speed Men	40	47:19.3	10:23.8	7:17.2	7:18.3	7:29.5	7:27.2	7:23.4	+1:41.5	+3.71%	96.43%	2.40%
+10	444	Brian Myers	Brian	Myers		Single Speed Men	39	47:24.5	10:26.6	7:24.2	7:27.2	7:28.9	7:24.0	7:13.7	+1:46.7	+3.90%	96.25%	2.22%
+11	428	Nick Stroud	Nick	Stroud	Donger/OMG	Single Speed Men	26	47:26.0	10:22.5	7:14.0	7:17.7	7:35.2	7:35.3	7:21.3	+1:48.2	+3.95%	96.20%	2.17%
+12	517	Anthony Dickson	Anthony	Dickson	HAMMER+AWL	Single Speed Men	45	47:26.1	10:42.2	7:17.5	7:14.5	7:23.5	7:26.7	7:21.8	+1:48.3	+3.96%	96.19%	2.17%
+13	593	Clint Culpepper	Clint	Culpepper	The Athletic	Single Speed Men	37	47:47.5	10:46.7	7:16.4	7:12.2	7:36.6	7:33.1	7:22.5	+2:09.7	+4.74%	95.48%	1.43%
+14	1663	Roy Stansell	Roy	Stansell	Olympia Orthopedic Associates	Single Speed Men	28	47:50.8	10:34.8	7:23.8	7:26.8	7:28.4	7:32.7	7:24.3	+2:13.0	+4.86%	95.37%	1.32%
+15	429	Joshua Stinger	Joshua	Stinger	Ride Sasquatch	Single Speed Men	34	48:06.4	10:33.8	7:25.1	7:27.0	7:26.3	7:36.0	7:38.2	+2:28.6	+5.43%	94.85%	0.78%
+16	441	Taser Face	Taser	Face	Egencia	Single Speed Men	28	48:11.5	10:42.6	7:19.4	7:24.9	7:28.6	7:43.0	7:32.9	+2:33.7	+5.61%	94.68%	0.61%
+17	421	Ben Storrar	Ben	Storrar		Single Speed Men	39	48:19.0	10:33.9	7:25.3	7:26.9	7:37.5	7:41.4	7:34.0	+2:41.2	+5.89%	94.44%	0.35%
+18	567	Dylan Carney	Dylan	Carney	Soft Like Kitten	Single Speed Men	36	48:21.4	10:33.4	7:26.8	7:31.3	7:37.1	7:40.6	7:32.2	+2:43.6	+5.98%	94.36%	0.27%
+19	555	Zac Daab	Zac	Daab	Rapha Cycling Club	Single Speed Men	41	48:26.1	10:44.2	7:42.1	7:26.3	7:29.1	7:33.1	7:31.3	+2:48.3	+6.15%	94.21%	0.11%
+20	499	Jessica Cutler	Jessica	Cutler	NWCX Project	Single Speed Men	38	48:27.4	10:45.1	7:30.5	7:28.7	7:35.3	7:35.9	7:32.0	+2:49.6	+6.19%	94.17%	0.06%
+21	409	Brandon Camarda	Brandon	Camarda		Single Speed Men	28	48:29.5	10:44.4	7:36.4	7:31.5	7:28.9	7:33.8	7:34.4	+2:51.7	+6.27%	94.10%	-0.01%
+22	539	Francisco Colon	Francisco	Colon	C6 Racing	Single Speed Men	34	48:54.1	10:34.1	8:13.9	7:34.6	7:25.0	7:33.6	7:32.9	+3:16.3	+7.17%	93.31%	-0.86%
+23	412	Dieter Laskowski	Dieter	Laskowski		Single Speed Men	31	49:04.1	10:57.0	7:33.7	7:31.4	7:45.3	7:39.7	7:36.9	+3:26.3	+7.54%	92.99%	-1.20%
+24	419	Peter Hall	Peter	Hall	Black Sheep Hall	Single Speed Men	49	49:21.7	10:47.3	7:33.3	7:32.4	7:46.8	7:52.4	7:49.5	+3:43.9	+8.18%	92.44%	-1.80%
+25	416	Ben Smith	Ben	Smith		Single Speed Men	42	49:27.9	10:45.4	7:34.3	7:37.5	7:45.8	7:57.2	7:47.7	+3:50.1	+8.40%	92.25%	-2.02%
+25	594	Bryan Smith	Bryan	Smith	Pizza Pals	Single Speed Men	34	49:27.9	10:44.8	7:38.9	7:33.8	7:58.4	7:51.4	7:40.7	+3:50.1	+8.40%	92.25%	-2.02%
+27	424	Nathan Atkins	Nathan	Atkins	Hodala	Single Speed Men	41	49:33.9	11:06.0	7:40.2	7:40.8	7:38.9	7:48.7	7:39.3	+3:56.1	+8.62%	92.06%	-2.22%
+28	414	Theo Roffe	Theo	Roffe		Single Speed Men	32	49:35.7	11:01.2	7:32.8	7:39.0	7:51.9	7:47.3	7:43.6	+3:57.9	+8.69%	92.01%	-2.29%
+29	511	Alec Cervenka	Alec	Cervenka		Single Speed Men	31	49:39.0	10:53.7	7:32.7	7:42.0	7:52.0	7:50.4	7:48.2	+4:01.2	+8.81%	91.90%	-2.40%
+30	417	Ben Schauland	Ben	Schauland	Pizza Pals	Single Speed Men	31	49:47.6	10:45.1	7:41.9	7:52.1	7:46.6	7:48.5	7:53.4	+4:09.8	+9.12%	91.64%	-2.69%
+31	553	Hahn Rossman	Hahn	Rossman	Alki Rubicon	Single Speed Men	47	49:56.7	10:47.9	7:39.4	7:46.2	7:52.9	7:51.5	7:58.8	+4:18.9	+9.46%	91.36%	-3.01%
+32	418	Matt Zanner	Matt	Zanner	INDEPENDENT FABRICATION	Single Speed Men	46	49:59.5	11:00.9	7:40.7	7:45.2	7:50.4	7:50.0	7:52.3	+4:21.7	+9.56%	91.28%	-3.10%
+33	439	Kellen Rack	Kellen	Rack	Heartthrob	Single Speed Men	36	50:10.6	11:00.6	7:34.4	7:49.5	7:58.5	7:57.5	7:50.2	+4:32.8	+9.96%	90.94%	-3.49%
+34	569	Dustin Riggs	Dustin	Riggs	Pizza Pals	Single Speed Men	32	50:18.3	10:48.6	7:46.3	7:44.5	7:50.2	8:04.6	8:04.2	+4:40.5	+10.25%	90.71%	-3.75%
+35	589	Ben Groenhout	Ben	Groenhout		Single Speed Men	30	50:28.6	11:12.5	7:38.2	7:35.0	7:38.9	8:09.2	8:14.9	+4:50.8	+10.62%	90.40%	-4.10%
+36	420	Colin Northcraft	Colin	Northcraft	Pizza Pals	Single Speed Men	34	50:28.7	11:01.8	7:50.6	7:55.0	7:54.7	7:55.1	7:51.6	+4:50.9	+10.63%	90.40%	-4.11%
+37	427	Tyler Johnson	Tyler	Johnson	Shred Club	Single Speed Men	30	50:45.8	10:39.3	7:56.5	7:57.9	8:01.0	8:14.7	7:56.5	+5:08.0	+11.25%	89.89%	-4.70%
+38	542	Sean Marsh	Sean	Marsh	Pizza Pals	Single Speed Men	30	50:50.2	11:11.1	7:43.3	8:09.1	8:04.9	8:15.3	7:26.5	+5:12.4	+11.41%	89.76%	-4.85%
+39	415	Aaron Grant	Aaron	Grant	Pizza Pals	Single Speed Men	30	-1 lap	10:53.6	7:40.8	7:56.7	8:19.9	8:05.0	-	-	-	-	-
+40	588	Layton Meyers	Layton	Meyers		Single Speed Men	17	-1 lap	10:32.1	7:43.7	8:25.5	9:32.6	7:34.6	-	-	-	-	-
+41	500	Ehrin S Bulfin	Ehrin S	Bulfin		Single Speed Men	31	-1 lap	11:07.9	8:00.4	8:13.2	8:24.3	8:11.8	-	-	-	-	-
+42	506	Cody Riggs	Cody	Riggs	Pizza Pals	Single Speed Men	32	-1 lap	11:14.8	8:15.9	8:12.5	8:51.3	7:53.7	-	-	-	-	-
+43	442	Christopher L Stubel	Christopher L	Stubel	Apex Racing	Single Speed Men	26	-1 lap	11:20.9	8:00.4	8:16.6	8:21.4	8:29.2	-	-	-	-	-
+44	585	Andrew Morrisonn	Andrew	Morrisonn		Single Speed Men	37	-1 lap	10:54.4	7:26.0	8:25.6	8:11.1	9:33.7	-	-	-	-	-
+45	410	Stephen Willis	Stephen	Willis	Pizza Pals	Single Speed Men	29	-1 lap	11:25.3	8:09.0	8:22.3	8:27.4	8:08.1	-	-	-	-	-
+46	434	Charlie George	Charlie	George	CX Northwest	Single Speed Men	47	-1 lap	11:44.6	8:05.9	8:12.5	8:19.8	8:11.1	-	-	-	-	-
+47	590	Eviljim Bowes	Eviljim	Bowes	Suck It	Single Speed Men	46	-1 lap	11:32.5	8:11.6	8:22.7	8:27.7	8:18.1	-	-	-	-	-
+48	438	Drew Demeter	Drew	Demeter		Single Speed Men	45	-1 lap	11:43.6	8:17.3	8:20.1	8:20.4	8:31.0	-	-	-	-	-
+49	530	Rob Johnson	Rob	Johnson	Space Cadet Racing P/B Hello Bicycle	Single Speed Men	38	-1 lap	11:47.2	8:06.2	8:24.8	8:42.0	8:16.9	-	-	-	-	-
+50	561	David J Parsons	David J	Parsons	Taco Time NW	Single Speed Men	54	-1 lap	11:36.3	8:17.4	8:23.2	8:33.8	8:28.5	-	-	-	-	-
+51	587	Joseph Fogelstrom	Joseph	Fogelstrom		Single Speed Men	32	-1 lap	11:52.4	8:13.0	8:11.3	8:45.0	8:27.9	-	-	-	-	-
+52	443	Mark E Selander	Mark E	Selander	Apex Racing	Single Speed Men	43	-1 lap	11:17.3	8:08.4	8:25.7	8:50.8	8:54.7	-	-	-	-	-
+53	592	Anthony Sands	Anthony	Sands	L.F.G.F.	Single Speed Men	42	-1 lap	12:02.0	8:44.3	8:32.1	8:32.3	8:34.0	-	-	-	-	-
+54	558	Marty Sparks	Marty	Sparks	Taco Time NW	Single Speed Men	54	-1 lap	11:48.6	8:27.5	8:44.9	8:58.3	8:49.6	-	-	-	-	-
+55	541	Seth Howard	Seth	Howard		Single Speed Men	44	-1 lap	14:25.4	8:03.9	8:11.4	8:11.4	8:07.5	-	-	-	-	-
+56	591	Cory Hughes	Cory	Hughes		Single Speed Men	39	-1 lap	11:55.2	8:31.8	8:46.4	8:57.0	8:58.0	-	-	-	-	-
+57	538	Ian Macleod	Ian	Macleod		Single Speed Men	27	-1 lap	12:04.2	8:44.4	8:43.9	8:58.7	8:37.6	-	-	-	-	-
+58	537	Brian Saeter	Brian	Saeter	Dyna Racing	Single Speed Men	31	-1 lap	12:03.8	8:46.7	8:44.7	8:52.3	8:53.8	-	-	-	-	-
+59	508	Lt. Hamster Style	Lt. Hamster	Style	Space Cadet Racing P/B Hello Bicycle	Single Speed Men	29	-1 lap	11:47.1	8:38.9	9:02.8	8:58.8	9:01.9	-	-	-	-	-
+60	586	Steve Geouso	Steve	Geouso		Single Speed Men	29	-1 lap	11:51.7	8:34.0	8:47.8	9:34.2	8:50.0	-	-	-	-	-
+61	401	Michael B Copenhaver	Michael B	Copenhaver	Bayview Bicycles	Single Speed Men	26	-1 lap	11:18.0	9:03.5	8:56.4	10:20.7	10:19.7	-	-	-	-	-
+62	436	Michael Pruitt	Michael	Pruitt	Machete Squad P/B Rick's Schezuan	Single Speed Men	46	-1 lap	11:43.4	9:04.7	9:40.5	10:04.1	9:52.1	-	-	-	-	-
+63	437	Greg Rehm	Greg	Rehm	Seattle	Single Speed Men	47	-1 lap	12:32.3	9:50.9	9:52.5	9:47.2	10:09.5	-	-	-	-	-
+64	435	Ken D Ramirez	Ken D	Ramirez	Nemisis Racing	Single Speed Men	48	-2 laps	11:35.9	8:08.8	10:55.7	11:12.6	-	-	-	-	-	-
+65	411	Frankie Hammond	Frankie	Hammond		Single Speed Men	31	-3 laps	10:43.6	7:37.7	7:43.9	-	-	-	-	-	-	-
+66	547	Bart Sanderson	Bart	Sanderson		Single Speed Men	53	-3 laps	10:55.8	7:30.1	7:58.7	-	-	-	-	-	-	-
+-	408	Jason Bogan	Jason	Bogan	Strix Cycles	Single Speed Men	40	DNS							-	-	-	-
+-	423	Pete Groblewski	Pete	Groblewski	State Bicycle Co.	Single Speed Men	38	DNS							-	-	-	-
+-	445	Brennan P Hodgins	Brennan P	Hodgins	Apex Racing	Single Speed Men	16	DNS							-	-	-	-
+																		
