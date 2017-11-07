@@ -1,0 +1,47 @@
+﻿		Cat 1/2 Men																	
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7	Difference	% Back	% Winning	% Average
+1	35	Spencer Paxson	Spencer	Paxson		Cat 1/2 Men	33	57:06.1	8:09.5	8:00.3	7:51.5	8:10.9	8:11.9	8:22.7	8:19.4	-	-	100%	6.80%
+2	91	Parker Bloom	Parker	Bloom	Broad Street Cycles	Cat 1/2 Men	27	57:17.4	8:04.7	8:04.0	8:05.2	8:24.1	8:08.1	8:19.0	8:12.2	+0:11.3	+0.33%	99.67%	6.49%
+3	95	Sterling Quinn	Sterling	Quinn	Ravenna Capital Management	Cat 1/2 Men	24	57:46.4	8:04.2	8:04.2	8:05.9	8:23.1	8:13.4	8:21.6	8:34.0	+0:40.3	+1.18%	98.84%	5.70%
+4	18	Derek Parsons	Derek	Parsons	Clif Bar	Cat 1/2 Men	29	58:44.8	8:05.5	8:19.2	8:20.0	8:21.5	8:28.2	8:32.7	8:37.8	+1:38.7	+2.88%	97.20%	4.11%
+5	16	Brayden Buchanan	Brayden	Buchanan	Rad Racing NW	Cat 1/2 Men	18	59:04.7	8:04.3	8:05.8	8:35.1	8:38.4	8:21.1	8:42.2	8:37.7	+1:58.6	+3.46%	96.65%	3.57%
+6	33	Steve Westover	Steve	Westover		Cat 1/2 Men	44	59:10.7	8:09.9	8:19.5	8:18.3	8:26.8	8:31.8	8:40.8	8:43.6	+2:04.6	+3.64%	96.49%	3.41%
+7	15	Brian McCleerey	Brian	McCleerey	DYNA Racing	Cat 1/2 Men	27	59:44.8	8:06.7	8:22.3	8:17.3	8:27.9	8:38.4	8:40.5	9:11.7	+2:38.7	+4.63%	95.57%	2.48%
+8	67	Ron Schmeer	Ron	Schmeer	KR Cycling	Cat 1/2 Men	49	59:59.7	8:19.3	8:24.0	8:26.4	8:36.6	8:41.1	8:43.9	8:48.5	+2:53.6	+5.07%	95.18%	2.07%
+9	40	John Flack	John	Flack	Olympia Orthopaedic Associates	Cat 1/2 Men	48	1:00:25.8	8:24.8	8:29.3	8:34.3	8:35.3	8:38.1	8:47.1	8:56.9	+3:19.7	+5.83%	94.49%	1.36%
+10	47	Sam Owens	Sam	Owens	Soft Like Kitten	Cat 1/2 Men	30	1:00:42.0	8:41.6	8:35.5	8:33.7	8:32.0	8:40.6	8:49.9	8:48.8	+3:35.9	+6.30%	94.07%	0.92%
+11	29	Brendan Connolly	Brendan	Connolly		Cat 1/2 Men	44	1:01:33.6	8:48.3	8:37.3	8:37.5	8:40.2	8:46.6	8:59.5	9:04.2	+4:27.5	+7.81%	92.76%	-0.48%
+12	34	Garrett Sczechowski	Garrett	Sczechowski	DYNA Racing	Cat 1/2 Men	24	1:01:56.6	8:33.9	8:35.4	8:42.5	8:53.7	8:56.5	9:20.5	8:54.1	+4:50.5	+8.48%	92.18%	-1.11%
+13	1	DAVID HOWARD	DAVID	HOWARD	Tenspeed Hero	Cat 1/2 Men	33	1:02:05.9	8:28.6	8:34.3	8:34.7	9:16.6	8:56.2	9:06.4	9:09.1	+4:59.8	+8.75%	91.95%	-1.36%
+14	26	Andrew Morrison	Andrew	Morrison	Seattle Cancer Care Alliance Cycling	Cat 1/2 Men	37	1:02:53.8	8:38.4	8:38.4	8:41.5	8:56.7	9:11.7	9:08.8	9:38.4	+5:47.7	+10.15%	90.79%	-2.66%
+15	20	Nicholas Boroughs	Nicholas	Boroughs	Soft Like Kitten	Cat 1/2 Men	30	1:04:28.8	8:50.0	8:52.6	8:55.1	9:14.6	9:13.4	9:34.4	9:48.7	+7:22.7	+12.92%	88.56%	-5.25%
+16	50	Steven Robinson	Steven	Robinson	Zealous Racing	Cat 1/2 Men	44	1:04:35.5	8:48.8	8:53.3	9:08.9	9:18.2	9:28.9	9:36.8	9:20.5	+7:29.4	+13.12%	88.40%	-5.43%
+17	8	Keith Robinson	Keith	Robinson	Center Cycle Racing	Cat 1/2 Men	32	1:05:19.4	8:54.5	9:42.7	9:29.8	9:03.5	9:19.9	9:17.0	9:31.9	+8:13.3	+14.40%	87.41%	-6.62%
+18	5	Brian Debronsky	Brian	Debronsky	Egencia	Cat 1/2 Men	28	1:05:21.2	8:50.4	8:52.1	9:27.1	9:37.2	9:33.1	9:35.3	9:25.9	+8:15.1	+14.45%	87.37%	-6.67%
+19	69	Colin Rowan	Colin	Rowan	The Athletic	Cat 1/2 Men	35	1:05:45.8	8:41.3	9:41.7	9:48.9	9:08.0	9:21.3	9:30.8	9:33.9	+8:39.7	+15.17%	86.83%	-7.34%
+20	4	Jeremiah Jensen	Jeremiah	Jensen		Cat 1/2 Men	24	-1 lap	8:34.4	8:26.6	8:29.9	8:39.6	8:40.8	11:05.7	-	-	-	-	-
+21	111	Xander Viray	Xander	Viray	The Athletic Racing	Cat 1/2 Men	23	-1 lap	9:50.3	9:53.7	10:08.3	10:19.5	10:14.0	10:04.4	-	-	-	-	-
+22	110	Cole Lalomia	Cole	Lalomia	The Athletic	Cat 1/2 Men	24	-1 lap	17:09.9	8:26.4	8:39.7	8:42.5	8:57.1	9:10.8	-	-	-	-	-
+23	9	Tyson Lashbrook	Tyson	Lashbrook	Gillespie/SET	Cat 1/2 Men	38	-6 laps	8:29.1	-	-	-	-	-	-	-	-	-	-
+24	68	Kacey Campbell	Kacey	Campbell	Major Taylor	Cat 1/2 Men	27	-6 laps	8:39.4	-	-	-	-	-	-	-	-	-	-
+-	2	Steve Fisher	Steve	Fisher	Mcgovern Cycles / FSA CX	Cat 1/2 Men	27	DNS								-	-	-	-
+-	3	Patrick Dunn	Patrick	Dunn	Seattle Cancer Care Alliance Cycling Tea	Cat 1/2 Men	28	DNS								-	-	-	-
+-	46	Steven Williams	Steven	Williams	Recycled Cycles Racing	Cat 1/2 Men	45	DNS								-	-	-	-
+-	428	Nick Stroud	Nick	Stroud	Donger/OMG	Cat 1/2 Men	26	DNS								-	-	-	-
+																			
+		Cat 1/2 Women																	
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7	Difference	% Back	% Winning	% Average
+1	1403	Monica Lloyd	Monica	Lloyd		Cat 1/2 Women	42	1:06:47.6	9:55.7	9:16.9	9:18.3	9:30.2	9:31.6	9:31.6	9:43.3	-	-	100%	0.16%
+2	1406	Gina Estep	Gina	Estep		Cat 1/2 Women	44	1:06:56.1	9:56.9	9:14.5	9:19.6	9:29.1	9:32.2	9:33.6	9:50.2	+0:08.5	+0.21%	99.79%	-0.05%
+3	1439	Laura Jeddeloh	Laura	Jeddeloh	MD Endurance Coaching	Cat 1/2 Women	26	1:06:58.4	10:10.2	9:35.9	9:38.3	9:49.8	9:44.3	10:08.5	7:51.4	+0:10.8	+0.27%	99.73%	-0.11%
+4	1424	Natasha Cowie	Natasha	Cowie	Steed Cycles	Cat 1/2 Women	32	-1 lap	9:55.4	9:17.4	9:19.0	9:28.9	9:32.9	10:14.7	-	-	-	-	-
+5	1432	Stephanie Taplin	Stephanie	Taplin	Indigenous Wheel Co. Factory Racing Team	Cat 1/2 Women	28	-1 lap	9:57.6	9:15.9	9:45.8	10:11.8	10:26.3	10:35.1	-	-	-	-	-
+6	1415	Jackie Logan	Jackie	Logan	Tenspeed Hero	Cat 1/2 Women	34	-1 lap	10:27.9	9:46.6	9:51.9	10:01.4	10:17.3	10:20.9	-	-	-	-	-
+7	1408	Karine Valliant-Saunders	Karine	Valliant-Saunders	Seattle Cancer Care Alliance	Cat 1/2 Women	37	-1 lap	10:17.3	9:57.6	9:53.7	9:58.4	10:33.1	10:53.6	-	-	-	-	-
+8	1405	Elis Topchaniuk	Elis	Topchaniuk	Lyndendoor Team	Cat 1/2 Women	18	-1 lap	10:42.1	10:25.8	10:37.0	10:58.4	10:40.1	11:04.0	-	-	-	-	-
+9	1402	Megan Fay	Megan	Fay	Tenspeed Hero	Cat 1/2 Women	33	-1 lap	11:03.5	10:27.0	10:39.2	10:49.3	11:00.8	11:34.0	-	-	-	-	-
+10	1449	Kristen Kit	Kristen	Kit	Broad Street Cycles	Cat 1/2 Women	29	-1 lap	12:12.9	10:42.0	10:32.0	10:50.6	10:51.5	11:15.6	-	-	-	-	-
+11	1440	Jasmine Soh	Jasmine	Soh		Cat 1/2 Women	17	-2 laps	10:59.2	10:11.4	10:15.5	10:26.6	10:33.0	-	-	-	-	-	-
+-	1304	Jamie Schoenborn	Jamie	Schoenborn		Cat 1/2 Women	38	DNS								-	-	-	-
+-	1401	Hayden Gizinski	Hayden	Gizinski	Northwest Womens Cyclocross Project	Cat 1/2 Women	17	DNS								-	-	-	-
+																			
