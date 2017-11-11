@@ -1,118 +1,118 @@
-﻿		Cat 4 Men																
-Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Difference	% Back	% Winning	% Average
-1	536	Josiah Anderson	Josiah	Anderson	Major Taylor Project	Cat 4 Men	16	40:13.0	10:06.8	0:00.8	9:40.6	0:20.2	10:03.9	10:00.8	-	-	100%	0.00%
-2	804	Tyler Klansnic	Tyler	Klansnic		Cat 4 Men	31	-2 laps	8:32.7	8:33.8	8:39.0	8:39.8	-	-	-	-	-	-
-3	704	Thomas Baron	Thomas	Baron	Egencia	Cat 4 Men	28	-2 laps	8:24.2	8:35.9	8:40.0	8:45.5	-	-	-	-	-	-
-4	724	Maarten Brugmans	Maarten	Brugmans	Egencia	Cat 4 Men	32	-2 laps	8:32.1	8:47.2	8:50.4	8:49.1	-	-	-	-	-	-
-5	721	Cole Gar-Aouy	Cole	Gar-Aouy	Rad Racing	Cat 4 Men	14	-2 laps	8:24.7	8:46.9	8:58.4	8:51.9	-	-	-	-	-	-
-6	446	Ryan Clark	Ryan	Clark		Cat 4 Men	33	-2 laps	8:36.1	8:44.8	8:52.9	9:22.7	-	-	-	-	-	-
-7	733	Reed Hunter	Reed	Hunter	Seattle	Cat 4 Men	35	-2 laps	8:51.7	8:51.6	8:59.3	9:01.1	-	-	-	-	-	-
-8	692	Trey Trefry	Trey	Trefry		Cat 4 Men	14	-2 laps	8:30.8	8:53.7	9:15.9	9:31.5	-	-	-	-	-	-
-9	793	Paul Strefling	Paul	Strefling	Egencia	Cat 4 Men	33	-2 laps	8:31.1	8:58.8	9:10.1	9:45.2	-	-	-	-	-	-
-10	776	Joseph Swain	Joseph	Swain		Cat 4 Men	33	-2 laps	9:02.7	9:17.0	9:16.4	9:10.6	-	-	-	-	-	-
-11	800	Brandon Bouwkamp	Brandon	Bouwkamp	Goat Rodeo Cycling Club	Cat 4 Men	33	-2 laps	8:59.0	9:21.1	9:16.4	9:13.0	-	-	-	-	-	-
-12	703	Michael Chaten	Michael	Chaten	Egencia	Cat 4 Men	28	-2 laps	9:07.1	9:16.1	9:26.5	9:10.2	-	-	-	-	-	-
-13	817	Jeff B. Evans	Jeff B.	Evans		Cat 4 Men	43	-2 laps	9:08.4	9:15.8	9:19.1	9:25.9	-	-	-	-	-	-
-14	751	Blaine Felton	Blaine	Felton		Cat 4 Men	34	-2 laps	9:07.5	9:16.5	9:25.6	9:30.6	-	-	-	-	-	-
-15	595	Nolan Adams	Nolan	Adams	DYNA Racing	Cat 4 Men	31	-2 laps	9:21.1	9:15.8	9:22.1	9:23.5	-	-	-	-	-	-
-16	717	Matthew Adolf	Matthew	Adolf		Cat 4 Men	17	-2 laps	9:04.1	9:25.4	9:29.5	9:27.7	-	-	-	-	-	-
-17	780	Andy Baker	Andy	Baker	GS Flash	Cat 4 Men	33	-2 laps	9:13.8	9:24.3	9:30.8	9:33.7	-	-	-	-	-	-
-18	748	Dan Fealk	Dan	Fealk	Apex Racing	Cat 4 Men	35	-2 laps	9:43.0	9:15.3	9:18.6	9:31.3	-	-	-	-	-	-
-19	829	David Marks	David	Marks		Cat 4 Men	30	-2 laps	9:20.4	9:22.9	9:52.1	9:40.4	-	-	-	-	-	-
-20	709	Mario Rivas	Mario	Rivas		Cat 4 Men	33	-2 laps	9:18.3	9:37.9	9:38.4	9:41.4	-	-	-	-	-	-
-21	1351	Winston Hackett	Winston	Hackett	Cycle U	Cat 4 Men	15	-2 laps	9:14.2	9:42.6	9:38.1	9:44.2	-	-	-	-	-	-
-22	710	Taylor Kendall	Taylor	Kendall	Egencia	Cat 4 Men	34	-2 laps	9:22.3	9:36.6	9:44.8	9:37.2	-	-	-	-	-	-
-23	805	Michael Copenhaver	Michael	Copenhaver	Bayview Bicycles	Cat 4 Men	26	-2 laps	9:20.6	9:38.9	9:51.6	9:48.1	-	-	-	-	-	-
-24	836	Danny Clark	Danny	Clark	Grit City Race Club	Cat 4 Men	35	-2 laps	9:19.3	9:38.9	10:16.8	9:34.7	-	-	-	-	-	-
-25	581	Benjamin Miller	Benjamin	Miller		Cat 4 Men	27	-2 laps	9:47.5	9:47.7	9:49.8	9:28.5	-	-	-	-	-	-
-26	741	Andrew Demeter	Andrew	Demeter		Cat 4 Men	45	-2 laps	9:40.5	9:43.2	9:56.0	9:35.9	-	-	-	-	-	-
-27	583	Trevor Wetterau	Trevor	Wetterau		Cat 4 Men	30	-2 laps	9:46.3	9:42.1	9:53.7	9:34.0	-	-	-	-	-	-
-28	728	Christopher Morrow	Christopher	Morrow	Space Cadets P/B Hello Bicycle	Cat 4 Men	33	-2 laps	10:10.3	9:42.5	9:39.0	9:45.8	-	-	-	-	-	-
-29	844	Hai Nguyen	Hai	Nguyen		Cat 4 Men	34	-2 laps	9:43.7	9:56.0	9:52.6	9:49.1	-	-	-	-	-	-
-30	570	Aidan Cordero	Aidan	Cordero	Cycle U	Cat 4 Men	15	-2 laps	10:03.4	9:49.8	10:01.6	10:08.3	-	-	-	-	-	-
-31	723	Scott Grinsell	Scott	Grinsell	DYNA Racing	Cat 4 Men	34	-2 laps	10:19.5	10:13.1	10:01.5	9:40.8	-	-	-	-	-	-
-32	823	Luke Bolt	Luke	Bolt	Old Town Bicycle P/B GEC	Cat 4 Men	17	-2 laps	10:09.6	9:50.5	10:08.5	10:38.1	-	-	-	-	-	-
-33	842	Mike Ritter	Mike	Ritter	DYNA Racing	Cat 4 Men	33	-2 laps	10:01.0	10:08.6	10:30.0	10:42.7	-	-	-	-	-	-
-34	807	Charles Noon	Charles	Noon		Cat 4 Men	23	-2 laps	10:32.6	10:53.0	10:48.7	10:30.4	-	-	-	-	-	-
-35	584	Anthony Gunderson	Anthony	Gunderson		Cat 4 Men	32	-2 laps	10:40.7	10:46.1	10:48.0	10:41.9	-	-	-	-	-	-
-36	809	Andrew Holloway	Andrew	Holloway		Cat 4 Men	34	-3 laps	9:41.1	9:30.9	9:37.6	-	-	-	-	-	-	-
-37	786	Alexander Bennett	Alexander	Bennett	Cycle U	Cat 4 Men	4	-5 laps	10:01.0	-	-	-	-	-	-	-	-	-
--	-	Christopher Culbert	Christopher	Culbert	Seattle	Cat 4 Men	29	DNS							-	-	-	-
--	-	Ian Knox	Ian	Knox	Seattle	Cat 4 Men	44	DNS							-	-	-	-
--	-	Robbie Love	Robbie	Love	Life Time	Cat 4 Men	27	DNS							-	-	-	-
--	702	Connor Gizinski	Connor	Gizinski	Cycle U	Cat 4 Men	15	DNS							-	-	-	-
--	706	Justin Kong	Justin	Kong	AUDI	Cat 4 Men	34	DNS							-	-	-	-
--	711	James Prow	James	Prow		Cat 4 Men	25	DNS							-	-	-	-
--	712	Matthew R Basaldua	Matthew R	Basaldua	Broadmark/Mount Si Racing	Cat 4 Men	14	DNS							-	-	-	-
--	713	Isaac Sederbaum	Isaac	Sederbaum		Cat 4 Men	30	DNS							-	-	-	-
--	715	Jeffrey Perez	Jeffrey	Perez	Seattle Cancer Care Alliance	Cat 4 Men	33	DNS							-	-	-	-
--	725	Shawn Mcgaff	Shawn	Mcgaff	Egencia	Cat 4 Men	30	DNS							-	-	-	-
--	757	Miles Boucher	Miles	Boucher	Ride Sasquatch	Cat 4 Men	25	DNS							-	-	-	-
--	777	Jonathan Schwarz	Jonathan	Schwarz	HUP United	Cat 4 Men	34	DNS							-	-	-	-
--	791	Dan Shirley	Dan	Shirley		Cat 4 Men	26	DNS							-	-	-	-
--	821	Kyle Boucher	Kyle	Boucher	Jack's Bicycle Center / Homegrown Racing	Cat 4 Men	33	DNS							-	-	-	-
-																		
-		Cat 4 Men 35+																
-Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4			Difference	% Back	% Winning	% Average
-1	930	Christopher Quast	Christopher	Quast	Yakima Basin Velo	Cat 4 Men 35+	34	38:50.0	11:46.7	9:05.3	9:06.2	8:51.8			-	-	100%	6.54%
-2	929	Mark Doane	Mark	Doane	None	Cat 4 Men 35+	42	38:56.4	11:45.9	9:05.7	9:07.0	8:57.8			+0:06.4	+0.27%	99.73%	6.29%
-3	1014	Mark Selander	Mark	Selander	Apex	Cat 4 Men 35+	43	38:59.7	11:50.0	9:06.1	9:07.4	8:56.2			+0:09.7	+0.42%	99.59%	6.15%
-4	924	Steve Pullman	Steve	Pullman		Cat 4 Men 35+	36	39:45.6	11:53.6	9:12.8	9:13.4	9:25.8			+0:55.6	+2.39%	97.67%	4.31%
-5	1049	Andrea Bogni	Andrea	Bogni	Seattle	Cat 4 Men 35+	36	39:58.5	12:02.5	9:16.0	9:21.5	9:18.5			+1:08.5	+2.94%	97.14%	3.79%
-6	1028	Damien Dabrowski	Damien	Dabrowski	Egencia	Cat 4 Men 35+	41	40:03.4	12:00.2	9:24.7	9:21.6	9:16.9			+1:13.4	+3.15%	96.95%	3.60%
-7	1018	Adam Wujick	Adam	Wujick	Taco Time NW	Cat 4 Men 35+	43	40:13.7	12:25.9	9:13.3	9:18.8	9:15.7			+1:23.7	+3.59%	96.53%	3.19%
-8	1023	Chris Rose	Chris	Rose	Crosshare Racing	Cat 4 Men 35+	38	40:16.0	12:21.5	9:15.9	9:23.8	9:14.8			+1:26.0	+3.69%	96.44%	3.09%
-9	1015	John Buwalda	John	Buwalda	Taco Time	Cat 4 Men 35+	41	40:22.7	12:23.0	9:14.7	9:18.3	9:26.7			+1:32.7	+3.98%	96.17%	2.82%
-10	919	Bradley Urban	Bradley	Urban		Cat 4 Men 35+	43	40:40.1	12:04.5	9:26.8	9:26.7	9:42.1			+1:50.1	+4.73%	95.49%	2.13%
-11	906	JOSHUA MELANSON	JOSHUA	MELANSON		Cat 4 Men 35+	38	40:47.3	12:20.1	9:22.7	9:36.2	9:28.3			+1:57.3	+5.03%	95.21%	1.84%
-12	1062	Craig Martin	Craig	Martin	529 Legion	Cat 4 Men 35+	43	41:14.9	12:32.5	9:23.3	9:45.7	9:33.4			+2:24.9	+6.22%	94.15%	0.73%
-13	1042	Lawrence Cayton	Lawrence	Cayton		Cat 4 Men 35+	36	41:25.8	12:33.4	9:36.0	9:43.2	9:33.2			+2:35.8	+6.69%	93.73%	0.29%
-14	922	Michael McMillan	Michael	McMillan		Cat 4 Men 35+	44	41:26.7	12:22.0	9:28.8	9:50.1	9:45.8			+2:36.7	+6.73%	93.70%	0.26%
-15	1063	Corey Fitch	Corey	Fitch		Cat 4 Men 35+	37	41:42.3	12:37.1	9:35.0	9:51.0	9:39.2			+2:52.3	+7.39%	93.11%	-0.37%
-16	916	Jon Rehkopf	Jon	Rehkopf	Alki Velo Club / Hotwire	Cat 4 Men 35+	42	41:50.1	12:47.7	9:38.6	9:40.4	9:43.4			+3:00.1	+7.73%	92.82%	-0.68%
-17	1518	Josh Warborg	Josh	Warborg	Alik Velo Club/Hotwire Racing	Cat 4 Men 35+	46	42:37.9	12:30.6	9:48.3	10:02.6	10:16.4			+3:47.9	+9.78%	91.09%	-2.60%
-18	1061	Dave Preston	Dave	Preston	Mt Si Broadmark Racing	Cat 4 Men 35+	41	42:40.0	12:36.3	9:56.4	10:20.8	9:46.5			+3:50.0	+9.87%	91.02%	-2.68%
-19	1092	Adam Abrams	Adam	Abrams		Cat 4 Men 35+	34	42:46.3	13:11.9	10:01.5	9:45.2	9:47.7			+3:56.3	+10.14%	90.79%	-2.94%
-20	1019	Kevin Tamura	Kevin	Tamura	Major Taylor Racing	Cat 4 Men 35+	43	43:08.4	12:46.0	9:50.5	10:16.9	10:15.0			+4:18.4	+11.09%	90.02%	-3.82%
-21	912	Kristian Mickelson	Kristian	Mickelson	T-Wrex	Cat 4 Men 35+	38	43:11.3	12:46.8	10:17.5	10:07.3	9:59.7			+4:21.3	+11.21%	89.92%	-3.94%
-22	1099	Bryan Petersen	Bryan	Petersen		Cat 4 Men 35+	42	43:17.4	12:42.2	9:59.7	10:20.4	10:15.1			+4:27.4	+11.48%	89.71%	-4.18%
-23	207	Patrick McCabe	Patrick	McCabe	Grit City Health	Cat 4 Men 35+	35	43:30.4	12:48.3	10:00.7	10:29.9	10:11.5			+4:40.4	+12.03%	89.26%	-4.70%
-24	903	Jonathan Kamrath	Jonathan	Kamrath	High Performance Cycling	Cat 4 Men 35+	37	43:35.7	13:13.5	10:05.8	10:11.2	10:05.2			+4:45.7	+12.26%	89.08%	-4.92%
-25	1010	Philip Darringer	Philip	Darringer		Cat 4 Men 35+	44	43:41.4	13:08.3	10:05.5	10:12.8	10:14.8			+4:51.4	+12.51%	88.88%	-5.15%
-26	1009	Seth Bedwell	Seth	Bedwell	DYNA Racing	Cat 4 Men 35+	42	45:18.8	13:06.2	10:16.0	10:46.0	11:10.6			+6:28.8	+16.69%	85.70%	-9.05%
-27	917	Jayson Stevens	Jayson	Stevens		Cat 4 Men 35+	43	-1 lap	13:44.4	11:04.7	10:54.9	-			-	-	-	-
-28	2004	Mark Orr	Mark	Orr	Egencia	Cat 4 Men 35+	40	-1 lap	13:49.9	10:58.9	10:55.3	-			-	-	-	-
-29	946	Lang Nelson	Lang	Nelson		Cat 4 Men 35+	43	-1 lap	13:59.8	11:36.2	12:04.7	-			-	-	-	-
-30	1012	John Mcconnell	John	Mcconnell	Tacoma Bike Racing Team	Cat 4 Men 35+	42	-3 laps	13:08.9	-	-	-			-	-	-	-
--	901	Chris Stauch	Chris	Stauch	Stauch	Cat 4 Men 35+	43	DNS							-	-	-	-
--	904	Robert Anderson	Robert	Anderson	Space Cadet Racing P/B Hello Bicycle	Cat 4 Men 35+	37	DNS							-	-	-	-
--	905	Chris Pohl	Chris	Pohl		Cat 4 Men 35+	35	DNS							-	-	-	-
--	908	Justin Valente	Justin	Valente	Broadmark Mt Si Racing	Cat 4 Men 35+	43	DNS							-	-	-	-
--	910	Lucas Donigian	Lucas	Donigian	Hagens Bergen EY	Cat 4 Men 35+	38	DNS							-	-	-	-
--	933	Christopher Clevenger	Christopher	Clevenger	Classic Cycles	Cat 4 Men 35+	36	DNS							-	-	-	-
--	1017	Jason Leuenberger	Jason	Leuenberger		Cat 4 Men 35+	39	DNS							-	-	-	-
--	1021	Tim Goggin	Tim	Goggin		Cat 4 Men 35+	44	DNS							-	-	-	-
--	1047	Alex Christiansen	Alex	Christiansen	Olympia Orthopaedics Associates	Cat 4 Men 35+	43	DNS							-	-	-	-
--	1631	Mark Thistle	Mark	Thistle	Mountoga	Cat 4 Men 35+	43	DNS							-	-	-	-
-																		
-		Men 55+																
-Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4			Difference	% Back	% Winning	% Average
-1	62	Rodney Brandon	Rodney	Brandon	Taco Time NW	Men 55+	55	37:37.2	10:16.9	9:04.0	9:05.3	9:11.0			-	-	100%	7.63%
-2	59	Kevin Johnson	Kevin	Johnson	Egencia	Men 55+	63	38:05.9	10:14.1	9:05.5	9:19.2	9:27.1			+0:28.7	+1.27%	98.74%	6.45%
-3	53	Todd Reedy	Todd	Reedy		Men 55+	54	38:26.5	10:18.6	9:18.6	9:29.4	9:19.9			+0:49.3	+2.18%	97.86%	5.61%
-4	96	Chris Mendoza	Chris	Mendoza	Green Bike Team	Men 55+	55	38:45.7	10:38.2	9:18.5	9:20.5	9:28.5			+1:08.5	+3.03%	97.05%	4.82%
-5	51	TODD ANDERSON	TODD	ANDERSON		Men 55+	55	40:01.8	10:37.7	9:28.3	9:54.1	10:01.7			+2:24.6	+6.41%	93.98%	1.71%
-6	78	Glen Conley	Glen	Conley		Men 55+	61	40:23.6	10:56.7	9:55.8	9:48.1	9:43.0			+2:46.4	+7.37%	93.13%	0.82%
-7	65	Peter Krumins	Peter	Krumins		Men 55+	58	40:51.0	11:00.2	9:59.9	9:57.0	9:53.9			+3:13.8	+8.59%	92.09%	-0.30%
-8	90	Russ Rainforth	Russ	Rainforth		Men 55+	55	42:18.2	11:24.7	10:17.1	10:38.3	9:58.1			+4:41.0	+12.45%	88.93%	-3.87%
-9	99	Jay Hatter	Jay	Hatter		Men 55+	59	44:55.5	11:53.4	10:47.0	11:09.3	11:05.8			+7:18.3	+19.42%	83.74%	-10.31%
-10	88	William Peterson	William	Peterson	Olympia Orthopaedic Associates	Men 55+	59	45:50.1	12:27.1	10:59.4	11:11.7	11:11.9			+8:12.9	+21.84%	82.08%	-12.55%
-11	82	Steve Ellis	Steve	Ellis	Egencia	Men 55+	59	-1 lap	12:17.2	11:54.4	11:23.4	-			-	-	-	-
--	-	Don Hicks	Don	Hicks	Mountlake Terrace	Men 55+	56	DNS							-	-	-	-
--	52	Mike Hayes	Mike	Hayes	Seattle	Men 55+	57	DNS							-	-	-	-
--	55	Ed Anderson	Ed	Anderson		Men 55+	55	DNS							-	-	-	-
--	58	Chris Gossard	Chris	Gossard	Nemesis Racing	Men 55+	58	DNS							-	-	-	-
--	80	Trevor Hall	Trevor	Hall	Taco Time NW	Men 55+	57	DNS							-	-	-	-
--	81	Scott Monett	Scott	Monett	Tacomabikeracing	Men 55+	58	DNS							-	-	-	-
--	83	Matthew Cazier	Matthew	Cazier		Men 55+	57	DNS							-	-	-	-
-																		
+﻿		Cat 4 Men														
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Difference	% Back	% Winning	% Average
+1	804	Tyler Klansnic	Tyler	Klansnic		Cat 4 Men	31	34:25.2	8:32.7	8:33.8	8:39.0	8:39.8	-	-	100%	9.92%
+2	704	Thomas Baron	Thomas	Baron	Egencia	Cat 4 Men	28	34:25.6	8:24.2	8:35.9	8:40.0	8:45.5	+0:00.4	+0.02%	99.98%	9.91%
+3	724	Maarten Brugmans	Maarten	Brugmans	Egencia	Cat 4 Men	32	34:58.7	8:32.1	8:47.2	8:50.4	8:49.1	+0:33.5	+1.62%	98.40%	8.46%
+4	721	Cole Gar-Aouy	Cole	Gar-Aouy	Rad Racing	Cat 4 Men	14	35:01.9	8:24.7	8:46.9	8:58.4	8:51.9	+0:36.7	+1.78%	98.25%	8.32%
+5	446	Ryan Clark	Ryan	Clark		Cat 4 Men	33	35:36.4	8:36.1	8:44.8	8:52.9	9:22.7	+1:11.2	+3.45%	96.67%	6.82%
+6	733	Reed Hunter	Reed	Hunter	Seattle	Cat 4 Men	35	35:43.8	8:51.7	8:51.6	8:59.3	9:01.1	+1:18.6	+3.81%	96.33%	6.50%
+7	692	Trey Trefry	Trey	Trefry		Cat 4 Men	14	36:11.9	8:30.8	8:53.7	9:15.9	9:31.5	+1:46.7	+5.17%	95.09%	5.27%
+8	793	Paul Strefling	Paul	Strefling	Egencia	Cat 4 Men	33	36:25.3	8:31.1	8:58.8	9:10.1	9:45.2	+2:00.1	+5.82%	94.50%	4.69%
+9	776	Joseph Swain	Joseph	Swain		Cat 4 Men	33	36:46.7	9:02.7	9:17.0	9:16.4	9:10.6	+2:21.5	+6.85%	93.59%	3.75%
+10	800	Brandon Bouwkamp	Brandon	Bouwkamp	Goat Rodeo Cycling Club	Cat 4 Men	33	36:49.5	8:59.0	9:21.1	9:16.4	9:13.0	+2:24.3	+6.99%	93.47%	3.63%
+11	703	Michael Chaten	Michael	Chaten	Egencia	Cat 4 Men	28	36:59.9	9:07.1	9:16.1	9:26.5	9:10.2	+2:34.7	+7.49%	93.03%	3.18%
+12	817	Jeff B. Evans	Jeff B.	Evans		Cat 4 Men	43	37:09.2	9:08.4	9:15.8	9:19.1	9:25.9	+2:44.0	+7.94%	92.64%	2.77%
+13	751	Blaine Felton	Blaine	Felton		Cat 4 Men	34	37:20.2	9:07.5	9:16.5	9:25.6	9:30.6	+2:55.0	+8.47%	92.19%	2.29%
+14	595	Nolan Adams	Nolan	Adams	DYNA Racing	Cat 4 Men	31	37:22.6	9:21.1	9:15.8	9:22.1	9:23.5	+2:57.4	+8.59%	92.09%	2.19%
+15	717	Matthew Adolf	Matthew	Adolf		Cat 4 Men	17	37:26.6	9:04.1	9:25.4	9:29.5	9:27.7	+3:01.4	+8.78%	91.93%	2.01%
+16	780	Andy Baker	Andy	Baker	GS Flash	Cat 4 Men	33	37:42.6	9:13.8	9:24.3	9:30.8	9:33.7	+3:17.4	+9.56%	91.28%	1.31%
+17	748	Dan Fealk	Dan	Fealk	Apex Racing	Cat 4 Men	35	37:48.2	9:43.0	9:15.3	9:18.6	9:31.3	+3:23.0	+9.83%	91.05%	1.07%
+18	829	David Marks	David	Marks		Cat 4 Men	30	38:15.8	9:20.4	9:22.9	9:52.1	9:40.4	+3:50.6	+11.17%	89.96%	-0.13%
+19	709	Mario Rivas	Mario	Rivas		Cat 4 Men	33	38:16.0	9:18.3	9:37.9	9:38.4	9:41.4	+3:50.8	+11.18%	89.95%	-0.14%
+20	1351	Winston Hackett	Winston	Hackett	Cycle U	Cat 4 Men	15	38:19.2	9:14.2	9:42.6	9:38.1	9:44.2	+3:54.0	+11.33%	89.82%	-0.28%
+21	710	Taylor Kendall	Taylor	Kendall	Egencia	Cat 4 Men	34	38:20.9	9:22.3	9:36.6	9:44.8	9:37.2	+3:55.7	+11.41%	89.76%	-0.36%
+22	805	Michael Copenhaver	Michael	Copenhaver	Bayview Bicycles	Cat 4 Men	26	38:39.1	9:20.6	9:38.9	9:51.6	9:48.1	+4:13.9	+12.29%	89.05%	-1.15%
+23	836	Danny Clark	Danny	Clark	Grit City Race Club	Cat 4 Men	35	38:49.8	9:19.3	9:38.9	10:16.8	9:34.7	+4:24.6	+12.81%	88.64%	-1.62%
+24	581	Benjamin Miller	Benjamin	Miller		Cat 4 Men	27	38:53.5	9:47.5	9:47.7	9:49.8	9:28.5	+4:28.3	+12.99%	88.50%	-1.78%
+25	741	Andrew Demeter	Andrew	Demeter		Cat 4 Men	45	38:55.7	9:40.5	9:43.2	9:56.0	9:35.9	+4:30.5	+13.10%	88.42%	-1.87%
+26	583	Trevor Wetterau	Trevor	Wetterau		Cat 4 Men	30	38:56.1	9:46.3	9:42.1	9:53.7	9:34.0	+4:30.9	+13.12%	88.40%	-1.89%
+27	728	Christopher Morrow	Christopher	Morrow	Space Cadets P/B Hello Bicycle	Cat 4 Men	33	39:17.6	10:10.3	9:42.5	9:39.0	9:45.8	+4:52.4	+14.16%	87.60%	-2.83%
+28	844	Hai Nguyen	Hai	Nguyen		Cat 4 Men	34	39:21.3	9:43.7	9:56.0	9:52.6	9:49.1	+4:56.1	+14.34%	87.46%	-2.99%
+29	570	Aidan Cordero	Aidan	Cordero	Cycle U	Cat 4 Men	15	40:03.1	10:03.4	9:49.8	10:01.6	10:08.3	+5:37.9	+16.36%	85.94%	-4.81%
+30	536	Josiah Anderson	Josiah	Anderson	Major Taylor Project	Cat 4 Men	16	40:13.1	10:06.8	9:41.4	10:24.1	10:00.8	+5:47.9	+16.85%	85.58%	-5.25%
+31	723	Scott Grinsell	Scott	Grinsell	DYNA Racing	Cat 4 Men	34	40:14.9	10:19.5	10:13.1	10:01.5	9:40.8	+5:49.7	+16.93%	85.52%	-5.33%
+32	823	Luke Bolt	Luke	Bolt	Old Town Bicycle P/B GEC	Cat 4 Men	17	40:46.6	10:09.6	9:50.5	10:08.5	10:38.1	+6:21.4	+18.47%	84.41%	-6.71%
+33	842	Mike Ritter	Mike	Ritter	DYNA Racing	Cat 4 Men	33	41:22.2	10:01.0	10:08.6	10:30.0	10:42.7	+6:57.0	+20.19%	83.20%	-8.26%
+34	807	Charles Noon	Charles	Noon		Cat 4 Men	23	42:44.7	10:32.6	10:53.0	10:48.7	10:30.4	+8:19.5	+24.19%	80.52%	-11.86%
+35	584	Anthony Gunderson	Anthony	Gunderson		Cat 4 Men	32	42:56.8	10:40.7	10:46.1	10:48.0	10:41.9	+8:31.6	+24.77%	80.15%	-12.39%
+36	711	James Prow	James	Prow		Cat 4 Men	25	42:57.0	-	-	-	42:57.0	+8:31.8	+24.78%	80.14%	-12.40%
+37	809	Andrew Holloway	Andrew	Holloway		Cat 4 Men	34	-1 lap	9:41.1	9:30.9	9:37.6	-	-	-	-	-
+38	798	Christopher Culbert	Christopher	Culbert	Seattle	Cat 4 Men	29	-2 laps	29:28.4	9:24.7	-	-	-	-	-	-
+39	786	Alexander Bennett	Alexander	Bennett	Cycle U	Cat 4 Men	4	-3 laps	10:01.0	-	-	-	-	-	-	-
+-	-	Ian Knox	Ian	Knox	Seattle	Cat 4 Men	44	DNS					-	-	-	-
+-	-	Robbie Love	Robbie	Love	Life Time	Cat 4 Men	27	DNS					-	-	-	-
+-	702	Connor Gizinski	Connor	Gizinski	Cycle U	Cat 4 Men	15	DNS					-	-	-	-
+-	706	Justin Kong	Justin	Kong	AUDI	Cat 4 Men	34	DNS					-	-	-	-
+-	712	Matthew R Basaldua	Matthew R	Basaldua	Broadmark/Mount Si Racing	Cat 4 Men	14	DNS					-	-	-	-
+-	713	Isaac Sederbaum	Isaac	Sederbaum		Cat 4 Men	30	DNS					-	-	-	-
+-	715	Jeffrey Perez	Jeffrey	Perez	Seattle Cancer Care Alliance	Cat 4 Men	33	DNS					-	-	-	-
+-	725	Shawn Mcgaff	Shawn	Mcgaff	Egencia	Cat 4 Men	30	DNS					-	-	-	-
+-	757	Miles Boucher	Miles	Boucher	Ride Sasquatch	Cat 4 Men	25	DNS					-	-	-	-
+-	777	Jonathan Schwarz	Jonathan	Schwarz	HUP United	Cat 4 Men	34	DNS					-	-	-	-
+-	791	Dan Shirley	Dan	Shirley		Cat 4 Men	26	DNS					-	-	-	-
+-	821	Kyle Boucher	Kyle	Boucher	Jack's Bicycle Center / Homegrown Racing	Cat 4 Men	33	DNS					-	-	-	-
+																
+		Cat 4 Men 35+														
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Difference	% Back	% Winning	% Average
+1	930	Christopher Quast	Christopher	Quast	Yakima Basin Velo	Cat 4 Men 35+	34	38:50.1	11:46.7	9:05.3	9:06.2	8:51.8	-	-	100%	6.54%
+2	929	Mark Doane	Mark	Doane	None	Cat 4 Men 35+	42	38:56.4	11:45.9	9:05.7	9:07.0	8:57.8	+0:06.3	+0.27%	99.73%	6.29%
+3	1014	Mark Selander	Mark	Selander	Apex	Cat 4 Men 35+	43	38:59.7	11:50.0	9:06.1	9:07.4	8:56.2	+0:09.6	+0.41%	99.59%	6.15%
+4	924	Steve Pullman	Steve	Pullman		Cat 4 Men 35+	36	39:45.6	11:53.6	9:12.8	9:13.4	9:25.8	+0:55.5	+2.38%	97.67%	4.31%
+5	1049	Andrea Bogni	Andrea	Bogni	Seattle	Cat 4 Men 35+	36	39:58.5	12:02.5	9:16.0	9:21.5	9:18.5	+1:08.4	+2.94%	97.15%	3.79%
+6	1028	Damien Dabrowski	Damien	Dabrowski	Egencia	Cat 4 Men 35+	41	40:03.4	12:00.2	9:24.7	9:21.6	9:16.9	+1:13.3	+3.15%	96.95%	3.60%
+7	1018	Adam Wujick	Adam	Wujick	Taco Time NW	Cat 4 Men 35+	43	40:13.6	12:25.9	9:13.3	9:18.8	9:15.7	+1:23.5	+3.58%	96.54%	3.19%
+8	1023	Chris Rose	Chris	Rose	Crosshare Racing	Cat 4 Men 35+	38	40:16.0	12:21.5	9:15.9	9:23.8	9:14.8	+1:25.9	+3.69%	96.44%	3.09%
+9	1015	John Buwalda	John	Buwalda	Taco Time	Cat 4 Men 35+	41	40:22.6	12:23.0	9:14.7	9:18.3	9:26.7	+1:32.5	+3.97%	96.18%	2.83%
+10	919	Bradley Urban	Bradley	Urban		Cat 4 Men 35+	43	40:40.0	12:04.5	9:26.8	9:26.7	9:42.1	+1:49.9	+4.72%	95.50%	2.13%
+11	906	JOSHUA MELANSON	JOSHUA	MELANSON		Cat 4 Men 35+	38	40:47.4	12:20.1	9:22.7	9:36.2	9:28.3	+1:57.3	+5.03%	95.21%	1.83%
+12	1062	Craig Martin	Craig	Martin	529 Legion	Cat 4 Men 35+	43	41:14.9	12:32.5	9:23.3	9:45.7	9:33.4	+2:24.8	+6.21%	94.15%	0.73%
+13	1042	Lawrence Cayton	Lawrence	Cayton		Cat 4 Men 35+	36	41:25.8	12:33.4	9:36.0	9:43.2	9:33.2	+2:35.7	+6.68%	93.74%	0.29%
+14	922	Michael McMillan	Michael	McMillan		Cat 4 Men 35+	44	41:26.8	12:22.0	9:28.8	9:50.1	9:45.8	+2:36.7	+6.73%	93.70%	0.25%
+15	1063	Corey Fitch	Corey	Fitch		Cat 4 Men 35+	37	41:42.4	12:37.1	9:35.0	9:51.0	9:39.2	+2:52.3	+7.39%	93.11%	-0.37%
+16	916	Jon Rehkopf	Jon	Rehkopf	Alki Velo Club / Hotwire	Cat 4 Men 35+	42	41:50.1	12:47.7	9:38.6	9:40.4	9:43.4	+3:00.0	+7.72%	92.83%	-0.68%
+17	1518	Josh Warborg	Josh	Warborg	Alik Velo Club/Hotwire Racing	Cat 4 Men 35+	46	42:38.0	12:30.6	9:48.3	10:02.6	10:16.4	+3:47.9	+9.78%	91.09%	-2.60%
+18	1061	Dave Preston	Dave	Preston	Mt Si Broadmark Racing	Cat 4 Men 35+	41	42:40.0	12:36.3	9:56.4	10:20.8	9:46.5	+3:49.9	+9.87%	91.02%	-2.68%
+19	1092	Adam Abrams	Adam	Abrams		Cat 4 Men 35+	34	42:46.3	13:11.9	10:01.5	9:45.2	9:47.7	+3:56.2	+10.14%	90.80%	-2.94%
+20	1019	Kevin Tamura	Kevin	Tamura	Major Taylor Racing	Cat 4 Men 35+	43	43:08.4	12:46.0	9:50.5	10:16.9	10:15.0	+4:18.3	+11.09%	90.02%	-3.82%
+21	912	Kristian Mickelson	Kristian	Mickelson	T-Wrex	Cat 4 Men 35+	38	43:11.2	12:46.8	10:17.5	10:07.3	9:59.7	+4:21.1	+11.21%	89.92%	-3.93%
+22	1099	Bryan Petersen	Bryan	Petersen		Cat 4 Men 35+	42	43:17.4	12:42.2	9:59.7	10:20.4	10:15.1	+4:27.3	+11.47%	89.71%	-4.18%
+23	207	Patrick McCabe	Patrick	McCabe	Grit City Health	Cat 4 Men 35+	35	43:30.3	12:48.3	10:00.7	10:29.9	10:11.5	+4:40.2	+12.03%	89.27%	-4.70%
+24	903	Jonathan Kamrath	Jonathan	Kamrath	High Performance Cycling	Cat 4 Men 35+	37	43:35.7	13:13.5	10:05.8	10:11.2	10:05.2	+4:45.6	+12.26%	89.08%	-4.92%
+25	1010	Philip Darringer	Philip	Darringer		Cat 4 Men 35+	44	43:41.5	13:08.3	10:05.5	10:12.8	10:14.8	+4:51.4	+12.51%	88.88%	-5.15%
+26	1009	Seth Bedwell	Seth	Bedwell	DYNA Racing	Cat 4 Men 35+	42	45:18.7	13:06.2	10:16.0	10:46.0	11:10.6	+6:28.6	+16.68%	85.71%	-9.05%
+27	917	Jayson Stevens	Jayson	Stevens		Cat 4 Men 35+	43	-1 lap	13:44.4	11:04.7	10:54.9	-	-	-	-	-
+28	2004	Mark Orr	Mark	Orr	Egencia	Cat 4 Men 35+	40	-1 lap	13:49.9	10:58.9	10:55.3	-	-	-	-	-
+29	946	Lang Nelson	Lang	Nelson		Cat 4 Men 35+	43	-1 lap	13:59.8	11:36.2	12:04.7	-	-	-	-	-
+30	1012	John Mcconnell	John	Mcconnell	Tacoma Bike Racing Team	Cat 4 Men 35+	42	-3 laps	13:08.9	-	-	-	-	-	-	-
+-	901	Chris Stauch	Chris	Stauch	Stauch	Cat 4 Men 35+	43	DNS					-	-	-	-
+-	904	Robert Anderson	Robert	Anderson	Space Cadet Racing P/B Hello Bicycle	Cat 4 Men 35+	37	DNS					-	-	-	-
+-	905	Chris Pohl	Chris	Pohl		Cat 4 Men 35+	35	DNS					-	-	-	-
+-	908	Justin Valente	Justin	Valente	Broadmark Mt Si Racing	Cat 4 Men 35+	43	DNS					-	-	-	-
+-	910	Lucas Donigian	Lucas	Donigian	Hagens Bergen EY	Cat 4 Men 35+	38	DNS					-	-	-	-
+-	933	Christopher Clevenger	Christopher	Clevenger	Classic Cycles	Cat 4 Men 35+	36	DNS					-	-	-	-
+-	1017	Jason Leuenberger	Jason	Leuenberger		Cat 4 Men 35+	39	DNS					-	-	-	-
+-	1021	Tim Goggin	Tim	Goggin		Cat 4 Men 35+	44	DNS					-	-	-	-
+-	1047	Alex Christiansen	Alex	Christiansen	Olympia Orthopaedics Associates	Cat 4 Men 35+	43	DNS					-	-	-	-
+-	1631	Mark Thistle	Mark	Thistle	Mountoga	Cat 4 Men 35+	43	DNS					-	-	-	-
+																
+		Men 55+														
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Difference	% Back	% Winning	% Average
+1	62	Rodney Brandon	Rodney	Brandon	Taco Time NW	Men 55+	55	37:37.1	10:16.9	9:04.0	9:05.3	9:11.0	-	-	100%	7.63%
+2	59	Kevin Johnson	Kevin	Johnson	Egencia	Men 55+	63	38:05.8	10:14.1	9:05.5	9:19.2	9:27.1	+0:28.7	+1.27%	98.74%	6.45%
+3	53	Todd Reedy	Todd	Reedy		Men 55+	54	38:26.4	10:18.6	9:18.6	9:29.4	9:19.9	+0:49.3	+2.18%	97.86%	5.61%
+4	96	Chris Mendoza	Chris	Mendoza	Green Bike Team	Men 55+	55	38:45.7	10:38.2	9:18.5	9:20.5	9:28.5	+1:08.6	+3.04%	97.05%	4.82%
+5	51	TODD ANDERSON	TODD	ANDERSON		Men 55+	55	40:01.8	10:37.7	9:28.3	9:54.1	10:01.7	+2:24.7	+6.41%	93.98%	1.71%
+6	78	Glen Conley	Glen	Conley		Men 55+	61	40:23.6	10:56.7	9:55.8	9:48.1	9:43.0	+2:46.5	+7.38%	93.13%	0.82%
+7	65	Peter Krumins	Peter	Krumins		Men 55+	58	40:50.9	11:00.2	9:59.9	9:57.0	9:53.9	+3:13.8	+8.59%	92.09%	-0.30%
+8	90	Russ Rainforth	Russ	Rainforth		Men 55+	55	42:18.1	11:24.7	10:17.1	10:38.3	9:58.1	+4:41.0	+12.45%	88.93%	-3.87%
+9	99	Jay Hatter	Jay	Hatter		Men 55+	59	44:55.6	11:53.4	10:47.0	11:09.3	11:05.8	+7:18.5	+19.43%	83.73%	-10.32%
+10	88	William Peterson	William	Peterson	Olympia Orthopaedic Associates	Men 55+	59	45:50.2	12:27.1	10:59.4	11:11.7	11:11.9	+8:13.1	+21.85%	82.07%	-12.55%
+11	82	Steve Ellis	Steve	Ellis	Egencia	Men 55+	59	-1 lap	12:17.2	11:54.4	11:23.4	-	-	-	-	-
+-	-	Don Hicks	Don	Hicks	Mountlake Terrace	Men 55+	56	DNS					-	-	-	-
+-	52	Mike Hayes	Mike	Hayes	Seattle	Men 55+	57	DNS					-	-	-	-
+-	55	Ed Anderson	Ed	Anderson		Men 55+	55	DNS					-	-	-	-
+-	58	Chris Gossard	Chris	Gossard	Nemesis Racing	Men 55+	58	DNS					-	-	-	-
+-	80	Trevor Hall	Trevor	Hall	Taco Time NW	Men 55+	57	DNS					-	-	-	-
+-	81	Scott Monett	Scott	Monett	Tacomabikeracing	Men 55+	58	DNS					-	-	-	-
+-	83	Matthew Cazier	Matthew	Cazier		Men 55+	57	DNS					-	-	-	-
+																
