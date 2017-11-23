@@ -1,0 +1,158 @@
+﻿		Beginner Women															
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4		Difference	% Back	% Winning	% Average
+1	332	Stacey McConaughy	Stacey	McConaughy		Beginner Women	36	43:11.2	14:01.7	9:48.6	9:42.6	9:38.3		-	-	100%	9.28%
+2	195	Jennifer Lee	Jennifer	Lee	Pizza Pals	Beginner Women	27	44:01.5	14:05.6	10:05.9	9:56.8	9:53.2		+0:50.3	+1.94%	98.10%	7.52%
+3	351	Talia Rudee	Talia	Rudee	Seattle	Beginner Women	25	44:26.2	13:47.2	10:13.3	10:30.4	9:55.3		+1:15.0	+2.89%	97.19%	6.66%
+4	197	Erin Smith	Erin	Smith	Team Costal	Beginner Women	25	44:36.7	13:54.8	10:20.8	10:24.7	9:56.4		+1:25.5	+3.30%	96.81%	6.29%
+5	338	Karen Nolting	Karen	Nolting	Raise The Bar Multisport Team (RTB)	Beginner Women	58	44:59.5	14:26.1	10:09.2	10:07.0	10:17.2		+1:48.3	+4.18%	95.99%	5.49%
+6	193	Lina Tietz	Lina	Tietz		Beginner Women	25	45:04.9	14:09.3	10:11.4	10:30.3	10:13.9		+1:53.7	+4.39%	95.80%	5.30%
+7	336	Lisa Gerard	Lisa	Gerard	Raise The Bar	Beginner Women	46	45:37.0	14:41.9	10:20.1	10:27.6	10:07.4		+2:25.8	+5.63%	94.67%	4.18%
+8	398	Pauliina Lankinen	Pauliina	Lankinen	Helsingin Sienestäjät	Beginner Women	55	45:40.3	14:30.9	10:13.3	10:22.6	10:33.5		+2:29.1	+5.75%	94.56%	4.06%
+9	363	Nadia Moore	Nadia	Moore	Redmond	Beginner Women	47	46:32.4	14:33.3	10:21.6	10:35.3	11:02.2		+3:21.2	+7.76%	92.79%	2.24%
+10	347	Carrie Morris	Carrie	Morris		Beginner Women	53	46:36.6	14:38.1	10:50.8	10:34.2	10:33.5		+3:25.4	+7.93%	92.66%	2.09%
+11	349	Kathryn Anderson	Kathryn	Anderson	Thrive	Beginner Women	32	47:36.3	15:45.7	10:40.8	10:43.4	10:26.4		+4:25.1	+10.23%	90.72%	0.00%
+12	333	Adrienne Burger	Adrienne	Burger	Egencia	Beginner Women	29	47:47.3	15:10.1	10:54.7	11:00.5	10:42.0		+4:36.1	+10.66%	90.37%	-0.38%
+13	391	Sarah Beth Schooley	Sarah Beth	Schooley	HODALA	Beginner Women	32	48:16.4	14:42.7	10:57.1	11:13.7	11:22.9		+5:05.2	+11.78%	89.46%	-1.40%
+14	192	Tina Summers	Tina	Summers	Team Coastal	Beginner Women	42	48:19.7	14:41.8	11:02.4	11:11.8	11:23.7		+5:08.5	+11.91%	89.36%	-1.52%
+15	354	Julia Swanson	Julia	Swanson		Beginner Women	24	50:32.5	15:46.2	11:12.7	11:42.1	11:51.5		+7:21.3	+17.03%	85.45%	-6.17%
+16	199	Ashley Reade	Ashley	Reade	Clards	Beginner Women	29	50:49.5	16:07.0	11:34.5	11:44.1	11:23.9		+7:38.3	+17.69%	84.97%	-6.76%
+17	342	Kristine Tucker	Kristine	Tucker		Beginner Women	46	51:12.6	15:10.6	12:12.3	11:44.0	12:05.7		+8:01.4	+18.58%	84.33%	-7.57%
+18	353	Raffaela Oeler	Raffaela	Oeler		Beginner Women	32	51:35.5	16:23.4	11:32.1	11:48.4	11:51.6		+8:24.3	+19.46%	83.71%	-8.37%
+19	350	Melody Drew	Melody	Drew		Beginner Women	27	51:47.1	15:45.4	11:42.1	11:45.0	12:34.6		+8:35.9	+19.91%	83.40%	-8.78%
+20	380	Linda Hood	Linda	Hood		Beginner Women	61	53:23.1	16:07.0	12:04.8	12:27.3	12:44.0		+10:11.9	+23.61%	80.90%	-12.14%
+21	357	Olivia King	Olivia	King	Major Taylor	Beginner Women	17	-1 lap	15:20.5	11:05.5	11:22.9	-		-	-	-	-
+22	189	Rachel Osias	Rachel	Osias	Major Taylor Project	Beginner Women	31	-1 lap	16:48.9	12:39.1	12:24.8	-		-	-	-	-
+23	355	Jennifer Byars	Jennifer	Byars	Queens Of Dirt	Beginner Women	33	-1 lap	15:42.5	13:03.0	13:18.4	-		-	-	-	-
+24	1309	Camila Barrero	Camila	Barrero	Team Colombia!	Beginner Women	24	-1 lap	16:41.0	12:39.9	13:13.2	-		-	-	-	-
+25	1311	Amy Burkel	Amy	Burkel		Beginner Women	23	-1 lap	16:35.2	12:57.7	13:35.9	-		-	-	-	-
+26	352	Susan Andrade	Susan	Andrade		Beginner Women	50	-1 lap	17:28.0	13:14.6	13:28.5	-		-	-	-	-
+27	399	Breanne Williamson	Breanne	Williamson	Washington Bikers And Beer Drinkers	Beginner Women	32	-3 laps	18:16.6	-	-	-		-	-	-	-
+-	187	Katie Bouwkamp	Katie	Bouwkamp	GRCC	Beginner Women	32	DNS						-	-	-	-
+-	356	Lul Hussein	Lul	Hussein		Beginner Women	15	DNS						-	-	-	-
+-	372	Susan Walker	Susan	Walker	Broadmark Mt Si Racing	Beginner Women	48	DNS						-	-	-	-
+-	377	Beverly Daab	Beverly	Daab	Low Riders	Beginner Women	38	DNS						-	-	-	-
+-	1310	Abbe Lynch	Abbe	Lynch		Beginner Women	49	DNS						-	-	-	-
+-	13185	Angela Corwin	Angela	Corwin		Beginner Women	28	DNS						-	-	-	-
+																	
+		Cat 1/2 Women 40+															
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Difference	% Back	% Winning	% Average
+1	1451	Julie Robertson Zivin	Julie	Robertson Zivin	CX Northwest	Cat 1/2 Women 40+	48	41:13.9	8:20.1	8:09.5	8:12.4	8:14.9	8:17.0	-	-	100%	5.09%
+2	1480	Jodi Duquette	Jodi	Duquette	Alki Rubicon	Cat 1/2 Women 40+	46	41:28.0	8:21.2	8:09.5	8:11.9	8:36.0	8:09.4	+0:14.1	+0.57%	99.43%	4.55%
+3	1453	Jadine Riley	Jadine	Riley	MDEC Racing	Cat 1/2 Women 40+	43	41:35.6	8:20.5	8:09.4	8:12.8	8:18.9	8:34.0	+0:21.7	+0.88%	99.13%	4.26%
+4	1454	Lisa Coyne	Lisa	Coyne	Team Thrive	Cat 1/2 Women 40+	58	43:12.6	8:28.2	8:35.9	8:59.1	8:38.0	8:31.4	+1:58.7	+4.80%	95.42%	0.54%
+5	1463	Leah Kiviat	Leah	Kiviat	Jack's Queens Of Dirt	Cat 1/2 Women 40+	44	43:27.9	8:38.4	8:44.1	8:44.7	8:47.9	8:32.8	+2:14.0	+5.42%	94.86%	-0.05%
+6	1499	Lora Melkonian	Lora	Melkonian	Mountain View Cycle Racing Team	Cat 1/2 Women 40+	58	45:18.1	9:10.9	9:08.9	9:00.7	8:59.3	8:58.3	+4:04.2	+9.87%	91.02%	-4.28%
+7	1452	Sheryl Johnson	Sheryl	Johnson	Egencia	Cat 1/2 Women 40+	62	47:50.4	9:34.3	9:25.1	9:37.6	9:27.0	9:46.3	+6:36.5	+16.03%	86.19%	-10.12%
+-	1479	Geraldine Vander Haegen	Geraldine	Vander Haegen	Olympia Orthopaedic Associates	Cat 1/2 Women 40+	50	DNS						-	-	-	-
+																	
+		Cat 3 Women															
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Difference	% Back	% Winning	% Average
+1	1970	Rachel Geiter	Rachel	Geiter	RAZZLE DAZZLE RACING	Cat 3 Women	27	43:25.6	9:26.0	8:30.9	8:43.2	8:26.1	8:19.4	-	-	100%	4.93%
+2	1927	Caylen Beaty	Caylen	Beaty	Team Thrive (Kaiser Permanente)	Cat 3 Women	29	43:27.0	9:37.2	8:29.2	8:36.7	8:22.7	8:21.2	+0:01.4	+0.05%	99.95%	4.88%
+3	1921	Mallory Nowels	Mallory	Nowels	Tenspeed Hero	Cat 3 Women	30	43:30.2	9:25.8	8:31.3	8:43.1	8:26.0	8:24.0	+0:04.6	+0.18%	99.82%	4.76%
+4	2000	Liz Nettles	Liz	Nettles	Team Thrive	Cat 3 Women	41	43:30.5	9:26.2	8:31.2	8:43.1	8:26.1	8:23.9	+0:04.9	+0.19%	99.81%	4.75%
+5	1954	Callah Robinson	Callah	Robinson	Rad Racing	Cat 3 Women	13	44:04.3	9:34.6	8:31.2	8:43.0	8:35.3	8:40.3	+0:38.7	+1.49%	98.54%	3.52%
+6	1991	Suzanne Ball	Suzanne	Ball	Seattle	Cat 3 Women	26	44:06.8	9:27.9	8:28.9	8:43.4	8:40.5	8:45.9	+0:41.2	+1.58%	98.44%	3.43%
+7	1929	Cara Machacek	Cara	Machacek	Ride Nomi	Cat 3 Women	33	44:38.0	9:34.3	8:25.7	8:48.5	8:49.3	9:00.3	+1:12.4	+2.78%	97.30%	2.29%
+8	1962	Emily Paxson	Emily	Paxson		Cat 3 Women	26	44:41.7	10:02.1	8:39.0	8:33.0	8:38.2	8:49.5	+1:16.1	+2.92%	97.16%	2.16%
+9	1968	Ashley Beimert	Ashley	Beimert	MILLION	Cat 3 Women	30	45:01.3	9:44.9	8:49.5	8:47.2	8:54.2	8:45.6	+1:35.7	+3.67%	96.46%	1.44%
+10	1931	Bronwynn Garaouy	Bronwynn	Garaouy	Rad Racing	Cat 3 Women	12	45:21.6	9:50.0	8:54.0	8:57.8	9:03.8	8:36.1	+1:56.0	+4.45%	95.74%	0.70%
+11	1961	Kristin Campbell	Kristin	Campbell	Just Giver	Cat 3 Women	43	45:22.4	10:16.1	8:47.0	8:50.7	8:45.7	8:42.9	+1:56.8	+4.48%	95.71%	0.67%
+12	1932	Diane Zaida	Diane	Zaida		Cat 3 Women	30	45:35.2	10:08.0	8:45.3	8:54.5	8:57.6	8:49.8	+2:09.6	+4.97%	95.26%	0.20%
+13	1995	Lori Brazel	Lori	Brazel		Cat 3 Women	55	46:07.9	10:06.7	8:52.1	8:55.5	8:58.7	9:14.8	+2:42.3	+6.23%	94.14%	-0.99%
+14	1930	Megan Northey	Megan	Northey	Nomi	Cat 3 Women	27	46:31.5	10:00.4	8:58.2	9:00.9	9:08.2	9:23.9	+3:05.9	+7.13%	93.34%	-1.85%
+15	1960	Kristine Deibler	Kristine	Deibler	Union Cycling Team	Cat 3 Women	27	46:55.1	10:11.7	8:52.8	9:20.5	9:04.5	9:25.6	+3:29.5	+8.04%	92.56%	-2.71%
+16	1956	Joy Baer	Joy	Baer	Spokeswomen Racing	Cat 3 Women	36	47:41.5	10:07.7	9:18.1	9:29.5	9:31.8	9:14.5	+4:15.9	+9.82%	91.06%	-4.40%
+17	1994	Cassie Leonard	Cassie	Leonard	SOFT LIKE KITTEN	Cat 3 Women	34	49:53.3	10:42.4	9:32.6	9:44.5	10:05.9	9:47.8	+6:27.7	+14.88%	87.05%	-9.21%
+18	1997	Christina Russell	Christina	Russell		Cat 3 Women	30	52:20.2	10:07.4	9:04.7	9:12.5	9:20.4	14:35.2	+8:54.6	+20.52%	82.98%	-14.57%
+19	1951	Amanda Mcnabb	Amanda	Mcnabb	Team Thrive P/B Kaiser Permanente	Cat 3 Women	42	-1 lap	11:59.8	10:54.8	11:05.0	10:56.7	-	-	-	-	-
+20	1969	Carrie Bennette	Carrie	Bennette		Cat 3 Women	33	-4 laps	10:57.6	-	-	-	-	-	-	-	-
+21	1959	Tracey Gramenz	Tracey	Gramenz		Cat 3 Women	36	-4 laps	20:19.1	-	-	-	-	-	-	-	-
+-	-	Andrea Leuschke	Andrea	Leuschke	Black Sheep Velo	Cat 3 Women	46	DNS						-	-	-	-
+-	-	Elizabeth Peterson	Elizabeth	Peterson	Razzle Dazzle	Cat 3 Women	26	DNS						-	-	-	-
+-	700	Jessica Zendler	Jessica	Zendler	Indigeneous Wheel Company Factory Racing	Cat 3 Women	31	DNS						-	-	-	-
+-	1933	Marissa Carr	Marissa	Carr	Tenspeed Hero	Cat 3 Women	27	DNS						-	-	-	-
+-	1952	Juliann Vander Haegen	Juliann	Vander Haegen	Rad Racing NW	Cat 3 Women	15	DNS						-	-	-	-
+-	1953	Brittney Gillespie	Brittney	Gillespie	Gillespie Eye Care	Cat 3 Women	37	DNS						-	-	-	-
+																	
+		Cat 3/4 Women 40+															
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Difference	% Back	% Winning	% Average
+1	2221	Malia Greening	Malia	Greening	Seattle Cancer Care Alliance Cycling	Cat 3/4 Women 40+	42	46:16.2	10:57.2	8:53.1	9:21.3	8:36.3	8:28.3	-	-	100%	4.90%
+2	2244	Tara Mixon	Tara	Mixon	Spokeswomen Racing	Cat 3/4 Women 40+	40	46:25.0	10:43.0	9:12.0	8:57.5	8:52.1	8:40.4	+0:08.8	+0.32%	99.68%	4.60%
+3	1955	Nicole Capizzi	Nicole	Capizzi	Egencia	Cat 3/4 Women 40+	40	47:21.0	11:10.2	9:04.3	9:01.4	9:03.6	9:01.4	+1:04.8	+2.33%	97.72%	2.68%
+4	2203	Olga Magun	Olga	Magun		Cat 3/4 Women 40+	44	47:26.9	11:06.9	9:05.2	9:08.1	9:06.2	9:00.5	+1:10.7	+2.55%	97.52%	2.48%
+5	2227	Jane Matera	Jane	Matera	Alki Rubicon	Cat 3/4 Women 40+	47	47:43.3	11:09.8	9:09.0	9:06.9	9:07.5	9:10.1	+1:27.1	+3.14%	96.96%	1.92%
+6	2142	LINDA NALIS	LINDA	NALIS	Spokeswomen Racing	Cat 3/4 Women 40+	48	48:08.5	11:19.9	9:01.8	9:12.8	9:19.0	9:15.1	+1:52.3	+4.05%	96.11%	1.06%
+7	2143	Karen Steen	Karen	Steen	Olympia Orthropaedic Association	Cat 3/4 Women 40+	53	48:27.4	11:17.5	9:13.2	9:13.1	9:28.9	9:14.8	+2:11.2	+4.73%	95.49%	0.41%
+8	2238	Eva Wong	Eva	Wong	Black Sheep Velo	Cat 3/4 Women 40+	41	48:46.8	11:18.8	9:27.1	9:22.8	9:30.4	9:07.6	+2:30.6	+5.42%	94.85%	-0.26%
+9	2213	Sarah Martin	Sarah	Martin	Olympia Orthopaedic Associates	Cat 3/4 Women 40+	51	49:00.7	11:17.8	9:14.9	9:41.6	9:16.4	9:30.0	+2:44.5	+5.93%	94.41%	-0.73%
+10	2225	Ellsa Kunz	Ellsa	Kunz	Eguncia 	Cat 3/4 Women 40+	45	49:16.4	11:46.8	9:24.8	9:26.0	9:20.0	9:18.9	+3:00.2	+6.49%	93.90%	-1.27%
+11	2209	Kelly McCusker	Kelly	McCusker	T-Wrex	Cat 3/4 Women 40+	40	49:27.8	11:39.4	9:21.8	9:17.0	9:24.2	9:45.3	+3:11.6	+6.90%	93.54%	-1.66%
+12	2230	Tina Rainforth	Tina	Rainforth	Egencia	Cat 3/4 Women 40+	52	49:52.1	11:23.3	9:26.2	9:22.9	9:40.8	9:59.0	+3:35.9	+7.78%	92.78%	-2.49%
+13	2250	Dawn McConaghy	Dawn	McConaghy	Black Sheep Velo	Cat 3/4 Women 40+	43	49:57.8	11:27.3	9:26.8	9:42.7	9:58.5	9:22.6	+3:41.6	+7.98%	92.61%	-2.69%
+14	2202	Kristina Spranger	Kristina	Spranger	Mafia Racing	Cat 3/4 Women 40+	43	50:31.3	11:41.0	9:27.8	9:24.2	9:53.8	10:04.4	+4:15.1	+9.19%	91.58%	-3.84%
+15	2234	Laura Martin	Laura	Martin	Egencia	Cat 3/4 Women 40+	46	51:08.5	11:45.7	9:38.1	9:48.2	9:55.1	10:01.4	+4:52.3	+10.53%	90.47%	-5.11%
+16	2207	Alyson Indrunas	Alyson	Indrunas		Cat 3/4 Women 40+	43	-1 lap	11:41.1	9:51.1	9:55.2	10:03.2	-	-	-	-	-
+17	2217	Kathryn Meckle	Kathryn	Meckle	Pain Cave Productions	Cat 3/4 Women 40+	41	-1 lap	12:11.6	10:01.5	9:40.2	9:48.7	-	-	-	-	-
+18	2233	Faye Christenberry	Faye	Christenberry	Team Thrive	Cat 3/4 Women 40+	54	-1 lap	11:59.8	9:48.0	10:06.7	9:54.5	-	-	-	-	-
+19	2229	Amy Betz	Amy	Betz	Seattle	Cat 3/4 Women 40+	41	-1 lap	12:01.0	10:01.8	10:04.6	9:51.9	-	-	-	-	-
+20	2237	Kristen Crupi	Kristen	Crupi	Black Sheep Velo	Cat 3/4 Women 40+	49	-1 lap	12:04.7	9:55.7	10:03.3	9:56.7	-	-	-	-	-
+21	2232	Sara Rigel	Sara	Rigel	Mafia Racing NW	Cat 3/4 Women 40+	41	-1 lap	12:18.1	10:08.8	10:26.3	10:14.0	-	-	-	-	-
+22	2243	Jen Jerabek	Jen	Jerabek	Alki | Rubicon	Cat 3/4 Women 40+	43	-1 lap	12:15.1	10:20.8	10:35.2	10:36.2	-	-	-	-	-
+23	2226	Jean Fisher	Jean	Fisher	Olympia Orthopaedic Associates	Cat 3/4 Women 40+	57	-1 lap	12:43.6	10:33.1	10:22.8	10:38.3	-	-	-	-	-
+24	2199	Cindy Medlin	Cindy	Medlin		Cat 3/4 Women 40+	57	-1 lap	12:27.6	10:37.3	10:55.7	10:58.6	-	-	-	-	-
+25	2064	Renae Smith	Renae	Smith	Thrive	Cat 3/4 Women 40+	42	-1 lap	13:00.8	11:05.7	10:56.9	10:35.7	-	-	-	-	-
+26	2218	Erin Alving	Erin	Alving		Cat 3/4 Women 40+	52	-1 lap	12:47.4	10:50.6	11:28.1	11:11.6	-	-	-	-	-
+27	2241	SUSAN CLEMENTSON	SUSAN	CLEMENTSON	Fanatik Hot Flashes	Cat 3/4 Women 40+	51	-1 lap	13:20.6	10:55.8	11:19.4	11:44.2	-	-	-	-	-
+28	2239	Anita Lam	Anita	Lam	Dyna Racing	Cat 3/4 Women 40+	43	-1 lap	13:20.0	11:14.6	11:17.9	11:36.5	-	-	-	-	-
+-	2214	Cherish Sutull	Cherish	Sutull		Cat 3/4 Women 40+	44	DNS						-	-	-	-
+-	2228	Wendy Leber	Wendy	Leber	Nemesis	Cat 3/4 Women 40+	44	DNS						-	-	-	-
+																	
+		Cat 4 Women															
+Place	Bib	Name	First name	Last name	Team name	Category	Age	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Difference	% Back	% Winning	% Average
+1	646	Aimee Lees	Aimee	Lees	GSX	Cat 4 Women	36	46:05.1	11:43.2	8:33.3	8:47.0	8:33.3	8:28.3	-	-	100%	6.16%
+2	649	Fiona Bennitt	Fiona	Bennitt		Cat 4 Women	22	46:56.7	12:06.4	8:36.6	8:45.3	8:48.5	8:39.8	+0:51.6	+1.87%	98.17%	4.41%
+3	371	Lois Smith	Lois	Smith	Egencia	Cat 4 Women	27	47:42.6	12:19.4	8:45.9	8:50.1	9:02.2	8:45.0	+1:37.5	+3.53%	96.59%	2.85%
+4	648	Rebecca Book	Rebecca	Book	Seattle	Cat 4 Women	28	48:39.5	12:07.0	8:59.4	9:02.0	9:17.6	9:13.5	+2:34.4	+5.58%	94.71%	0.92%
+5	656	Ruth Rondema	Ruth	Rondema	Indigenous Wheel Co Factory Racing Team	Cat 4 Women	37	49:52.4	12:33.7	9:15.1	9:19.7	9:14.7	9:29.3	+3:47.3	+8.22%	92.40%	-1.56%
+6	681	Addison Leckrone	Addison	Leckrone	OTB	Cat 4 Women	16	49:59.2	12:04.5	9:29.0	9:41.9	9:41.6	9:02.3	+3:54.1	+8.47%	92.19%	-1.79%
+7	674	Rosanne Kelley	Rosanne	Kelley	Wattie Ink.	Cat 4 Women	29	50:11.0	12:36.5	9:12.9	9:24.8	9:30.4	9:26.4	+4:05.9	+8.89%	91.83%	-2.19%
+8	655	Kelsey Cohan	Kelsey	Cohan		Cat 4 Women	26	50:26.7	12:39.9	9:22.3	9:32.5	9:29.3	9:22.6	+4:21.6	+9.46%	91.36%	-2.72%
+9	616	Ashley Moore	Ashley	Moore	Hagens Berman EY Society	Cat 4 Women	28	50:32.5	12:21.3	10:01.4	9:23.1	9:25.5	9:21.2	+4:27.4	+9.67%	91.18%	-2.92%
+10	678	Kiersten George	Kiersten	George	WA Bikers And Beer Drinkers	Cat 4 Women	35	50:39.3	12:49.8	9:10.0	9:24.4	9:39.7	9:35.3	+4:34.2	+9.92%	90.98%	-3.15%
+11	387	Nicole Gunton	Nicole	Gunton	Oregon Trail Syndicate	Cat 4 Women	41	-1 lap	13:13.5	9:22.0	9:28.7	9:20.7	-	-	-	-	-
+12	610	Cooper Smith	Cooper	Smith	Pizza Pals	Cat 4 Women	27	-1 lap	12:34.0	9:36.6	9:52.8	9:43.0	-	-	-	-	-
+13	675	Ella Dorband	Ella	Dorband	Space Cadet P/B Hello Bicycle	Cat 4 Women	32	-1 lap	13:07.1	9:29.9	9:36.2	9:42.7	-	-	-	-	-
+14	666	Nikki Mohrbacher	Nikki	Mohrbacher	Team Thrive P/B Kaiser Permanente	Cat 4 Women	32	-1 lap	13:09.8	9:31.6	9:31.7	9:55.0	-	-	-	-	-
+15	669	Mariko Wei	Mariko	Wei	Egencia	Cat 4 Women	31	-1 lap	13:00.8	9:52.8	9:44.7	9:32.3	-	-	-	-	-
+16	679	Carina Liljengren	Carina	Liljengren	Velofemmes	Cat 4 Women	32	-1 lap	13:01.2	9:44.8	9:51.5	9:34.1	-	-	-	-	-
+17	673	Nicole Denamur	Nicole	Denamur		Cat 4 Women	38	-1 lap	12:33.6	9:55.3	9:55.5	9:53.1	-	-	-	-	-
+18	622	Emily Willobee	Emily	Willobee	Mighty Riders	Cat 4 Women	34	-1 lap	12:54.9	9:53.2	9:48.4	9:56.2	-	-	-	-	-
+19	685	Marisa Chang	Marisa	Chang		Cat 4 Women	30	-1 lap	13:27.5	9:35.5	9:54.7	9:37.3	-	-	-	-	-
+20	606	Wendy Graves	Wendy	Graves		Cat 4 Women	49	-1 lap	13:17.1	9:47.2	9:47.7	9:47.4	-	-	-	-	-
+21	659	Laurie George	Laurie	George	Bicycle Centres	Cat 4 Women	45	-1 lap	13:19.1	9:42.1	9:51.3	9:50.5	-	-	-	-	-
+22	650	Corina Cheever	Corina	Cheever	Queens Of Dirt P/B Jacks	Cat 4 Women	28	-1 lap	13:09.9	9:55.6	9:57.3	9:43.6	-	-	-	-	-
+23	660	Jessie Culbert	Jessie	Culbert	Rapha Cycling Club	Cat 4 Women	32	-1 lap	13:19.2	9:35.9	10:11.9	9:44.7	-	-	-	-	-
+24	337	Carolyn Fealk	Carolyn	Fealk	Team Thrive	Cat 4 Women	32	-1 lap	13:21.0	9:38.5	9:38.8	10:20.0	-	-	-	-	-
+25	358	Megan Krumm	Megan	Krumm		Cat 4 Women	30	-1 lap	13:13.3	9:45.7	10:13.2	9:46.2	-	-	-	-	-
+26	619	Katy Robinson	Katy	Robinson	Pizza Pals	Cat 4 Women	28	-1 lap	13:19.4	9:42.9	10:18.3	9:44.5	-	-	-	-	-
+27	611	Olivia Brown	Olivia	Brown		Cat 4 Women	33	-1 lap	13:20.1	9:54.9	10:02.8	10:05.1	-	-	-	-	-
+28	662	Ashley Thompson	Ashley	Thompson	Pizza Pals	Cat 4 Women	27	-1 lap	13:05.9	9:44.6	10:23.6	10:47.6	-	-	-	-	-
+29	683	Monica Gallagher	Monica	Gallagher	Space Cadet P/B Hello Bicycle	Cat 4 Women	44	-1 lap	13:31.1	10:18.8	10:17.6	10:23.5	-	-	-	-	-
+30	476	Lindsay Ferrer	Lindsay	Ferrer	Seattle	Cat 4 Women	35	-1 lap	13:56.8	10:19.4	10:16.6	10:02.2	-	-	-	-	-
+31	502	Anna Savoie	Anna	Savoie		Cat 4 Women	44	-1 lap	13:28.6	10:12.3	10:32.3	10:42.4	-	-	-	-	-
+32	657	Franny Connolly	Franny	Connolly	Black Sheep Velo	Cat 4 Women	38	-1 lap	13:32.3	10:22.1	10:25.5	10:42.2	-	-	-	-	-
+33	658	Ivy Cheung	Ivy	Cheung	Egencia	Cat 4 Women	45	-1 lap	13:11.4	11:38.5	10:08.5	10:19.9	-	-	-	-	-
+34	647	Kelsie Lengert	Kelsie	Lengert	CCN Bikes	Cat 4 Women	32	-1 lap	13:03.9	10:39.1	11:08.2	10:44.9	-	-	-	-	-
+35	470	Dyan Padagas	Dyan	Padagas	Issaquah	Cat 4 Women	32	-1 lap	13:48.4	10:56.6	10:46.0	11:05.1	-	-	-	-	-
+36	579	Mckenzie Hart	Mckenzie	Hart	Pizza Pals	Cat 4 Women	29	-1 lap	13:34.1	11:01.4	11:02.2	11:14.2	-	-	-	-	-
+37	602	Elizabeth Kady	Elizabeth	Kady	Blacksheep Velo	Cat 4 Women	35	-1 lap	14:40.8	11:20.7	11:30.5	11:26.1	-	-	-	-	-
+38	614	Melissa Johnston	Melissa	Johnston	IWC Factory Team	Cat 4 Women	43	-1 lap	14:34.8	11:31.0	12:03.0	12:06.7	-	-	-	-	-
+39	652	Kelly Zuehlsdorff	Kelly	Zuehlsdorff	Nemesis	Cat 4 Women	35	-1 lap	14:27.9	11:40.3	12:21.9	12:26.1	-	-	-	-	-
+40	615	Karen Bean	Karen	Bean	Mayhem	Cat 4 Women	35	-1 lap	14:57.9	12:28.4	12:11.6	12:14.9	-	-	-	-	-
+41	670	Melody Lupton	Melody	Lupton	CX Northwest	Cat 4 Women	41	-1 lap	15:01.6	12:21.2	13:01.2	12:52.9	-	-	-	-	-
+-	-	Anna Feldman	Anna	Feldman	Seattle	Cat 4 Women	17	DNS						-	-	-	-
+-	475	Jessi Connors	Jessi	Connors		Cat 4 Women	32	DNS						-	-	-	-
+-	477	Heather MacKinnon	Heather	MacKinnon	Pizza Pals / All-City Cycles	Cat 4 Women	30	DNS						-	-	-	-
+-	607	Janie Cowart	Janie	Cowart	Dyna	Cat 4 Women	36	DNS						-	-	-	-
+																	
